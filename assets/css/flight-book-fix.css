@@ -1,0 +1,152 @@
+.tr {
+  display: table-row;
+}
+
+.fix_detail_holder {
+  height: 79px;
+  background: #c51d36;
+  padding:10px 20px;
+  text-align: right;
+}
+
+.fix_detail_holder .text_holder, .fix_detail_holder .btn_holder {
+  height: auto;
+  vertical-align: middle;
+  width: auto;
+  border: none;
+}
+
+.fix_detail_holder .text_holder {
+  margin-right: 5px;
+}
+
+.fix_detail_holder .text_inner_holder {
+  vertical-align: middle;
+}
+
+.fix_detail_holder .btn_book {
+  background: #FFF;
+  vertical-align: middle;
+  height: 40px;
+  width: 100%;
+  border-radius: 4px;
+  -webkit-transition  : all 0.4s ease;
+  -moz-transition   : all 0.4s ease;
+  -ms-transition    : all 0.4s ease;
+  -o-transition   : all 0.4s ease;
+  transition      : all 0.4s ease;
+}
+
+.fix_detail_holder .btn_book p {
+  padding: 0 15px;
+}
+
+.fix_detail_holder .btn_book:hover {
+  background: #FFF;
+}
+
+.fix_detail_holder .btn_book:focus, .fix_detail_holder .btn_book:active, .fix_detail_holder .btn_book:visited {
+  border: 2px solid #C4C4CF;
+  border-style: inset;
+  background: #EEE;
+}
+
+.vertical_row.stoppage:before, .vertical_row.stoppage:after {
+  position: absolute;
+}
+
+.btn_change_flight_holder {
+  float: right;
+  margin-top: 20px;
+}
+
+.btn_flight {
+  font-family: "AvenirNext";
+  font-size: 14px;
+  line-height: 25px;
+  color: #c51d36;
+  background: #FFF;
+  border: 2px solid #c51d36;
+  border-radius: 4px;
+  height: 40px;
+  -webkit-transition  : all 0.4s ease;
+  -moz-transition   : all 0.4s ease;
+  -ms-transition    : all 0.4s ease;
+  -o-transition   : all 0.4s ease;
+  transition      : all 0.4s ease;
+}
+
+.btn_flight:hover {
+  background: #c51d36;
+  color: #FFF;
+  -webkit-box-shadow  : 1px 3px 3px rgba(0, 0, 0, .4);
+  -moz-box-shadow   : 1px 3px 3px rgba(0, 0, 0, .4);
+  -ms-box-shadow    : 1px 3px 3px rgba(0, 0, 0, .4);
+  -o-box-shadow   : 1px 3px 3px rgba(0, 0, 0, .4);
+  box-shadow      : 1px 3px 3px rgba(0, 0, 0, .4);
+}
+
+.btn_flight:focus {
+  outline-color: none;
+}
+
+.btn_flight:active {
+  background: #9d172b;
+  outline-color: none;
+}
+
+.loading_ticket h4 span{
+  font-size: 12px;
+}
+
+.ticket-packet {
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.ticket-packet.head-search {
+  padding: 15px;
+}
+
+.flight_itinerary_holder {
+  border-top-color: transparent;
+}
+
+.title_detail_holder {
+  border-top: 1px solid #FFF;
+}
+
+@media only screen and (max-width: 375px) {
+  .fix_detail_holder h5.fs_14 {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .fix_detail_holder {
+    padding: 20px;
+  }
+
+  .fix_detail_holder {
+    height: auto;
+    text-align: left;
+  }
+
+  .fix_detail_holder .right {
+    text-align: center;
+  }
+
+  .fix_detail_holder .text_holder, .fix_detail_holder .btn_holder,
+  .fix_detail_holder .btn_holder .btn_inner_holder {
+    width: 100%;
+    display: block;
+  }
+
+  .fix_detail_holder .btn_book {
+    margin-top: 15px;
+  }
+
+  .stoppage_flight_holder .ml_5 {
+    margin-left: 0;
+  }
+}

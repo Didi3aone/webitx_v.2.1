@@ -1,0 +1,554 @@
+label {
+  font-weight: normal;
+}
+
+ .form-control + label span {
+    display: block;
+    width: 0px;
+    height: 0px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid #ededed;
+    position: absolute;
+    margin-top: 11px;
+    margin-left: -13px;
+    transform: rotate(45deg);
+} 
+
+span.ib.va_middle {
+  margin-left: -13.5px;
+}
+
+.form_title_holder {
+  padding-bottom: 3px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ededed;
+}
+
+.form-group {
+  width: 49%;
+}
+
+.form-control {
+  height: 50px;
+  border-radius: 2px;
+  box-shadow: none;
+  max-width: 95%;
+  font-family: "AvenirNextRegular";
+  font-size: 14px;
+  line-height: 25px;
+}
+
+.number_country_code {
+  width: 20%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.input_phone_number {
+  width: 70%;
+  display: inline-block;
+  vertical-align: middle;
+  float: right;
+  margin-right: 12.5px;
+}
+
+.traveller_birthday {
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.refund_information .content_inner_holder {
+    margin: 20px 0;
+    border: 1px solid #ededed;
+    padding: 15px;
+}
+
+.refund_information .per_bank_holder {
+  margin-top: 15px;
+}
+
+.refund_information .img_holder {
+  width: 24%;
+}
+
+.refund_information .destination_holder {
+  width: 50%;
+}
+
+.refund_information .refun_status {
+  width: 24%;
+}
+
+.price_details .content_inner_holder {
+  border: 1px solid #ededed;
+    padding: 10px 12px;
+}
+
+.sub_total_holder {
+    border-bottom: 1px solid #ededed;
+    padding-bottom: 8px;
+}
+
+.total_payment_holder {
+    margin-top: 5px;
+}
+
+.identityChecker_holder {
+  margin-top: 5px;
+}
+
+#checkbox_agreement, #identityChecker, .checkbox {
+  opacity: 0;
+  cursor: pointer;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: -4px;
+  margin-top: -1px;
+  z-index: 90;
+}
+
+ #checkbox_agreement + label, #identityChecker + label , .checkbox  + label{
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #cacaca;
+  border-radius: 1px;
+  margin: 0;
+  margin-bottom: -5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#checkbox_agreement + label span:after, #identityChecker + label span:after, .checkbox + label span:after{
+  content: "\2713";
+  display: inline-block;
+  color: #FFF;
+  margin-left: 3px;
+  opacity: 0;
+}
+
+#checkbox_agreement:checked + label, #identityChecker:checked + label, .checkbox:checked + label {
+  border: 1px solid #c61f37;
+  background: #c61f37;
+}
+
+
+
+#checkbox_agreement:checked + label span:after, 
+#identityChecker:checked+ label span:after,
+.checkbox:checked + label span:after  {
+  opacity: 1;
+} 
+
+.btn_continue_payment {
+  height: 40px;
+  width: 147px;
+  background: #c51d36;
+  border: 2px solid #c51d36;
+  border-radius: 4px;
+  float: right;
+  cursor: pointer;
+}
+
+.price_details .left_col {
+    width: 49%;
+    float: left;
+    margin-top: 5px;
+}
+
+.price_details .right_col {
+  width: 30%;
+  float: right;
+    margin-top: 5px;
+}
+
+.flight_inner_holder {
+    border: 1px solid #ededed;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+.flight_row {
+    height: 60px;
+}
+
+.flight_row.bb_gray {
+    border-bottom: 1px solid #c1c1c1;
+    padding-bottom: 8px;
+}
+
+.flight_detail_holder {
+    width: 33.33333333333333%;
+    display: table-cell !important;
+}
+
+.flight_itinerary_holder {
+    /*border: 1px solid #ededed;*/
+}
+
+.title_detail_holder {
+    background: #ededed;
+    height: 35px;
+    display: table;
+    width: 100%;
+    padding-left: 15px;
+}
+
+.title_detail_holder p {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.flight_itinerary_holder .img_holder {
+    width: 100%;
+    padding: 0 12px;
+}
+
+.itinerary_detail {
+  width: 100%;
+  padding: 0 12px;
+}
+
+.itenerary_time {
+  width: 75%;
+}
+
+.itenerary_time .vertical_row {
+  position: absolute;
+    height: 50px;
+    width: 1px;
+    background: #ededed;
+    margin-top: 30px;
+    margin-left: 5.5px;
+}
+
+.itenerary_time i {
+   position: absolute;
+  margin-top: 3px;  
+}
+
+.itenerary_time .wd_half_left {
+  padding-left: 20px;
+  width: 39%;
+}
+
+.itenerary_time .wd_half_right {
+  width: 55%;
+}
+
+.flight_departure, .flight_return {
+  margin-top: 15px;
+}
+
+.facility_holder {
+  width: 25%;
+  float: right;
+}
+
+.facility_holder:before {
+  content: "";
+  width: 1px;
+  height: 100px;
+  display: block;
+  background: #ededed;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: -10px;
+}
+
+.per_facility_holder {
+  height: 44px;
+  margin-top: 15px;
+}
+
+.stoppage_flight_holder {
+  margin: 20px 0;
+}
+
+.vertical_row.stoppage {
+  width: 1px;
+  height: 30px;
+  background: #353636;
+  position: absolute;
+  margin-top: -3px;
+}
+
+.vertical_row.stoppage:before, .vertical_row.stoppage:after {
+  content: "";
+  display: inline-block;
+  width: 9px;
+  height: 1px;
+  border-bottom: 1px solid #000;
+  margin-left: -4.5px;
+}
+
+.vertical_row.stoppage:after {
+  margin-top: 29px;
+}
+
+.flight_price_holder .content_inner_holder {
+  padding: 15px;
+  border: 1px solid #ededed;
+}
+
+.content.bb_gray {
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ededed;
+}
+
+.btn_price_holder {
+  margin-top: 15px;
+}
+
+.btn_price_holder {
+  display: table;
+  width: 100%;
+  text-align: right;
+}
+
+@media only screen and (max-width: 320px) {
+
+  .traveller_birthday {
+    width: 31%;
+  }
+
+  .bottom_btn_holder .wd_half {
+    width: 100%;
+  }
+
+  .btn_continue_payment {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .flight_detail_holder {
+    vertical-align: top;
+    padding-top: 10px;
+  }
+
+  .flight_row .fs_16 {
+    font-size: 12px;
+  }
+
+  .itenerary_time .fs_16 {
+    font-size: 14px;
+  }
+
+  .itenerary_time .fs_14 {
+    font-size: 12px;
+  }
+
+  .per_facility_holder .fs_14 {
+    font-size: 12px;
+  }
+
+  .stoppage_flight_holder p {
+    font-size: 10px !important;
+  }
+
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+
+  .traveller_birthday {
+    width: 31%;
+  }
+
+  .bottom_btn_holder .checkbox_holder .fs_14 {
+    font-size: 10px;
+  }
+
+  .itenerary_time .fs_16 {
+    font-size: 14px;
+  }
+
+  .itenerary_time .fs_14 {
+    font-size: 12px;
+  }
+
+  .per_facility_holder .fs_14 {
+    font-size: 12px;
+  }
+
+}
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+
+  .traveller_birthday {
+    width: 31%;
+  }
+
+  .bottom_btn_holder .checkbox_holder .fs_14 {
+    font-size: 12px;
+  }
+
+  .itenerary_time .fs_16 {
+    font-size: 14px;
+  }
+
+  .itenerary_time .fs_14 {
+    font-size: 12px;
+  }
+
+  .per_facility_holder .fs_14 {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 426px) and (max-width: 767px) {
+
+  .traveller_birthday {
+    width: 32%;
+  }
+
+  .bottom_btn_holder .checkbox_holder .fs_14 {
+    font-size: 12px;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  .form-group {
+    width: 100%;
+  }
+
+  .form-control {
+    max-width: 100%;
+  }
+
+  .input_phone_number {
+    margin-right: 0;
+    width: 75%;
+  }
+
+  span.ib.va_middle {
+      position: absolute;
+      right: 0;
+      margin-right: 15px;
+      margin-top: -15px;
+  }
+
+  .flight_holder {
+    margin-top: 20px;
+  }
+
+
+  .sm_fs_12 {
+    font-size: 12px;
+  }
+
+  .price_details .left_col p.fl_left {
+      width: 90%;
+    float: none;
+    text-align: left;
+    display: inline-block !important;
+      vertical-align: middle;
+      margin: 0;
+  }
+
+  .price_details .left_col p.fl_right {
+    width: 5%;
+    float: none;
+    text-align: right;
+    display: inline-block !important;
+      vertical-align: top;
+  }
+
+  .price_details .right_col {
+    width: 45%;
+  }
+
+  .per_bank_holder .img_holder {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .per_bank_holder .img_holder img {
+    margin: 0 auto;
+  }
+
+  .per_bank_holder .destination_holder {
+    width: 70%;
+
+  }
+
+  .stoppage_flight_holder .pl_20 {
+    padding-left: 10px;
+  }
+
+  .stoppage_flight_holder p {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .sm_fs_12 {
+    font-size: 12px;
+  }
+
+  .form-group {
+    width: 100%;
+  }
+
+  .refund_information .refun_status {
+    width: 23%;
+  }
+
+  .bottom_btn_holder .checkbox_holder .fs_14 {
+    font-size: 10px;
+  }
+
+  .price_details .left_col p.fl_left {
+      width: 90%;
+    float: none;
+    text-align: left;
+    display: inline-block !important;
+      vertical-align: middle;
+      margin: 0;
+  }
+
+  .price_details .left_col p.fl_right {
+    width: 5%;
+    float: none;
+    text-align: right;
+    display: inline-block !important;
+      vertical-align: top;
+  }
+
+  .price_details .right_col {
+    width: 45%;
+  }
+
+  .itenerary_time .fs_16 {
+    font-size: 14px;
+  }
+
+  .itenerary_time .wd_half_left {
+    width: 41%;
+  }
+
+
+  .itenerary_time .wd_half_right p {
+    font-size: 12px;
+  }
+
+  .stoppage_flight_holder .pl_20 {
+    padding-left: 10px;
+  }
+
+  .stoppage_flight_holder .pl_20 .fs_14 {
+    font-size: 12px;
+  }
+
+  .per_facility_holder .fs_14 {
+    font-size: 12px;
+  }
+
+}

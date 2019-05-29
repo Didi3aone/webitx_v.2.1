@@ -1,0 +1,1 @@
+var app = angular.module('FdlApp', ['ngRoute', 'ui.select2', 'ui.utils.masks', 'ui.bootstrap', 'ngMaterial', 'ngMessages', 'ngAutocomplete', 'anguFixedHeaderTable']);

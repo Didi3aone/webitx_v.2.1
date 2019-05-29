@@ -1,0 +1,575 @@
+{
+    "Count": 285,
+    "MaxPage": 12,
+    "MinPrice": 0,
+    "MaxPrice": 0,
+    "Hotels": [
+        {
+            "HotelKey": "k2Xo0Qs8CEaJfqOt01iItQ",
+            "HotelName": "Vio Veteran",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDBDO000318",
+            "StarRating": 2,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "7sdn5U3LQUaiqnGJUhXQpg",
+            "CityName": "Bandung",
+            "Area": "Kb. Pisang",
+            "Location": "NONE",
+            "Latitude": -6.9192724227905273,
+            "Longitude": 107.61504364013672,
+            "Address": "Jl. Veteran No 32",
+            "MapUri": "https://maps.google.com/?cid=4462375758668534537",
+            "Phone": "+62 22 4266100",
+            "Facsimile": "+62 22 4266099",
+            "Email": "veteran@viohotels.com",
+            "Website": "http://topotels.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/17FA823BADCB6C7A_EB08AF5D49CFE596.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 225000,
+            "PricePerNight": 225000,
+            "PricePerRoomNight": 225000,
+            "Facilities": [
+                "PRK",
+                "RST",
+                "RSVC",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06070038",
+                    "RoomKey": "F6D2486BWRX7594270162992CB2",
+                    "RoomHash": "F0577A66",
+                    "RoomName": "COMFORT",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 225000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 225000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 225000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA08060201",
+                    "RoomKey": "F6D2486BWRX133753DB59F4A009",
+                    "RoomHash": "A72FA005",
+                    "RoomName": "COZY",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 225000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 225000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 225000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA08060201",
+                    "RoomKey": "F6D2486BWRX38BEFCCAED8749D6",
+                    "RoomHash": "A72FA005",
+                    "RoomName": "COZY",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 250000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 250000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 250000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06070038",
+                    "RoomKey": "F6D2486BWRXC73148E5ACFC1548",
+                    "RoomHash": "F0577A66",
+                    "RoomName": "COMFORT",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 250000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 250000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 250000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA13033274",
+                    "RoomKey": "F6D2486BWRXD52868EDBF56C2EF",
+                    "RoomHash": "5CC61ACA",
+                    "RoomName": "CLASSY",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 315000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 315000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 315000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA13033274",
+                    "RoomKey": "F6D2486BWRXF04517AC3BEBF989",
+                    "RoomHash": "5CC61ACA",
+                    "RoomName": "CLASSY",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 370000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 370000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 370000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150330550",
+                    "RoomKey": "D5F890DAWRXB7A10CFEBF26CA9E",
+                    "RoomHash": "3AD7F75B",
+                    "RoomName": "Cozy Room Only",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 1075175.51,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 1075175.51,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 1075175.51
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA140371912",
+                    "RoomKey": "D5F890DAWRX6778F90066D77973",
+                    "RoomHash": "AD1F4D2C",
+                    "RoomName": "Cozy Room with Breakfast",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 1075175.51,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 1075175.51,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 1075175.51
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "n4tbbTE0jkGRQ9ywIHQtkg",
+            "HotelName": "Cihampelas Hotel 1",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDBDO000053",
+            "StarRating": 2,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "7sdn5U3LQUaiqnGJUhXQpg",
+            "CityName": "Bandung",
+            "Area": "Cipaganti",
+            "Location": "Cihampelas",
+            "Latitude": -6.8890528678894043,
+            "Longitude": 107.60416412353516,
+            "Address": "Jl. Cihampelas No. 240, Bandung",
+            "MapUri": "https://maps.google.com/?cid=1657762823455834590",
+            "Phone": "+62 22 2033425",
+            "Facsimile": "+62 22 2037281",
+            "Email": "cihampelashotel@gmail.com",
+            "Website": "http://www.cihampelashotel.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/n4tbbTE0jkGRQ9ywIHQtkg/A009F465F9EF6CFC_FBC9C3A629E3E32E.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 230000,
+            "PricePerNight": 230000,
+            "PricePerRoomNight": 230000,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "RSVC",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRXCC93B766422E6B1F",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 230000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 230000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 230000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX45191D3955A5E0D9",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 255000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 255000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 255000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06090300",
+                    "RoomKey": "F6D2486BWRX6A68E65F9EF0E110",
+                    "RoomHash": "5ED02093",
+                    "RoomName": "FAMILY TRIPLE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 330000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 330000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 330000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "rpD293I3S0SMEXwtbJhmPQ",
+            "HotelName": "Cihampelas Hotel 2",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDBDO000054",
+            "StarRating": 3,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "7sdn5U3LQUaiqnGJUhXQpg",
+            "CityName": "Bandung",
+            "Area": "Cipaganti",
+            "Location": "Cihampelas",
+            "Latitude": -6.8900399208068848,
+            "Longitude": 107.60436248779297,
+            "Address": "Jl. Cihampelas No. 222",
+            "MapUri": "https://maps.google.com/?cid=15994143986497209810",
+            "Phone": "+62 22 2043695 / 2035374",
+            "Facsimile": "+62 22 2032998",
+            "Email": "cihampelashotel@gmail.com",
+            "Website": "http://www.cihampelashotel.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/rpD293I3S0SMEXwtbJhmPQ/4DDA0288EDF412C_C88D2E9110802C2B.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 230000,
+            "PricePerNight": 230000,
+            "PricePerRoomNight": 230000,
+            "Facilities": [
+                "LDRY",
+                "RST",
+                "RSVC",
+                "SPA",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRX82A62684F0085FB0",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 230000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 230000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 230000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXF0C2F0AD68E8236D",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 255000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 255000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 255000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06090300",
+                    "RoomKey": "F6D2486BWRXDC69BC6934669662",
+                    "RoomHash": "5ED02093",
+                    "RoomName": "FAMILY TRIPLE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 330000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 330000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 330000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        }
+    ],
+    "AllowIssued": false,
+    "CorrelationId": "CRXGNAE8D642901CC3A9DF9DC7B2",
+    "IsError": false,
+    "Message": "OK",
+    "ErrorCode": null,
+    "Warning": null
+}

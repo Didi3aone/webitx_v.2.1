@@ -1,0 +1,711 @@
+
+
+.btn_holder { margin: 0; }
+
+.filter_holder {
+
+}
+.maskapai{
+  text-transform: capitalize;
+}
+.filter_btn {
+  height: 40px;
+  border: 2px solid #c51d36;
+  border-radius: 2px;
+  display: table;
+  margin: 0 5px;
+  cursor: pointer;
+  -webkit-transition  : all 0.4s ease;
+  -moz-transition   : all 0.4s ease;
+  -ms-transition    : all 0.4s ease;
+  -o-transition   : all 0.4s ease;
+  transition      : all 0.4s ease;
+}
+
+.filter_btn:hover {
+  background: #c51d36;
+}
+
+.filter_btn div {
+  padding: 0 20px;
+}
+
+.filter_btn div:hover {
+  color: #FFF;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.expand-icon{
+  margin-right:15px;
+  margin-top:6px;
+}
+
+.expand-icon:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.per_flight_holder {
+  margin-top: 20px;
+}
+
+.per_flight_inner_holder {
+  /*border: 1px solid #a1a1a1;*/
+  padding: 10px 15px;
+}
+
+.per_flight_inner_holder.hidden {
+    display: none !important;
+}
+
+.flight_row { height: 60px; }
+
+.flight_row.bb_gray {
+  border-bottom: 1px solid #c1c1c1;
+  padding-bottom: 8px;
+}
+
+.flight_detail_holder { 
+  width: 33.33333333333333%;
+  display: table-cell;
+}
+
+.btn_select {
+  height: 40px;
+  width: 78px;
+  background: #c51d36;
+  border: 2px solid #c51d36;
+  border-radius: 2px;
+  margin-left: 5px;
+  -webkit-transition  : all 0.4s ease;
+  -moz-transition   : all 0.4s ease;
+  -ms-transition    : all 0.4s ease;
+  -o-transition   : all 0.4s ease;
+  transition      : all 0.4s ease;
+}
+
+.btn_select:hover {
+  background: transparent;
+}
+
+.btn_select div:hover {
+  color: #c51d36; 
+}
+
+.title_detail_holder {
+  background: #ededed;
+  height: 35px;
+  display: table;
+  width: 100%;
+  padding-left: 15px;
+}
+
+.title_detail_holder p {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.flight_itinerary_holder {
+  padding-bottom: 0px;
+}
+
+.flight_itinerary_holder .img_holder {
+  width: 30%;
+}
+
+.itinerary_detail {
+  width: 69.5%;
+}
+
+.itenerary_time {
+  width: 65%;
+}
+
+.itenerary_time .vertical_row {
+  position: absolute;
+    height: 50px;
+    width: 1px;
+    background: #ededed;
+    margin-top: 30px;
+    margin-left: 5.5px;
+}
+
+.itenerary_time i {
+  position: absolute;
+  margin-top: 3px;  
+}
+
+.itenerary_time .wd_half {
+  padding-left: 20px;
+}
+
+.flight_departure, .flight_return {
+  margin-top: 15px;
+}
+
+.facility_holder {
+  width: 34%;
+}
+
+.facility_holder:before {
+  content: "";
+  width: 1px;
+  height: 100px;
+  display: block;
+  background: #ededed;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: -10px;
+}
+
+.per_facility_holder {
+  height: 44px;
+  margin-top: 15px;
+}
+
+.stoppage_flight_holder {
+  margin: 20px 0;
+}
+
+.vertical_row.stoppage {
+  width: 1px;
+  height: 30px;
+  background: #353636;
+  position: absolute;
+  margin-top: -3px;
+}
+
+.vertical_row.stoppage:before, .vertical_row.stoppage:after {
+  content: "";
+  display: inline-block;
+  width: 9px;
+  height: 1px;
+  border-bottom: 1px solid #000;
+  margin-left: -4.5px;
+}
+
+.vertical_row.stoppage:after {
+  margin-top: 29px;
+}
+
+.flight_price_holder .content_inner_holder {
+  padding: 15px;
+  border: 1px solid #ededed;
+}
+
+.content_inner_holder {
+    border-bottom: 1px solid #ededed;
+    padding-bottom: 8px;
+}
+
+.content.bb_gray {
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ededed;
+}
+
+.btn_price_holder {
+  margin-top: 15px;
+}
+
+.btn_price_holder {
+  display: table;
+  width: 100%;
+  text-align: right;
+}
+
+.capitalize{
+  text-transform: capitalize !important;
+}
+
+/*styling chart slider*/
+
+.calendar_slider,  .calendar_slider2{
+  padding-top: 10px;
+  /*background: #FAFAFA;*/
+  /*border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #ddd;*/
+}
+
+.border_white_radius {
+  /*border-radius: 6px;*/
+  background-color: #fff;
+  /*border: 1px solid #ddd;*/
+}
+
+.month_to_show {
+  padding: 5px 0px;
+}
+
+.per_date_holder {
+  display: inline-block;
+}
+
+.chart_bar {
+  width: 53px;
+  height: 100px;
+  background: #ededed;
+  margin: 0 auto;
+  display: block;
+}
+
+.per_date_holder.date_selected .chart_bar {
+  background: #c51d36;
+}
+
+.arrow_down {
+  width: 0; 
+  height: 0; 
+  border-left: 26px solid transparent;
+  border-right: 26px solid transparent;
+
+  border-top: 10px solid #c51d36;
+  margin: 0 auto;
+  opacity: 0;
+}
+
+.per_date_holder.date_selected .arrow_down {
+  opacity: 1;
+}
+
+.red_circle {
+  width: 12px;
+  height: 12px;
+  border: 2px solid #c6223b;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.per_date_holder.date_selected .red_circle {
+  background: #c6223b;
+}
+
+.arrow_holder {
+  margin-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ededed;
+  margin-bottom: 15px;
+}
+
+.arrow_holder i {
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.slick-slide {
+  height: auto;
+}
+
+/*styling filter section*/
+
+.filter_section {
+  margin-top: 20px;
+  padding: 18px 16px;
+  /*border: 1px solid #ededed;
+  border-radius: 2px;*/
+}
+
+.filter_checkbox {
+  opacity: 0;
+  position: absolute;
+  cursor: pointer;
+  z-index: 99;
+  width: 20px;
+  height: 20px;
+}
+
+.filter_checkbox + label {
+  content: "";
+  display: inline-block;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #cacaca;
+  border-radius: 2px;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.filter_checkbox:checked + label {
+  border: 1px solid #c61f37;
+  background: #c61f37;
+}
+
+.filter_checkbox:checked + label span:after {
+  content: "\2714";
+  color: #FFF;
+  display: inline-block;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: 3px;
+}
+
+/*filter price*/
+
+.filter_section#price_filter_holder {
+  background: #ededed;
+}
+
+.irs-line {
+  height: 2px;
+  background: #FFF;
+  cursor: pointer;
+}
+
+.irs-line-mid, .irs-line-left, .irs-line-right, .irs-bar, .irs-bar-edge, .irs-slider {
+  background: #FFF;
+}
+
+.irs-bar, .irs-bar-edge {
+  height: 2px;
+  background: #c51d36;
+  cursor: pointer;
+}
+
+.irs-min, .irs-max { display: none !important; }
+
+.irs-slider {
+  width: 14px;
+  height: 14px;
+  background: #9c1227;
+  border-radius: 50%;
+  top: 18px;
+  cursor: move; /* fallback if grab cursor is unsupported */
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}
+
+.irs-single {
+  background: #9c1227;
+}
+
+.irs-from:after, .irs-to:after, .irs-single:after {
+  border-top-color: #9c1227;
+}
+
+/*filter transfer*/
+
+.transfer_filter_holder ul {
+  padding: 0;
+  list-style: none;
+  margin-top: 10px;
+}
+
+
+.transfer_filter_holder li p {
+  margin-top: -10px;
+  margin-left: 5px;
+}
+
+/*filter airlines*/
+.airline_filter_holder ul {
+  padding: 0;
+  list-style: none;
+}
+
+.airline_filter_holder li {
+  display: inline-block;
+  width: 19.5%;
+}
+
+.airline_filter_holder ul p {
+  margin-top: 10px;
+}
+
+.airline_filter_holder .filter_checkbox {
+  position: relative;
+  opacity: 0;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 0);
+}
+
+.airline_filter_holder .filter_checkbox + label {
+  position: relative;
+  float: left;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 0);
+}
+
+/*filtering time*/
+.time_filter_holder ul {
+  padding: 0;
+  list-style: none;
+}
+
+.time_filter_holder li {
+  display: inline-block;
+  width: 24.5%;
+}
+
+.time_filter_holder ul p {
+  margin-top: 10px;
+}
+
+.time_filter_holder .filter_checkbox {
+  position: relative;
+  opacity: 0;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 0);
+}
+
+.time_filter_holder .filter_checkbox + label {
+  position: relative;
+  float: left;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 0);
+}
+
+.arrow_price_slider_holder {
+  position: absolute;
+  width: 100%;
+  display: none;
+  transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -o-transition: all s;
+}
+
+.arrow_text {
+  background: #353536;
+  width: 116px;
+  height: 25px;
+  padding-top: 3px;
+}
+
+.triangle_holder {
+  margin-left: -3.8px;
+  margin-top: 1px;
+  z-index: 2;
+}
+
+.arrow-right {
+  width: 0; 
+  height: 0; 
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent; 
+  border-left: 12px solid #353636;
+  z-index: 2;
+}
+
+.hr_holder {
+  color: #f7f7f7;
+  width: 97%;
+  z-index: 1;
+}
+
+.hr_arrow_slider {
+  border-bottom: 1px solid #ededed;
+  width: 100%;
+  height: 25px;
+  margin-bottom: -18px;
+}
+
+@media only screen and (max-width: 320px) {
+
+  .facility_holder {
+    width: 33%;
+  }
+
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+
+}
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+
+}
+
+@media only screen and (min-width: 426px) and (max-width: 767px) {
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  .filter_holder .ib.va_middle {
+    width: 50%;
+    margin-left: -4px;
+    margin-top: 3px;
+  }
+
+  .filter_btn {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .airline_filter_holder li, #time_filter_holder li {
+    width: 33.333333333%;
+    margin-left: -4px;
+    margin-top: 3px;
+  }
+
+  .flight_row .img_holder {
+    width: 30%;
+  }
+
+  /*.per_flight_inner_holder {
+    padding: 10px 5px;
+  }*/
+
+  .price_holder {
+    width: 70%;
+  }
+
+  .price_text_holder p {
+    font-size: 16px;
+  }
+
+  .flight_row.va_middle p.avenir_regular {
+    font-size: 12px;
+  }
+
+
+  .itinerary_time {
+    width: 100%;
+  }
+
+  .itenerary_time .wd_half_left {
+    width: 39%;
+  }
+
+  .flight_departure .wd_half.ib.va_middle, .flight_return .wd_half.ib.va_middle {
+    width: 36%;
+  }
+
+  .itenerary_time p {
+    font-size: 12px;
+  }
+
+  .itenerary_time .wd_half.ib.va_middle {
+    width: 49%;
+    vertical-align: top;
+  }
+
+  .stoppage_flight_holder .pl_20 {
+    padding-left: 10px;
+  }
+
+  .stoppage_flight_holder p {
+    font-size: 12px;
+  }
+
+  .facility_holder {
+    vertical-align: top;
+  }
+
+  .flight_price_holder .wd_half.left {
+    width: 44%;
+  }
+
+  .flight_price_holder .wd_half.right {
+    width: 54%;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .wd_half {
+    width: 49%;
+  }
+
+  .price_details .left_col p.fl_left {
+      width: 90%;
+    float: none;
+    text-align: left;
+    display: inline-block !important;
+      vertical-align: middle;
+      margin: 0;
+  }
+
+  .filter_btn {
+    width: 45%;
+    margin: 0 auto;
+  }
+
+  .transfer_filter_holder .wd_half {
+    vertical-align: top;
+  }
+
+  .transfer_filter_holder li p {
+    font-size: 12px;
+    width: 80%;
+    vertical-align: top;
+    margin-top: 0;
+  }
+
+  .airline_filter_holder li, .time_filter_holder li {
+    width: 33.333333333333%;
+    margin-left: -4px;
+  }
+
+  .per_flight_inner_holder .img_holder {
+    width: 40%;
+  }
+
+  .per_flight_holder .price_holder, .flight_row .price_holder {
+    width: 60%;
+  }
+
+  .per_flight_holder .price_text_holder p.fs_20 {
+    font-size: 14px;
+  }
+
+  .per_flight_holder .price_text_holder p.fs_14 {
+    font-size: 12px;
+  }
+
+
+  .price_details .left_col p.fl_right {
+    width: 5%;
+    float: none;
+    text-align: right;
+    display: inline-block !important;
+      vertical-align: top;
+  }
+
+  .price_details .right_col {
+    width: 45%;
+  }
+
+  .itenerary_time .fs_16 {
+    font-size: 14px;
+  }
+
+  .itenerary_time .wd_half_left {
+    width: 41%;
+  }
+
+  .itenerary_time .wd_half_right {
+    width: 57%;
+    padding-left: 3px;
+  }
+
+  .itenerary_time .wd_half_right p {
+    font-size: 12px;
+  }
+
+  .stoppage_flight_holder .pl_20 {
+    padding-left: 10px;
+  }
+
+  .stoppage_flight_holder .pl_20 .fs_14 {
+    font-size: 12px;
+  }
+
+  .per_facility_holder .fs_14 {
+    font-size: 12px;
+  }
+
+}

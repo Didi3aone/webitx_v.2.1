@@ -1,0 +1,8102 @@
+[
+    {
+        "Code": "AAB",
+        "CityName": "Arrabury",
+        "CountryCode": "AU",
+        "AirportName": "Arrabury",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "AAL",
+        "CityName": "Aalborg",
+        "CountryCode": "DK",
+        "AirportName": "Aalborg",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ABQ",
+        "CityName": "Albuquerque",
+        "CountryCode": "US",
+        "AirportName": "Albuquerque Sunport",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ABU",
+        "CityName": "Atambua",
+        "CountryCode": "ID",
+        "AirportName": "Haliwen Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "ABV",
+        "CityName": "Abuja",
+        "CountryCode": "NG",
+        "AirportName": "Nnamdi Azikiwe",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ABZ",
+        "CityName": "Aberdeen",
+        "CountryCode": "GB",
+        "AirportName": "Aberdeen Dyce",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ACA",
+        "CityName": "Acapulco",
+        "CountryCode": "MX",
+        "AirportName": "General Juan N Alvarez",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ACC",
+        "CityName": "Accra",
+        "CountryCode": "GH",
+        "AirportName": "Kotoka",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ADA",
+        "CityName": "Adana",
+        "CountryCode": "TR",
+        "AirportName": "Adana",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ADB",
+        "CityName": "Äzmir",
+        "CountryCode": "TR",
+        "AirportName": "Adnan Menderes",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ADD",
+        "CityName": "Addis Ababa",
+        "CountryCode": "ET",
+        "AirportName": "Addis Ababa Bole",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ADL",
+        "CityName": "Adelaide",
+        "CountryCode": "AU",
+        "AirportName": "Adelaide International Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ADW",
+        "CityName": "Camp Springs",
+        "CountryCode": "US",
+        "AirportName": "Andrews Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AEG",
+        "CityName": "PADANG SIDEMPUAN",
+        "CountryCode": "ID",
+        "AirportName": "Aek Godang Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "AER",
+        "CityName": "Sochi",
+        "CountryCode": "RU",
+        "AirportName": "Sochi",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AFW",
+        "CityName": "Fort Worth",
+        "CountryCode": "US",
+        "AirportName": "Fort Worth Alliance",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AGP",
+        "CityName": "Malaga",
+        "CountryCode": "ES",
+        "AirportName": "Malaga",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AGS",
+        "CityName": "Augusta",
+        "CountryCode": "US",
+        "AirportName": "Augusta Regional At Bush Field",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AGX",
+        "CityName": "Agatti Island",
+        "CountryCode": "IN",
+        "AirportName": "Agatti Airport",
+        "Locale": 5.5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "AHI",
+        "CityName": "AMAHAI",
+        "CountryCode": "ID",
+        "AirportName": "Amahai Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "AIT",
+        "CityName": "Aitutaki",
+        "CountryCode": "CK",
+        "AirportName": "Aitutaki Airport",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "AKL",
+        "CityName": "Auckland",
+        "CountryCode": "NZ",
+        "AirportName": "Auckland International Airport",
+        "Locale": 12,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ALA",
+        "CityName": "Almaty",
+        "CountryCode": "KZ",
+        "AirportName": "Almaty",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ALC",
+        "CityName": "Alicante",
+        "CountryCode": "ES",
+        "AirportName": "Alicante",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ALG",
+        "CityName": "Algiers",
+        "CountryCode": "DZ",
+        "AirportName": "Houari Boumediene",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ALP",
+        "CityName": "Aleppo",
+        "CountryCode": "SY",
+        "AirportName": "Aleppo",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AMA",
+        "CityName": "Amarillo",
+        "CountryCode": "US",
+        "AirportName": "Rick Husband Amarillo",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AMD",
+        "CityName": "Ahmedabad",
+        "CountryCode": "IN",
+        "AirportName": "Sardar Vallabhbhai Patel International Airport",
+        "Locale": 5.5,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "AMI",
+        "CityName": "MATARAM",
+        "CountryCode": "ID",
+        "AirportName": "Selaparang Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "AMM",
+        "CityName": "Amman",
+        "CountryCode": "JO",
+        "AirportName": "Queen Alia",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AMQ",
+        "CityName": "AMBON",
+        "CountryCode": "ID",
+        "AirportName": "Pattimura Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "AMS",
+        "CityName": "Amsterdam",
+        "CountryCode": "NL",
+        "AirportName": "Amsterdam Schiphol",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ANC",
+        "CityName": "Anchorage",
+        "CountryCode": "US",
+        "AirportName": "Ted Stevens Anchorage",
+        "Locale": -9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AOR",
+        "CityName": "Alor Setar",
+        "CountryCode": "MY",
+        "AirportName": "Sultan Abdul Halim",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "ARD",
+        "CityName": "ALOR",
+        "CountryCode": "ID",
+        "AirportName": "Mali Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "ARN",
+        "CityName": "Stockholm",
+        "CountryCode": "SE",
+        "AirportName": "Stockholm-Arlanda",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ASP",
+        "CityName": "Alice Springs",
+        "CountryCode": "AU",
+        "AirportName": "Alice Springs",
+        "Locale": 9.5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ATH",
+        "CityName": "Athens",
+        "CountryCode": "GR",
+        "AirportName": "Eleftherios Venizelos",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ATL",
+        "CityName": "Atlanta",
+        "CountryCode": "US",
+        "AirportName": "Hartsfield Jackson Atlanta",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ATQ",
+        "CityName": "Amritsar",
+        "CountryCode": "IN",
+        "AirportName": "Amritsar International Airport",
+        "Locale": 5.5,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "AUH",
+        "CityName": "Abu Dhabi",
+        "CountryCode": "AE",
+        "AirportName": "Abu Dhabi",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AUS",
+        "CityName": "Austin",
+        "CountryCode": "US",
+        "AirportName": "Austin Bergstrom",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "AVL",
+        "CityName": "Asheville",
+        "CountryCode": "US",
+        "AirportName": "Asheville Regional",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "AYT",
+        "CityName": "Antalya",
+        "CountryCode": "TR",
+        "AirportName": "Antalya",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BAB",
+        "CityName": "Marysville",
+        "CountryCode": "US",
+        "AirportName": "Beale Air Force Base",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BAD",
+        "CityName": "Bossier City",
+        "CountryCode": "US",
+        "AirportName": "Barksdale Air Force Base",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BAH",
+        "CityName": "Manama",
+        "CountryCode": "BH",
+        "AirportName": "Bahrain",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BCD",
+        "CityName": "Bacolod",
+        "CountryCode": "PH",
+        "AirportName": "Bacolod",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BCN",
+        "CityName": "Barcelona",
+        "CountryCode": "ES",
+        "AirportName": "Barcelona",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BDJ",
+        "CityName": "BANJARMASIN",
+        "CountryCode": "ID",
+        "AirportName": "Syamsudin Noor Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BDL",
+        "CityName": "Hartford",
+        "CountryCode": "US",
+        "AirportName": "Bradley",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BDO",
+        "CityName": "BANDUNG",
+        "CountryCode": "ID",
+        "AirportName": "Husein Sastranegara International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BEG",
+        "CityName": "Belgrade",
+        "CountryCode": "CS",
+        "AirportName": "Belgrade Nikola Tesla",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BEJ",
+        "CityName": "BERAU",
+        "CountryCode": "ID",
+        "AirportName": "Kalimarau-Hero Domestic Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BEL",
+        "CityName": "Belém",
+        "CountryCode": "BR",
+        "AirportName": "Val de Cans",
+        "Locale": -3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BEW",
+        "CityName": "BEIRA",
+        "CountryCode": "MZ",
+        "AirportName": null,
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BEY",
+        "CityName": "Beirut",
+        "CountryCode": "LB",
+        "AirportName": "Beirut Rafic Hariri",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BFI",
+        "CityName": "Seattle",
+        "CountryCode": "US",
+        "AirportName": "Boeing Field King County",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BFL",
+        "CityName": "Bakersfield",
+        "CountryCode": "US",
+        "AirportName": "Meadows Field Airport",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BFS",
+        "CityName": "Belfast",
+        "CountryCode": "GB",
+        "AirportName": "Belfast",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BFV",
+        "CityName": "Buriram",
+        "CountryCode": "TH",
+        "AirportName": "Buriram",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BGO",
+        "CityName": "Bergen",
+        "CountryCode": "NO",
+        "AirportName": "Bergen, Flesland",
+        "Locale": -4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BGR",
+        "CityName": "Bangor",
+        "CountryCode": "US",
+        "AirportName": "Bangor",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BGW",
+        "CityName": "Baghdad",
+        "CountryCode": "IQ",
+        "AirportName": "Baghdad",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BGY",
+        "CityName": "Bergamo",
+        "CountryCode": "IT",
+        "AirportName": "Il Caravaggio",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BHD",
+        "CityName": "Belfast",
+        "CountryCode": "GB",
+        "AirportName": "George Best Belfast City",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BHM",
+        "CityName": "Birmingham",
+        "CountryCode": "US",
+        "AirportName": "Birmingham-Shuttlesworth",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BHX",
+        "CityName": "Birmingham",
+        "CountryCode": "GB",
+        "AirportName": "Birmingham",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BIK",
+        "CityName": "BIAK",
+        "CountryCode": "ID",
+        "AirportName": "Frans Kaisiepo Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BIL",
+        "CityName": "Billings",
+        "CountryCode": "US",
+        "AirportName": "Billings Logan",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BJK",
+        "CityName": "BENJINA",
+        "CountryCode": "ID",
+        "AirportName": "Benjina Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "BJV",
+        "CityName": "Bodrum",
+        "CountryCode": "TR",
+        "AirportName": "Milas Bodrum",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BJW",
+        "CityName": "BAJAWA",
+        "CountryCode": "ID",
+        "AirportName": "Bajawa Soa Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "BKI",
+        "CityName": "KOTA KINABALU",
+        "CountryCode": "MY",
+        "AirportName": "Kota Kinabalu International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BKK",
+        "CityName": "BANGKOK SUVARNABHUMI",
+        "CountryCode": "TH",
+        "AirportName": "Bangkok Suvarnabhumi Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BKS",
+        "CityName": "BENGKULU",
+        "CountryCode": "ID",
+        "AirportName": "Fatmawati Soekarno Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BLL",
+        "CityName": "Billund",
+        "CountryCode": "DK",
+        "AirportName": "Billund",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BLQ",
+        "CityName": "Bologna",
+        "CountryCode": "IT",
+        "AirportName": "Bologna Guglielmo Marconi",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BLR",
+        "CityName": "Bangalore",
+        "CountryCode": "IN",
+        "AirportName": "Bengaluru",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BLV",
+        "CityName": "Belleville",
+        "CountryCode": "US",
+        "AirportName": "Scott AFB/Midamerica",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BMI",
+        "CityName": "Bloomington/Normal",
+        "CountryCode": "US",
+        "AirportName": "Central Illinois Regional at Bloomington-Normal",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BMU",
+        "CityName": "BIMA",
+        "CountryCode": "ID",
+        "AirportName": "Sultan M. Salahuddin Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BMV",
+        "CityName": "Buon Me Thuot",
+        "CountryCode": "VN",
+        "AirportName": "Buon Me Thuot",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BNA",
+        "CityName": "Nashville",
+        "CountryCode": "US",
+        "AirportName": "Nashville",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BNE",
+        "CityName": "Brisbane",
+        "CountryCode": "AU",
+        "AirportName": "Brisbane",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BOD",
+        "CityName": "Bordeaux/Merignac",
+        "CountryCode": "FR",
+        "AirportName": "Bordeaux-Merignac",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BOG",
+        "CityName": "Bogota",
+        "CountryCode": "CO",
+        "AirportName": "El Dorado",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BOH",
+        "CityName": "Bournemouth",
+        "CountryCode": "GB",
+        "AirportName": "Bournemouth",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BOI",
+        "CityName": "Boise",
+        "CountryCode": "US",
+        "AirportName": "Boise Air Terminal/Gowen field",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BOJ",
+        "CityName": "Burgas",
+        "CountryCode": "BG",
+        "AirportName": "Burgas",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BOM",
+        "CityName": "Mumbai",
+        "CountryCode": "IN",
+        "AirportName": "Chhatrapati Shivaji International Airport",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BOO",
+        "CityName": "Bodø",
+        "CountryCode": "NO",
+        "AirportName": "Bodø",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BOS",
+        "CityName": "Boston",
+        "CountryCode": "US",
+        "AirportName": "General Edward Lawrence Logan",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BPN",
+        "CityName": "BALIKPAPAN",
+        "CountryCode": "ID",
+        "AirportName": "Sepingan Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BRE",
+        "CityName": "Bremen",
+        "CountryCode": "DE",
+        "AirportName": "Bremen",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BRI",
+        "CityName": "Bari",
+        "CountryCode": "IT",
+        "AirportName": "Bari Karol Wojtyla",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BRS",
+        "CityName": "Bristol",
+        "CountryCode": "GB",
+        "AirportName": "Bristol",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BRU",
+        "CityName": "Brussels",
+        "CountryCode": "BE",
+        "AirportName": "Brussels",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BSB",
+        "CityName": "Brasilia",
+        "CountryCode": "BR",
+        "AirportName": "Presidente Juscelino Kubistschek",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BSL",
+        "CityName": "Basel",
+        "CountryCode": "FR",
+        "AirportName": "EuroAirport Basel-Mulhouse-Freiburg",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BSR",
+        "CityName": "Basrah",
+        "CountryCode": "IQ",
+        "AirportName": "Basrah",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BTH",
+        "CityName": "BATAM",
+        "CountryCode": "ID",
+        "AirportName": "Hang Nadim Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BTJ",
+        "CityName": "BANDA ACEH",
+        "CountryCode": "ID",
+        "AirportName": "Sultan Iskandar Muda Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BTR",
+        "CityName": "Baton Rouge",
+        "CountryCode": "US",
+        "AirportName": "Baton Rouge Metropolitan, Ryan Field",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BTS",
+        "CityName": "Bratislava",
+        "CountryCode": "SK",
+        "AirportName": "Bratislava",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BTW",
+        "CityName": "Batu Licin",
+        "CountryCode": "ID",
+        "AirportName": "Batu Licin",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "BUD",
+        "CityName": "Budapest",
+        "CountryCode": "HU",
+        "AirportName": "Budapest Ferenc Liszt",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BUF",
+        "CityName": "Buffalo",
+        "CountryCode": "US",
+        "AirportName": "Buffalo Niagara",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BUW",
+        "CityName": "BAUBAU",
+        "CountryCode": "ID",
+        "AirportName": "Betoambari Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "BWI",
+        "CityName": "Baltimore",
+        "CountryCode": "US",
+        "AirportName": "Baltimore/Washington Thurgood Marshall",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BWN",
+        "CityName": "Bandar Seri Begawan",
+        "CountryCode": "BN",
+        "AirportName": "Brunei",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BWU",
+        "CityName": "Bankstown",
+        "CountryCode": "AU",
+        "AirportName": "Bankstown",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BWX",
+        "CityName": "Banyuwangi",
+        "CountryCode": "ID",
+        "AirportName": "Blimbingsari Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BXJ",
+        "CityName": "Almaty",
+        "CountryCode": "KZ",
+        "AirportName": "Del Bajío International Airport",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "BXT",
+        "CityName": "BONTANG",
+        "CountryCode": "ID",
+        "AirportName": "Bontang Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "BXU",
+        "CityName": "Butuan",
+        "CountryCode": "PH",
+        "AirportName": "Butuan",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "BZE",
+        "CityName": "Belize City",
+        "CountryCode": "BZ",
+        "AirportName": "Philip S. W. Goldson",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "BZZ",
+        "CityName": "Brize Norton",
+        "CountryCode": "GB",
+        "AirportName": "RAF Brize Norton",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CAE",
+        "CityName": "Columbia",
+        "CountryCode": "US",
+        "AirportName": "Columbia Metropolitan",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CAG",
+        "CityName": "Cagliari",
+        "CountryCode": "IT",
+        "AirportName": "Cagliari Elmas",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CAH",
+        "CityName": "Ca Mau",
+        "CountryCode": "VN",
+        "AirportName": "Ca Mau",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "CAI",
+        "CityName": "Cairo",
+        "CountryCode": "EG",
+        "AirportName": "Cairo",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CAN",
+        "CityName": "Guangzhou",
+        "CountryCode": "CN",
+        "AirportName": "Guangzhou Baiyun",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CBM",
+        "CityName": "Columbus",
+        "CountryCode": "US",
+        "AirportName": "Columbus Air Force Base",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CBN",
+        "CityName": "CIREBON",
+        "CountryCode": "ID",
+        "AirportName": "Cakrabhuwana Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "CBO",
+        "CityName": "Cotabato",
+        "CountryCode": "PH",
+        "AirportName": "Cotabato",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CBR",
+        "CityName": "Canberra",
+        "CountryCode": "AU",
+        "AirportName": "Canberra",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CCJ",
+        "CityName": "Calicut",
+        "CountryCode": "IN",
+        "AirportName": "Calicut",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CCK",
+        "CityName": "Cocos (Keeling)",
+        "CountryCode": "AU",
+        "AirportName": "Cocos (Keeling)",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "CCU",
+        "CityName": "Kolkata",
+        "CountryCode": "IN",
+        "AirportName": "Netaji Subhash Chandra Bose",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CDG",
+        "CityName": "Paris",
+        "CountryCode": "FR",
+        "AirportName": "Charles de Gaulle",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CEB",
+        "CityName": "Lapu-Lapu City",
+        "CountryCode": "PH",
+        "AirportName": "Mactan Cebu",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CEI",
+        "CityName": "Chiang Rai",
+        "CountryCode": "TH",
+        "AirportName": "Mae Fah Luang-Chiang Rai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "CGH",
+        "CityName": "São Paulo",
+        "CountryCode": "BR",
+        "AirportName": "Congonhas",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CGK",
+        "CityName": "JAKARTA",
+        "CountryCode": "ID",
+        "AirportName": "Soekarno Hatta",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CGM",
+        "CityName": "Camiguin",
+        "CountryCode": "PH",
+        "AirportName": "Camiguin",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CGN",
+        "CityName": "Cologne",
+        "CountryCode": "DE",
+        "AirportName": "Cologne Bonn",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CGO",
+        "CityName": "Zhengzhou",
+        "CountryCode": "CN",
+        "AirportName": "Zhengzhou Xinzheng",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CGP",
+        "CityName": "Chittagong",
+        "CountryCode": "BD",
+        "AirportName": "Chittagong",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "CGY",
+        "CityName": "Cagayan de Oro City",
+        "CountryCode": "PH",
+        "AirportName": "Laguindingan",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CHA",
+        "CityName": "Chattanooga",
+        "CountryCode": "US",
+        "AirportName": "Lovell Field",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CHC",
+        "CityName": "Christchurch",
+        "CountryCode": "NZ",
+        "AirportName": "Christchurch International Airport",
+        "Locale": 12,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CHS",
+        "CityName": "Charleston",
+        "CountryCode": "US",
+        "AirportName": "Charleston Air Force Base-International",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CIA",
+        "CityName": "Roma",
+        "CountryCode": "IT",
+        "AirportName": "Ciampino-G. B. Pastine",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CID",
+        "CityName": "Cedar Rapids",
+        "CountryCode": "US",
+        "AirportName": "The Eastern Iowa",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CJJ",
+        "CityName": "Cheongju",
+        "CountryCode": "KR",
+        "AirportName": "Cheongju",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CJM",
+        "CityName": "Chumphon",
+        "CountryCode": "TH",
+        "AirportName": "Chumphon",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "CJU",
+        "CityName": "Jeju City",
+        "CountryCode": "KR",
+        "AirportName": "Jeju",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CKG",
+        "CityName": "Chongqing",
+        "CountryCode": "CN",
+        "AirportName": "Chongqing Jiangbei",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CKL",
+        "CityName": "Moscow",
+        "CountryCode": "RU",
+        "AirportName": "Chkalovskiy",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CKY",
+        "CityName": "Conakry",
+        "CountryCode": "GN",
+        "AirportName": "Conakry",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "CLE",
+        "CityName": "Cleveland",
+        "CountryCode": "US",
+        "AirportName": "Cleveland Hopkins",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CLT",
+        "CityName": "Charlotte",
+        "CountryCode": "US",
+        "AirportName": "Charlotte Douglas",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CMB",
+        "CityName": "Colombo",
+        "CountryCode": "LK",
+        "AirportName": "Colombo",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CMH",
+        "CityName": "Columbus",
+        "CountryCode": "US",
+        "AirportName": "Port Columbus",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CMN",
+        "CityName": "Casablanca",
+        "CountryCode": "MA",
+        "AirportName": "Mohammed V",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CNF",
+        "CityName": "Belo Horizonte",
+        "CountryCode": "BR",
+        "AirportName": "Tancredo Neves",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CNS",
+        "CityName": "Cairns",
+        "CountryCode": "AU",
+        "AirportName": "Cairns",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "CNX",
+        "CityName": "Chiang Mai",
+        "CountryCode": "TH",
+        "AirportName": "Chiang Mai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "COK",
+        "CityName": "Kochi",
+        "CountryCode": "IN",
+        "AirportName": "Cochin International Airport",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "COS",
+        "CityName": "Colorado Springs",
+        "CountryCode": "US",
+        "AirportName": "City of Colorado Springs Municipal",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CPH",
+        "CityName": "Copenhagen",
+        "CountryCode": "DK",
+        "AirportName": "Copenhagen Kastrup",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CPR",
+        "CityName": "Casper",
+        "CountryCode": "US",
+        "AirportName": "Casper-Natrona County",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CPT",
+        "CityName": "Cape Town",
+        "CountryCode": "ZA",
+        "AirportName": "Cape Town",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CRK",
+        "CityName": "Angeles City",
+        "CountryCode": "PH",
+        "AirportName": "Clark",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CRL",
+        "CityName": "Brussels",
+        "CountryCode": "BE",
+        "AirportName": "Brussels South Charleroi",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CRP",
+        "CityName": "Corpus Christi",
+        "CountryCode": "US",
+        "AirportName": "Corpus Christi",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CRW",
+        "CityName": "Charleston",
+        "CountryCode": "US",
+        "AirportName": "Yeager",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CSX",
+        "CityName": "Changsha",
+        "CountryCode": "CN",
+        "AirportName": "Changsha Huanghua",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CTA",
+        "CityName": "Catania",
+        "CountryCode": "IT",
+        "AirportName": "Catania-Fontanarossa",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CTS",
+        "CityName": "Chitose / Tomakomai",
+        "CountryCode": "JP",
+        "AirportName": "New Chitose",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CTU",
+        "CityName": "Chengdu",
+        "CountryCode": "CN",
+        "AirportName": "Chengdu Shuangliu",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CUF",
+        "CityName": "Cuneo",
+        "CountryCode": "IT",
+        "AirportName": "Cuneo",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CUN",
+        "CityName": "Cancún",
+        "CountryCode": "MX",
+        "AirportName": "Cancún",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CUZ",
+        "CityName": "Cusco",
+        "CountryCode": "PE",
+        "AirportName": "Alejandro Velasco Astete",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CVG",
+        "CityName": "Cincinnati",
+        "CountryCode": "US",
+        "AirportName": "Cincinnati Northern Kentucky",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CVS",
+        "CityName": "Clovis",
+        "CountryCode": "US",
+        "AirportName": "Cannon Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CWB",
+        "CityName": "Curitiba",
+        "CountryCode": "BR",
+        "AirportName": "Afonso Pena",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CWL",
+        "CityName": "Cardiff",
+        "CountryCode": "GB",
+        "AirportName": "Cardiff",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CXP",
+        "CityName": "CILACAP",
+        "CountryCode": "ID",
+        "AirportName": "Tunggul Wulung Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "CXR",
+        "CityName": "Cam Ranh",
+        "CountryCode": "VN",
+        "AirportName": "Cam Ranh International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "CYP",
+        "CityName": "Calbayog",
+        "CountryCode": "PH",
+        "AirportName": "Calbayog",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "CYZ",
+        "CityName": "Cauayan",
+        "CountryCode": "PH",
+        "AirportName": "Cauayan",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DAC",
+        "CityName": "Dhaka",
+        "CountryCode": "BD",
+        "AirportName": "Hazrat Shahjalal International Airport",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "DAD",
+        "CityName": "Da Nang",
+        "CountryCode": "VN",
+        "AirportName": "Da Nang",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DAL",
+        "CityName": "Dallas",
+        "CountryCode": "US",
+        "AirportName": "Dallas Love Field",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DAM",
+        "CityName": "Damascus",
+        "CountryCode": "SY",
+        "AirportName": "Damascus",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DAY",
+        "CityName": "Dayton",
+        "CountryCode": "US",
+        "AirportName": "James M Cox Dayton",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DBQ",
+        "CityName": "Dubuque",
+        "CountryCode": "US",
+        "AirportName": "Dubuque Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DCA",
+        "CityName": "Washington",
+        "CountryCode": "US",
+        "AirportName": "Ronald Reagan Washington National",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DEL",
+        "CityName": "New Delhi",
+        "CountryCode": "IN",
+        "AirportName": "Indira Gandhi",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DEN",
+        "CityName": "Denver",
+        "CountryCode": "US",
+        "AirportName": "Denver",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DEX",
+        "CityName": "Dekai",
+        "CountryCode": "ID",
+        "AirportName": "Nop Goliat Dekai Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "DFW",
+        "CityName": "Dallas-Fort Worth",
+        "CountryCode": "US",
+        "AirportName": "Dallas Fort Worth",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DGT",
+        "CityName": "Dumaguete",
+        "CountryCode": "PH",
+        "AirportName": "Dumaguete",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DHA",
+        "CityName": "Dhahran",
+        "CountryCode": "SA",
+        "AirportName": "King Abdulaziz Air Base",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DIL",
+        "CityName": "TIMOR LESTE",
+        "CountryCode": "TL",
+        "AirportName": "Presidente Nicolau Lobato International Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DIN",
+        "CityName": "Dien Bien Phu",
+        "CountryCode": "VN",
+        "AirportName": "Dien Bien Phu",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "DJB",
+        "CityName": "JAMBI",
+        "CountryCode": "ID",
+        "AirportName": "Sultan Taha Syarifudn Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "DJJ",
+        "CityName": "JAYAPURA",
+        "CountryCode": "ID",
+        "AirportName": "Sentani Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "DKR",
+        "CityName": "Dakar",
+        "CountryCode": "SN",
+        "AirportName": "Léopold Sédar Senghor",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DLC",
+        "CityName": "Dalian",
+        "CountryCode": "CN",
+        "AirportName": "Zhoushuizi",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DLF",
+        "CityName": "Del Rio",
+        "CountryCode": "US",
+        "AirportName": "Laughlin Air Force Base",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DLH",
+        "CityName": "Duluth",
+        "CountryCode": "US",
+        "AirportName": "Duluth",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DLI",
+        "CityName": "Lien Khuong",
+        "CountryCode": "VN",
+        "AirportName": "Lien Khuong",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "DLM",
+        "CityName": "Dalaman",
+        "CountryCode": "TR",
+        "AirportName": "Dalaman",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DME",
+        "CityName": "Moscow",
+        "CountryCode": "RU",
+        "AirportName": "Domodedovo",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DMK",
+        "CityName": "Bangkok Donmueang",
+        "CountryCode": "TH",
+        "AirportName": "Don Mueang",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DMM",
+        "CityName": "Ad Dammam",
+        "CountryCode": "SA",
+        "AirportName": "King Fahd",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DOB",
+        "CityName": "DOBO",
+        "CountryCode": "ID",
+        "AirportName": "Rar Gwamar Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "DOH",
+        "CityName": "Doha",
+        "CountryCode": "QA",
+        "AirportName": "Hamad",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DOK",
+        "CityName": "Donetsk",
+        "CountryCode": "UA",
+        "AirportName": "Donetsk",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DOV",
+        "CityName": "Dover",
+        "CountryCode": "US",
+        "AirportName": "Dover Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DPL",
+        "CityName": "Dipolog",
+        "CountryCode": "PH",
+        "AirportName": "Dipolog",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DPS",
+        "CityName": "DENPASAR",
+        "CountryCode": "ID",
+        "AirportName": "Ngurah Rai (Bali)",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DRS",
+        "CityName": "Dresden",
+        "CountryCode": "DE",
+        "AirportName": "Dresden",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DRW",
+        "CityName": "Darwin",
+        "CountryCode": "AU",
+        "AirportName": "Darwin International Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DSA",
+        "CityName": "Doncaster",
+        "CountryCode": "GB",
+        "AirportName": "Robin Hood Doncaster Sheffield",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DSM",
+        "CityName": "Des Moines",
+        "CountryCode": "US",
+        "AirportName": "Des Moines",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DTB",
+        "CityName": "SILANGIT",
+        "CountryCode": "ID",
+        "AirportName": "Silangit Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "DTD",
+        "CityName": "DATADAWAI",
+        "CountryCode": "ID",
+        "AirportName": "Datadawai Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "DTM",
+        "CityName": "Dortmund",
+        "CountryCode": "DE",
+        "AirportName": "Dortmund",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DTW",
+        "CityName": "Detroit",
+        "CountryCode": "US",
+        "AirportName": "Detroit Metropolitan Wayne County",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DUB",
+        "CityName": "Dublin",
+        "CountryCode": "IE",
+        "AirportName": "Dublin",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DUM",
+        "CityName": "dumai",
+        "CountryCode": "ID",
+        "AirportName": "dumai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "DUR",
+        "CityName": "Durban",
+        "CountryCode": "ZA",
+        "AirportName": "King Shaka",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DUS",
+        "CityName": "Düsseldorf",
+        "CountryCode": "DE",
+        "AirportName": "Düsseldorf",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DVO",
+        "CityName": "Davao City",
+        "CountryCode": "PH",
+        "AirportName": "Francisco Bangoy",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DWC",
+        "CityName": "Jebel Ali",
+        "CountryCode": "AE",
+        "AirportName": "Al Maktoum",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "DXB",
+        "CityName": "Dubai",
+        "CountryCode": "AE",
+        "AirportName": "Dubai",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "DYS",
+        "CityName": "Abilene",
+        "CountryCode": "US",
+        "AirportName": "Dyess Air Force Base",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EDI",
+        "CityName": "Edinburgh",
+        "CountryCode": "GB",
+        "AirportName": "Edinburgh",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EIN",
+        "CityName": "Eindhoven",
+        "CountryCode": "NL",
+        "AirportName": "Eindhoven",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EMA",
+        "CityName": "Nottingham",
+        "CountryCode": "GB",
+        "AirportName": "East Midlands",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "END",
+        "CityName": "Enid",
+        "CountryCode": "US",
+        "AirportName": "Vance Air Force Base",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ENE",
+        "CityName": "ENDE",
+        "CountryCode": "ID",
+        "AirportName": "H.Hasan Aroeboesman Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "ERI",
+        "CityName": "Erie",
+        "CountryCode": "US",
+        "AirportName": "Erie Tom Ridge Field",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ERZ",
+        "CityName": "Erzurum",
+        "CountryCode": "TR",
+        "AirportName": "Erzurum",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ESB",
+        "CityName": "Ankara",
+        "CountryCode": "TR",
+        "AirportName": "Esenboga",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EVN",
+        "CityName": "Yerevan",
+        "CountryCode": "AM",
+        "AirportName": "Zvartnots",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EWR",
+        "CityName": "Newark",
+        "CountryCode": "US",
+        "AirportName": "Newark Liberty",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EXT",
+        "CityName": "Exeter",
+        "CountryCode": "GB",
+        "AirportName": "Exeter",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "EZE",
+        "CityName": "Buenos Aires",
+        "CountryCode": "AR",
+        "AirportName": "Ministro Pistarini",
+        "Locale": -3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FAI",
+        "CityName": "Fairbanks",
+        "CountryCode": "US",
+        "AirportName": "Fairbanks",
+        "Locale": -9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FAO",
+        "CityName": "Faro",
+        "CountryCode": "PT",
+        "AirportName": "Faro",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FCO",
+        "CityName": "Rome",
+        "CountryCode": "IT",
+        "AirportName": "Leonardo da Vinci-Fiumicino",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FFD",
+        "CityName": "Fairford",
+        "CountryCode": "GB",
+        "AirportName": "RAF Fairford",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FFO",
+        "CityName": "Dayton",
+        "CountryCode": "US",
+        "AirportName": "Wright-Patterson Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FKB",
+        "CityName": "Baden-Baden",
+        "CountryCode": "DE",
+        "AirportName": "Karlsruhe Baden-Baden",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FKQ",
+        "CityName": "FAKFAK",
+        "CountryCode": "ID",
+        "AirportName": "Torea Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "FLL",
+        "CityName": "Fort Lauderdale",
+        "CountryCode": "US",
+        "AirportName": "Fort Lauderdale Hollywood",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FLN",
+        "CityName": "Florianópolis",
+        "CountryCode": "BR",
+        "AirportName": "Hercílio  Luz",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FLZ",
+        "CityName": "SIBOLGA",
+        "CountryCode": "ID",
+        "AirportName": "Ferdinand Lumban Tobing",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "FMO",
+        "CityName": "Münster",
+        "CountryCode": "DE",
+        "AirportName": "Münster Osnabrück",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FOC",
+        "CityName": "Fuzhou",
+        "CountryCode": "CN",
+        "AirportName": "Fuzhou Changle",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FOO",
+        "CityName": "Numfoor",
+        "CountryCode": "ID",
+        "AirportName": "Numfoor Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "FRA",
+        "CityName": "Frankfurt-am-Main",
+        "CountryCode": "DE",
+        "AirportName": "Frankfurt am Main",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FRU",
+        "CityName": "Bishkek",
+        "CountryCode": "KG",
+        "AirportName": "Manas",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FSM",
+        "CityName": "Fort Smith",
+        "CountryCode": "US",
+        "AirportName": "Fort Smith Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FSZ",
+        "CityName": "Makinohara / Shimada",
+        "CountryCode": "JP",
+        "AirportName": "Mt. Fuji Shizuoka",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "FUK",
+        "CityName": "Fukuoka",
+        "CountryCode": "JP",
+        "AirportName": "Fukuoka",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "FWA",
+        "CityName": "Fort Wayne",
+        "CountryCode": "US",
+        "AirportName": "Fort Wayne",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GCM",
+        "CityName": "Georgetown",
+        "CountryCode": "KY",
+        "AirportName": "Owen Roberts",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GDL",
+        "CityName": "Guadalajara",
+        "CountryCode": "MX",
+        "AirportName": "Don Miguel Hidalgo Y Costilla",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GDN",
+        "CityName": "Gdansk",
+        "CountryCode": "PL",
+        "AirportName": "Gdansk Lech Walesa",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GEG",
+        "CityName": "Spokane",
+        "CountryCode": "US",
+        "AirportName": "Spokane",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GES",
+        "CityName": "General Santos",
+        "CountryCode": "PH",
+        "AirportName": "General Santos",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "GIG",
+        "CityName": "Rio De Janeiro",
+        "CountryCode": "BR",
+        "AirportName": "Rio de Janeiro–Galeão",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GLA",
+        "CityName": "Glasgow",
+        "CountryCode": "GB",
+        "AirportName": "Glasgow",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GLX",
+        "CityName": "GALELA",
+        "CountryCode": "ID",
+        "AirportName": "Gamar Malamo Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "GMP",
+        "CityName": "Seoul",
+        "CountryCode": "KR",
+        "AirportName": "Gimpo",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GNS",
+        "CityName": "GUNUNG SITOLI",
+        "CountryCode": "ID",
+        "AirportName": "Binaka Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "GOA",
+        "CityName": "Genova",
+        "CountryCode": "IT",
+        "AirportName": "Genoa Cristoforo Colombo",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "GOI",
+        "CityName": "Vasco da Gama",
+        "CountryCode": "IN",
+        "AirportName": "Dabolim",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "GOT",
+        "CityName": "Gothenburg",
+        "CountryCode": "SE",
+        "AirportName": "Gothenburg-Landvetter",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GPT",
+        "CityName": "Gulfport",
+        "CountryCode": "US",
+        "AirportName": "Gulfport Biloxi",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GRB",
+        "CityName": "Green Bay",
+        "CountryCode": "US",
+        "AirportName": "Austin Straubel",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GRJ",
+        "CityName": "George",
+        "CountryCode": "ZA",
+        "AirportName": "George",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GRU",
+        "CityName": "São Paulo",
+        "CountryCode": "BR",
+        "AirportName": "São Paulo–Guarulhos",
+        "Locale": -2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GRV",
+        "CityName": "Grozny",
+        "CountryCode": "RU",
+        "AirportName": "Grozny North",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GSB",
+        "CityName": "Goldsboro",
+        "CountryCode": "US",
+        "AirportName": "Seymour Johnson Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GSO",
+        "CityName": "Greensboro",
+        "CountryCode": "US",
+        "AirportName": "Piedmont Triad",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GSP",
+        "CityName": "Greenville",
+        "CountryCode": "US",
+        "AirportName": "Greenville Spartanburg",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GTO",
+        "CityName": "GORONTALO",
+        "CountryCode": "ID",
+        "AirportName": "Djalaluddin Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "GUM",
+        "CityName": "Guam",
+        "CountryCode": "GU",
+        "AirportName": "Antonio B. Won Pat",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "GUS",
+        "CityName": "Peru",
+        "CountryCode": "US",
+        "AirportName": "Grissom Air Reserve Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GVA",
+        "CityName": "Geneva",
+        "CountryCode": "CH",
+        "AirportName": "Geneva Cointrin",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "GYD",
+        "CityName": "Baku",
+        "CountryCode": "ID",
+        "AirportName": "Heydar Aliyev",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "GYL",
+        "CityName": "Argyle",
+        "CountryCode": "AU",
+        "AirportName": "Argyle",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "GZT",
+        "CityName": "Gaziantep",
+        "CountryCode": "TR",
+        "AirportName": "Gaziantep",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HAJ",
+        "CityName": "Hannover",
+        "CountryCode": "DE",
+        "AirportName": "Hannover",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HAK",
+        "CityName": "Haikou",
+        "CountryCode": "CN",
+        "AirportName": "Haikou Meilan International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HAM",
+        "CityName": "Hamburg",
+        "CountryCode": "DE",
+        "AirportName": "Hamburg",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HAN",
+        "CityName": "Hanoi",
+        "CountryCode": "VN",
+        "AirportName": "Noi Bai International",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HAV",
+        "CityName": "Havana",
+        "CountryCode": "CU",
+        "AirportName": "José Martí",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HBA",
+        "CityName": "Hobart",
+        "CountryCode": "AU",
+        "AirportName": "Hobart International Airport",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HDY",
+        "CityName": "Hat Yai",
+        "CountryCode": "TH",
+        "AirportName": "Hat Yai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "HEL",
+        "CityName": "Helsinki",
+        "CountryCode": "FI",
+        "AirportName": "Helsinki Vantaa",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HER",
+        "CityName": "Heraklion",
+        "CountryCode": "GR",
+        "AirportName": "Heraklion Nikos Kazantzakis",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HFE",
+        "CityName": "Hefei",
+        "CountryCode": "CN",
+        "AirportName": "Hefei Xinqiao Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HGH",
+        "CityName": "Hangzhou",
+        "CountryCode": "CN",
+        "AirportName": "Hangzhou Xiaoshan International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HGN",
+        "CityName": "Mae Hong Son",
+        "CountryCode": "TH",
+        "AirportName": "Mae Hong Son",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "HHQ",
+        "CityName": "Hua Hin",
+        "CountryCode": "TH",
+        "AirportName": "Hua Hin",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "HIB",
+        "CityName": "Hibbing",
+        "CountryCode": "US",
+        "AirportName": "Range Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HKG",
+        "CityName": "Hong Kong",
+        "CountryCode": "CN",
+        "AirportName": "Hong Kong International Kai Tak",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HKT",
+        "CityName": "PHUKET",
+        "CountryCode": "TH",
+        "AirportName": "Phuket International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HLP",
+        "CityName": "JAKARTA HALIM",
+        "CountryCode": "ID",
+        "AirportName": "Halim Perdana Kusuma",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "HMN",
+        "CityName": "Alamogordo",
+        "CountryCode": "US",
+        "AirportName": "Holloman Air Force Base",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HMO",
+        "CityName": "Hermosillo",
+        "CountryCode": "MX",
+        "AirportName": "General Ignacio P. Garcia",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HND",
+        "CityName": "Tokyo",
+        "CountryCode": "JP",
+        "AirportName": "Haneda Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "HNL",
+        "CityName": "Honolulu",
+        "CountryCode": "US",
+        "AirportName": "Honolulu International Airport",
+        "Locale": -10,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HOU",
+        "CityName": "Houston",
+        "CountryCode": "US",
+        "AirportName": "William P Hobby",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HPH",
+        "CityName": "Cat Bi",
+        "CountryCode": "VN",
+        "AirportName": "Cat Bi",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "HRB",
+        "CityName": "Harbin",
+        "CountryCode": "CN",
+        "AirportName": "Taiping",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HRG",
+        "CityName": "Hurghada",
+        "CountryCode": "EG",
+        "AirportName": "Hurghada",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HRI",
+        "CityName": "Mattala",
+        "CountryCode": "LK",
+        "AirportName": "Mattala Rajapaksa",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HRK",
+        "CityName": "Kharkiv",
+        "CountryCode": "UA",
+        "AirportName": "Kharkiv",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HSV",
+        "CityName": "Huntsville",
+        "CountryCode": "US",
+        "AirportName": "Huntsville Carl T Jones Field",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HTS",
+        "CityName": "Huntington",
+        "CountryCode": "US",
+        "AirportName": "Tri-State/Milton J. Ferguson Field",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "HUI",
+        "CityName": "Hue",
+        "CountryCode": "VN",
+        "AirportName": "Phu Bai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "HYD",
+        "CityName": "Hyderabad",
+        "CountryCode": "IN",
+        "AirportName": "Rajiv Gandhi",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "IAD",
+        "CityName": "Washington",
+        "CountryCode": "US",
+        "AirportName": "Washington Dulles",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "IAH",
+        "CityName": "Houston",
+        "CountryCode": "US",
+        "AirportName": "George Bush Intercontinental Houston",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "IAO",
+        "CityName": "Siargao",
+        "CountryCode": "PH",
+        "AirportName": "Siargao",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ICN",
+        "CityName": "Seoul",
+        "CountryCode": "KR",
+        "AirportName": "Incheon",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ICT",
+        "CityName": "Wichita",
+        "CountryCode": "US",
+        "AirportName": "Wichita Mid Continent",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "IKA",
+        "CityName": "Tehran",
+        "CountryCode": "IR",
+        "AirportName": "Imam Khomeini",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ILO",
+        "CityName": "Iloilo",
+        "CountryCode": "PH",
+        "AirportName": "Iloilo",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "IND",
+        "CityName": "Indianapolis",
+        "CountryCode": "US",
+        "AirportName": "Indianapolis",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "IPH",
+        "CityName": "Ipoh",
+        "CountryCode": "MY",
+        "AirportName": "Sultan Azlan Shah Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ISB",
+        "CityName": "Islamabad",
+        "CountryCode": "PK",
+        "AirportName": "Benazir Bhutto",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "IST",
+        "CityName": "Istanbul",
+        "CountryCode": "TR",
+        "AirportName": "Atatürk",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ITM",
+        "CityName": "Osaka",
+        "CountryCode": "JP",
+        "AirportName": "Osaka",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "JAN",
+        "CityName": "Jackson",
+        "CountryCode": "US",
+        "AirportName": "Jackson-Medgar Wiley Evers",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "JAX",
+        "CityName": "Jacksonville",
+        "CountryCode": "US",
+        "AirportName": "Jacksonville",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "JBB",
+        "CityName": "JEMBER",
+        "CountryCode": "ID",
+        "AirportName": "Notohadinegoro Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "JED",
+        "CityName": "Jeddah",
+        "CountryCode": "SA",
+        "AirportName": "King Abdulaziz",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "JFK",
+        "CityName": "New York",
+        "CountryCode": "US",
+        "AirportName": "John F Kennedy",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "JHB",
+        "CityName": "Johor Bahru",
+        "CountryCode": "MY",
+        "AirportName": "Senai International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "JLN",
+        "CityName": "Joplin",
+        "CountryCode": "ID",
+        "AirportName": "Joplin Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "JNB",
+        "CityName": "Johannesburg",
+        "CountryCode": "ZA",
+        "AirportName": "OR Tambo",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "JNJ",
+        "CityName": "Duqm",
+        "CountryCode": "OM",
+        "AirportName": "Duqm Jaaluni",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "JOG",
+        "CityName": "YOGYAKARTA",
+        "CountryCode": "ID",
+        "AirportName": "Adisutjipto Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KAZ",
+        "CityName": "TOBELO",
+        "CountryCode": "ID",
+        "AirportName": "Kau Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KBP",
+        "CityName": "Kiev",
+        "CountryCode": "UA",
+        "AirportName": "Boryspil",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "KBR",
+        "CityName": "Kota Bharu",
+        "CountryCode": "MY",
+        "AirportName": "Bandar Udara Sultan Ismail Petra",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KBU",
+        "CityName": "KOTABARU",
+        "CountryCode": "ID",
+        "AirportName": "Gusti Sjamsir Alam Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "KBV",
+        "CityName": "Krabi",
+        "CountryCode": "TH",
+        "AirportName": "Krabi",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KCH",
+        "CityName": "Kuching",
+        "CountryCode": "MY",
+        "AirportName": "Kuching International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KDI",
+        "CityName": "KENDARI",
+        "CountryCode": "ID",
+        "AirportName": "Halu Oleo Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KEF",
+        "CityName": "Reykjavik",
+        "CountryCode": "IS",
+        "AirportName": "Keflavik",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "KGF",
+        "CityName": "Karaganda",
+        "CountryCode": "KZ",
+        "AirportName": "Sary-Arka",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "KHH",
+        "CityName": "Kaohsiung City",
+        "CountryCode": "TW",
+        "AirportName": "Kaohsiung",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KHN",
+        "CityName": "Nanchang",
+        "CountryCode": "CN",
+        "AirportName": "Changbei Nanchang Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KIN",
+        "CityName": "Kingston",
+        "CountryCode": "JM",
+        "AirportName": "Norman Manley",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "KIX",
+        "CityName": "Kansai Osaka",
+        "CountryCode": "JP",
+        "AirportName": "Kansai International Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KJA",
+        "CityName": "Krasnoyarsk",
+        "CountryCode": "RU",
+        "AirportName": "Yemelyanovo",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": null
+    },
+    {
+        "Code": "KJT",
+        "CityName": "Majalengka",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Internasional Kertajati",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KKC",
+        "CityName": "Khon Kaen",
+        "CountryCode": "TH",
+        "AirportName": "Khon Kaen",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KLO",
+        "CityName": "Kalibo",
+        "CountryCode": "PH",
+        "AirportName": "Kalibo International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KMG",
+        "CityName": "Kunming",
+        "CountryCode": "CN",
+        "AirportName": "Kunming Wujiaba",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KNG",
+        "CityName": "KAIMANA",
+        "CountryCode": "ID",
+        "AirportName": "Kaimana Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "KNH",
+        "CityName": "Shang-I",
+        "CountryCode": "TW",
+        "AirportName": "Kinmen",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KNO",
+        "CityName": "MEDAN KUALA NAMU",
+        "CountryCode": "ID",
+        "AirportName": "Kuala Namu Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KOE",
+        "CityName": "KUPANG",
+        "CountryCode": "ID",
+        "AirportName": "Eltari Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "KOJ",
+        "CityName": "Kagoshima",
+        "CountryCode": "JP",
+        "AirportName": "Kagoshima",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KOP",
+        "CityName": "Nakhon Phanom",
+        "CountryCode": "TH",
+        "AirportName": "Nakhon Phanom",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KRC",
+        "CityName": "Kerinci",
+        "CountryCode": "ID",
+        "AirportName": "Depati Parbo Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KRK",
+        "CityName": "Krakow",
+        "CountryCode": "PL",
+        "AirportName": "John Paul II",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KRT",
+        "CityName": "Khartoum",
+        "CountryCode": "SD",
+        "AirportName": "Khartoum",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KSR",
+        "CityName": "Kepulauan Selayar",
+        "CountryCode": "ID",
+        "AirportName": "H. Aroeppala Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "KTE",
+        "CityName": "Kerteh",
+        "CountryCode": "MY",
+        "AirportName": "Kerteh Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KTG",
+        "CityName": "KETAPANG",
+        "CountryCode": "ID",
+        "AirportName": "Rahadi Oesman Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "KTM",
+        "CityName": "Kathmandu",
+        "CountryCode": "NP",
+        "AirportName": "Kathmandu",
+        "Locale": 5.75,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KTW",
+        "CityName": "Katowice",
+        "CountryCode": "PL",
+        "AirportName": "Katowice",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KUF",
+        "CityName": "Samara",
+        "CountryCode": "RU",
+        "AirportName": "Kurumoch",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KUL",
+        "CityName": "Kuala Lumpur",
+        "CountryCode": "MY",
+        "AirportName": "Kuala Lumpur International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "KUV",
+        "CityName": "Kunsan",
+        "CountryCode": "KR",
+        "AirportName": "Kunsan Air Base",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KWB",
+        "CityName": "Karimun Jawa",
+        "CountryCode": "ID",
+        "AirportName": "Dewadaru Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "KWE",
+        "CityName": "Guiyang",
+        "CountryCode": "CN",
+        "AirportName": "Longdongbao Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "KWI",
+        "CityName": "Kuwait City",
+        "CountryCode": "KW",
+        "AirportName": "Kuwait",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "KWL",
+        "CityName": "Guilin City",
+        "CountryCode": "CN",
+        "AirportName": "Guilin Liangjiang",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LAH",
+        "CityName": "LABUHA",
+        "CountryCode": "ID",
+        "AirportName": "Labuha Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LAO",
+        "CityName": "Laoag City",
+        "CountryCode": "PH",
+        "AirportName": "Laoag",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LAS",
+        "CityName": "Las Vegas",
+        "CountryCode": "US",
+        "AirportName": "McCarran",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LAX",
+        "CityName": "Los Angeles",
+        "CountryCode": "US",
+        "AirportName": "Los Angeles",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LBA",
+        "CityName": "Leeds",
+        "CountryCode": "GB",
+        "AirportName": "Leeds Bradford",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LBB",
+        "CityName": "Lubbock",
+        "CountryCode": "US",
+        "AirportName": "Lubbock Preston Smith",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LBJ",
+        "CityName": "LABUAN BAJO",
+        "CountryCode": "ID",
+        "AirportName": "Mutiara Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LBW",
+        "CityName": "LONG BAWAN",
+        "CountryCode": "ID",
+        "AirportName": "Juvai Semaring Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LCA",
+        "CityName": "Larnarca",
+        "CountryCode": "CY",
+        "AirportName": "Larnarca",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LCK",
+        "CityName": "Columbus",
+        "CountryCode": "US",
+        "AirportName": "Rickenbacker",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LCY",
+        "CityName": "London",
+        "CountryCode": "GB",
+        "AirportName": "London City",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LED",
+        "CityName": "St. Petersburg",
+        "CountryCode": "RU",
+        "AirportName": "Pulkovo",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LEJ",
+        "CityName": "Leipzig",
+        "CountryCode": "DE",
+        "AirportName": "Leipzig Halle",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LEX",
+        "CityName": "Lexington",
+        "CountryCode": "US",
+        "AirportName": "Blue Grass",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LFI",
+        "CityName": "Hampton",
+        "CountryCode": "US",
+        "AirportName": "Langley Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LFT",
+        "CityName": "Lafayette",
+        "CountryCode": "US",
+        "AirportName": "Lafayette Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LGA",
+        "CityName": "New York",
+        "CountryCode": "US",
+        "AirportName": "La Guardia",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LGG",
+        "CityName": "Liege",
+        "CountryCode": "BE",
+        "AirportName": "Liege",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LGK",
+        "CityName": "Langkawi",
+        "CountryCode": "MY",
+        "AirportName": "Langkawi International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LGW",
+        "CityName": "London",
+        "CountryCode": "GB",
+        "AirportName": "London Gatwick",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LHE",
+        "CityName": "Lahore",
+        "CountryCode": "PK",
+        "AirportName": "Allama Iqbal International Airport",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LHR",
+        "CityName": "London",
+        "CountryCode": "GB",
+        "AirportName": "London Heathrow",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LIM",
+        "CityName": "Lima",
+        "CountryCode": "PE",
+        "AirportName": "Jorge Chávez",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LIN",
+        "CityName": "Milan",
+        "CountryCode": "IT",
+        "AirportName": "Linate",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LIS",
+        "CityName": "Lisbon",
+        "CountryCode": "PT",
+        "AirportName": "Lisbon Portela",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LIT",
+        "CityName": "Little Rock",
+        "CountryCode": "US",
+        "AirportName": "Bill & Hillary Clinton National/Adams Field",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LJU",
+        "CityName": "Ljubljana",
+        "CountryCode": "SI",
+        "AirportName": "Ljubljana Jože Pucnik",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LKA",
+        "CityName": "Larantuka Gewayantana",
+        "CountryCode": "ID",
+        "AirportName": "Gewayantana Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LKI",
+        "CityName": "LUBUK LINGGAU",
+        "CountryCode": "ID",
+        "AirportName": "Silampari Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LKO",
+        "CityName": "LUCKNOW",
+        "CountryCode": "IN",
+        "AirportName": "Chaudhary Charan Singh International Airport",
+        "Locale": 5.5,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "LKZ",
+        "CityName": "Lakenheath",
+        "CountryCode": "GB",
+        "AirportName": "RAF Lakenheath",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LLG",
+        "CityName": "LUBUK LINGGAU",
+        "CountryCode": "ID",
+        "AirportName": "Silampari Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LLO",
+        "CityName": "Palopo",
+        "CountryCode": "ID",
+        "AirportName": "Palopo Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LMU",
+        "CityName": "Anambas",
+        "CountryCode": "ID",
+        "AirportName": "Letung Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LOE",
+        "CityName": "Loei",
+        "CountryCode": "TH",
+        "AirportName": "Loei",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LOP",
+        "CityName": "LOMBOK, MATARAM",
+        "CountryCode": "ID",
+        "AirportName": "Lombok International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "LOS",
+        "CityName": "Lagos",
+        "CountryCode": "NG",
+        "AirportName": "Murtala Muhammed",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LPA",
+        "CityName": "Gran Canaria Island",
+        "CountryCode": "ES",
+        "AirportName": "Gran Canaria",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LPL",
+        "CityName": "Liverpool",
+        "CountryCode": "GB",
+        "AirportName": "Liverpool John Lennon",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LPT",
+        "CityName": "Lampang",
+        "CountryCode": "TH",
+        "AirportName": "Lampang",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LPU",
+        "CityName": "LONG APUNG",
+        "CountryCode": "ID",
+        "AirportName": "Long Apung Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LSE",
+        "CityName": "BATU ISLANDS",
+        "CountryCode": "ID",
+        "AirportName": "Lasondre Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LST",
+        "CityName": "Launceston",
+        "CountryCode": "AU",
+        "AirportName": "Launceston Airport",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "LSW",
+        "CityName": "LHOKSEUMAWE",
+        "CountryCode": "ID",
+        "AirportName": "Lhoksumawe Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LTK",
+        "CityName": "Latakia",
+        "CountryCode": "SY",
+        "AirportName": "Bassel Al-Assad",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LTN",
+        "CityName": "London",
+        "CountryCode": "GB",
+        "AirportName": "London Luton",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LTS",
+        "CityName": "Altus",
+        "CountryCode": "US",
+        "AirportName": "Altus Air Force Base",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LTU",
+        "CityName": "Riau",
+        "CountryCode": "ID",
+        "AirportName": "Letung Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LTX",
+        "CityName": "Latacunga",
+        "CountryCode": "EC",
+        "AirportName": "Cotopaxi",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LUF",
+        "CityName": "Glendale",
+        "CountryCode": "US",
+        "AirportName": "Luke Air Force Base",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LUV",
+        "CityName": "TUAL",
+        "CountryCode": "ID",
+        "AirportName": "Dumatubun Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "LUW",
+        "CityName": "LUWUK",
+        "CountryCode": "ID",
+        "AirportName": "Luwuk Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "LUX",
+        "CityName": "Luxembourg",
+        "CountryCode": "LU",
+        "AirportName": "Luxembourg-Findel",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "LWE",
+        "CityName": "Pulau Lembata",
+        "CountryCode": "ID",
+        "AirportName": "Wunopito Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MAA",
+        "CityName": "Chennai",
+        "CountryCode": "IN",
+        "AirportName": "Chennai",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MAD",
+        "CityName": "Madrid",
+        "CountryCode": "ES",
+        "AirportName": "Adolfo Suarez Madrid-Barajas",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MAN",
+        "CityName": "Manchester",
+        "CountryCode": "GB",
+        "AirportName": "Manchester",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MAQ",
+        "CityName": "Mae Sot",
+        "CountryCode": "TH",
+        "AirportName": "Mae Sot",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MBA",
+        "CityName": "Mombasa",
+        "CountryCode": "KE",
+        "AirportName": "Mombasa Moi",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MBS",
+        "CityName": "Saginaw",
+        "CountryCode": "US",
+        "AirportName": "MBS",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MBT",
+        "CityName": "Masbate",
+        "CountryCode": "PH",
+        "AirportName": "Masbate",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MCF",
+        "CityName": "Tampa",
+        "CountryCode": "US",
+        "AirportName": "Mac Dill Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MCI",
+        "CityName": "Kansas City",
+        "CountryCode": "US",
+        "AirportName": "Kansas City",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MCO",
+        "CityName": "Orlando",
+        "CountryCode": "US",
+        "AirportName": "Orlando",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MCT",
+        "CityName": "Muscat",
+        "CountryCode": "OM",
+        "AirportName": "Muscat",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MDC",
+        "CityName": "MANADO",
+        "CountryCode": "ID",
+        "AirportName": "Samratulangi Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MDL",
+        "CityName": "Mandalay",
+        "CountryCode": "MM",
+        "AirportName": "Mandalay",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MDW",
+        "CityName": "Chicago",
+        "CountryCode": "US",
+        "AirportName": "Chicago Midway",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MED",
+        "CityName": "Medina",
+        "CountryCode": "SA",
+        "AirportName": "Prince Mohammad Bin Abdulaziz",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MEL",
+        "CityName": "Melbourne",
+        "CountryCode": "AU",
+        "AirportName": "Melbourne Airport",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MEM",
+        "CityName": "Memphis",
+        "CountryCode": "US",
+        "AirportName": "Memphis",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MEQ",
+        "CityName": "MEULABOH",
+        "CountryCode": "ID",
+        "AirportName": "Seunagan Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MEX",
+        "CityName": "Mexico City",
+        "CountryCode": "MX",
+        "AirportName": "Licenciado Benito Juarez",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MFM",
+        "CityName": "Macau",
+        "CountryCode": "MO",
+        "AirportName": "Macau International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MGE",
+        "CityName": "Marietta",
+        "CountryCode": "US",
+        "AirportName": "Dobbins Air Reserve Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MGM",
+        "CityName": "Montgomery",
+        "CountryCode": "US",
+        "AirportName": "Montgomery Regional (Dannelly Field)",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MHD",
+        "CityName": "Mashhad",
+        "CountryCode": "IR",
+        "AirportName": "Mashhad",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MHT",
+        "CityName": "Manchester",
+        "CountryCode": "US",
+        "AirportName": "Manchester",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MHZ",
+        "CityName": "Mildenhall",
+        "CountryCode": "GB",
+        "AirportName": "RAF Mildenhall",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MIA",
+        "CityName": "Miami",
+        "CountryCode": "US",
+        "AirportName": "Miami",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MJU",
+        "CityName": "MAMUJU",
+        "CountryCode": "ID",
+        "AirportName": "Mamuju Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MKE",
+        "CityName": "Milwaukee",
+        "CountryCode": "US",
+        "AirportName": "General Mitchell",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MKF",
+        "CityName": "Miangas",
+        "CountryCode": "ID",
+        "AirportName": "Miangas Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MKQ",
+        "CityName": "MERAUKE",
+        "CountryCode": "ID",
+        "AirportName": "Mopah Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MKW",
+        "CityName": "MANOKWARI",
+        "CountryCode": "ID",
+        "AirportName": "Rendani Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MKY",
+        "CityName": "Mackay",
+        "CountryCode": "AU",
+        "AirportName": "Mackay Airport",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MKZ",
+        "CityName": "Malacca",
+        "CountryCode": "MY",
+        "AirportName": "Melaka International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MLA",
+        "CityName": "Luqa",
+        "CountryCode": "MT",
+        "AirportName": "Malta",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MLE",
+        "CityName": "MALADEWA",
+        "CountryCode": "MV",
+        "AirportName": "Velana International Airport",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MLG",
+        "CityName": "MALANG",
+        "CountryCode": "ID",
+        "AirportName": "Abdul Rahman Saleh Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MLI",
+        "CityName": "Moline",
+        "CountryCode": "US",
+        "AirportName": "Quad City",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MLK",
+        "CityName": "MELAK",
+        "CountryCode": "ID",
+        "AirportName": "Melalan",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MLN",
+        "CityName": "Malinau",
+        "CountryCode": "ID",
+        "AirportName": "Malinau",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MLU",
+        "CityName": "Monroe",
+        "CountryCode": "US",
+        "AirportName": "Monroe Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MNA",
+        "CityName": "MELANGUANE",
+        "CountryCode": "ID",
+        "AirportName": "Melangguane Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MNL",
+        "CityName": "Manila",
+        "CountryCode": "PH",
+        "AirportName": "Ninoy Aquino Intl Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MOB",
+        "CityName": "Mobile",
+        "CountryCode": "US",
+        "AirportName": "Mobile Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MOF",
+        "CityName": "MAUMERE",
+        "CountryCode": "ID",
+        "AirportName": "Frans Seda Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "MOH",
+        "CityName": "Morowali",
+        "CountryCode": "ID",
+        "AirportName": "Morowali Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MPC",
+        "CityName": "Mukomuko",
+        "CountryCode": "ID",
+        "AirportName": "Bandara Muko Muko",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MPH",
+        "CityName": "Boracay (Caticlan)",
+        "CountryCode": "PH",
+        "AirportName": "Boracay (Caticlan)",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MPM",
+        "CityName": "MAPUTO",
+        "CountryCode": "MZ",
+        "AirportName": null,
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MRB",
+        "CityName": "Muara Bungo",
+        "CountryCode": "ID",
+        "AirportName": "Muara Bungo Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MRS",
+        "CityName": "Marseille",
+        "CountryCode": "FR",
+        "AirportName": "Marseille Provence",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MRW",
+        "CityName": "Maribo",
+        "CountryCode": "DK",
+        "AirportName": "Maribo Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "MSN",
+        "CityName": "Madison",
+        "CountryCode": "US",
+        "AirportName": "Dane County Regional Truax Field",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MSP",
+        "CityName": "Minneapolis",
+        "CountryCode": "US",
+        "AirportName": "Minneapolis-St Paul/Wold-Chamberlain",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MSQ",
+        "CityName": "Minsk",
+        "CountryCode": "BY",
+        "AirportName": "Minsk",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MST",
+        "CityName": "Maastricht",
+        "CountryCode": "NL",
+        "AirportName": "Maastricht Aachen",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MSY",
+        "CityName": "New Orleans",
+        "CountryCode": "US",
+        "AirportName": "Louis Armstrong New Orleans",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MTY",
+        "CityName": "Monterrey",
+        "CountryCode": "MX",
+        "AirportName": "General Mariano Escobedo",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MUC",
+        "CityName": "Munich",
+        "CountryCode": "DE",
+        "AirportName": "Munich",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MVD",
+        "CityName": "Montevideo",
+        "CountryCode": "UY",
+        "AirportName": "Carrasco /General C L Berisso",
+        "Locale": -3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MWK",
+        "CityName": "Riau",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Matak",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MWS",
+        "CityName": "Muara Bungo",
+        "CountryCode": "ID",
+        "AirportName": "Muara Bungo Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MWW",
+        "CityName": "Malinau",
+        "CountryCode": "ID",
+        "AirportName": "Robert Atty Bessing Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "MWX",
+        "CityName": "Muan",
+        "CountryCode": "KR",
+        "AirportName": "Muan",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MXP",
+        "CityName": "Milan",
+        "CountryCode": "IT",
+        "AirportName": "Malpensa",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "MYY",
+        "CityName": "Miri",
+        "CountryCode": "MY",
+        "AirportName": "Miri Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "NAH",
+        "CityName": "TAHUNA",
+        "CountryCode": "ID",
+        "AirportName": "Naha Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "NAK",
+        "CityName": "Nakhon Ratchasima",
+        "CountryCode": "ID",
+        "AirportName": "Nakhon Ratchasima",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NAM",
+        "CityName": "NAMLEA",
+        "CountryCode": "ID",
+        "AirportName": "Namlea Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "NAN",
+        "CityName": "Nadi",
+        "CountryCode": "FJ",
+        "AirportName": "Nadi International Airport",
+        "Locale": 12,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NAP",
+        "CityName": "Napoli",
+        "CountryCode": "IT",
+        "AirportName": "Naples",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NAS",
+        "CityName": "Nassau",
+        "CountryCode": "BS",
+        "AirportName": "Lynden Pindling",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NAV",
+        "CityName": "Nevsehir",
+        "CountryCode": "TR",
+        "AirportName": "Nevsehir Kapadokya",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NAW",
+        "CityName": "Narathiwat",
+        "CountryCode": "TH",
+        "AirportName": "Narathiwat",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NAY",
+        "CityName": "Beijing",
+        "CountryCode": "CN",
+        "AirportName": "Beijing Nanyuan",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NBE",
+        "CityName": "Enfidha",
+        "CountryCode": "TN",
+        "AirportName": "Enfidha - Hammamet",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NBO",
+        "CityName": "Nairobi",
+        "CountryCode": "KE",
+        "AirportName": "Jomo Kenyatta",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NBX",
+        "CityName": "NABIRE",
+        "CountryCode": "ID",
+        "AirportName": "Nabire Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "NCE",
+        "CityName": "Nice",
+        "CountryCode": "FR",
+        "AirportName": "Nice Côte d'Azur",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NCL",
+        "CityName": "Newcastle",
+        "CountryCode": "GB",
+        "AirportName": "Newcastle",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NDA",
+        "CityName": "BANDA",
+        "CountryCode": "ID",
+        "AirportName": "Bandanaira Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "NGB",
+        "CityName": "Ningbo",
+        "CountryCode": "CN",
+        "AirportName": "Ningbo Lishe",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NGO",
+        "CityName": "Tokoname",
+        "CountryCode": "JP",
+        "AirportName": "Chubu Centrair",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "NKG",
+        "CityName": "Nanjing",
+        "CountryCode": "CN",
+        "AirportName": "Nanjing Lukou",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NNG",
+        "CityName": "Nanning",
+        "CountryCode": "CN",
+        "AirportName": "Nanning Wuxu",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NNT",
+        "CityName": "Nan",
+        "CountryCode": "TH",
+        "AirportName": "Nan",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NNX",
+        "CityName": "NUNUKAN",
+        "CountryCode": "ID",
+        "AirportName": "Nunukan Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "NRE",
+        "CityName": "NAMROLE",
+        "CountryCode": "ID",
+        "AirportName": "Namrole Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "NRT",
+        "CityName": "Tokyo Narita",
+        "CountryCode": "JP",
+        "AirportName": "Narita International Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "NST",
+        "CityName": "Nakhon Si Thammarat",
+        "CountryCode": "TH",
+        "AirportName": "Nakhon Si Thammarat",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NTX",
+        "CityName": "NATUNA RANAI",
+        "CountryCode": "ID",
+        "AirportName": "Natuna Ranai Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "NUE",
+        "CityName": "Nuremberg",
+        "CountryCode": "DE",
+        "AirportName": "Nuremberg",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "NWI",
+        "CityName": "Norwich",
+        "CountryCode": "GB",
+        "AirportName": "Norwich",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OAK",
+        "CityName": "Oakland",
+        "CountryCode": "US",
+        "AirportName": "Metropolitan Oakland",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ODS",
+        "CityName": "Odessa",
+        "CountryCode": "UA",
+        "AirportName": "Odessa",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OKA",
+        "CityName": "Naha",
+        "CountryCode": "JP",
+        "AirportName": "Naha",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OKC",
+        "CityName": "Oklahoma City",
+        "CountryCode": "US",
+        "AirportName": "Will Rogers World",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OKD",
+        "CityName": "Sapporo Okadama",
+        "CountryCode": "JP",
+        "AirportName": "Sapporo Okadama Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "OKO",
+        "CityName": "Fussa",
+        "CountryCode": "JP",
+        "AirportName": "Yokota Air Base",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OMC",
+        "CityName": "Ormoc",
+        "CountryCode": "PH",
+        "AirportName": "Ormoc",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ONT",
+        "CityName": "Ontario",
+        "CountryCode": "US",
+        "AirportName": "Ontario",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OOL",
+        "CityName": "Gold Coast",
+        "CountryCode": "AU",
+        "AirportName": "Gold Coast Airport",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "OPO",
+        "CityName": "Porto",
+        "CountryCode": "PT",
+        "AirportName": "Francisco de Sá Carneiro",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ORD",
+        "CityName": "Chicago",
+        "CountryCode": "US",
+        "AirportName": "Chicago O'Hare",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ORF",
+        "CityName": "Norfolk",
+        "CountryCode": "US",
+        "AirportName": "Norfolk",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ORK",
+        "CityName": "Cork",
+        "CountryCode": "IE",
+        "AirportName": "Cork",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ORY",
+        "CityName": "Paris",
+        "CountryCode": "FR",
+        "AirportName": "Paris-Orly",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OSL",
+        "CityName": "Oslo",
+        "CountryCode": "NO",
+        "AirportName": "Oslo Gardermoen",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OTI",
+        "CityName": "MOROTAI ISLAND",
+        "CountryCode": "ID",
+        "AirportName": "Pitu Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "OTP",
+        "CityName": "Bucharest",
+        "CountryCode": "RO",
+        "AirportName": "Henri Coanda",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "OZC",
+        "CityName": "Ozamiz",
+        "CountryCode": "PH",
+        "AirportName": "Ozamiz",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PAG",
+        "CityName": "Pagadian",
+        "CountryCode": "PH",
+        "AirportName": "Pagadian",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PAM",
+        "CityName": "Panama City",
+        "CountryCode": "US",
+        "AirportName": "Tyndall Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PBI",
+        "CityName": "West Palm Beach",
+        "CountryCode": "US",
+        "AirportName": "Palm Beach",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PCB",
+        "CityName": "TANGERANG",
+        "CountryCode": "ID",
+        "AirportName": "Pondok Cabe Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "PDG",
+        "CityName": "PADANG",
+        "CountryCode": "ID",
+        "AirportName": "Minangkabau International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PDL",
+        "CityName": "Ponta Delgada",
+        "CountryCode": "PT",
+        "AirportName": "João Paulo II",
+        "Locale": -1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PDV",
+        "CityName": "Plovdiv",
+        "CountryCode": "BG",
+        "AirportName": "Plovdiv",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PDX",
+        "CityName": "Portland",
+        "CountryCode": "US",
+        "AirportName": "Portland",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PEK",
+        "CityName": "Beijing",
+        "CountryCode": "CN",
+        "AirportName": "Beijing Capital",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PEN",
+        "CityName": "PENANG",
+        "CountryCode": "MY",
+        "AirportName": "Penang International",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PER",
+        "CityName": "Perth",
+        "CountryCode": "AU",
+        "AirportName": "Perth Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PFO",
+        "CityName": "Paphos",
+        "CountryCode": "CY",
+        "AirportName": "Paphos",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PGK",
+        "CityName": "PANGKAL PINANG",
+        "CountryCode": "ID",
+        "AirportName": "Depati Amir Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "PHE",
+        "CityName": "Port Hedland",
+        "CountryCode": "AU",
+        "AirportName": "Port Hedland",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PHF",
+        "CityName": "Newport News",
+        "CountryCode": "US",
+        "AirportName": "Newport News Williamsburg",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PHL",
+        "CityName": "Philadelphia",
+        "CountryCode": "US",
+        "AirportName": "Philadelphia",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PHS",
+        "CityName": "Phitsanulokt",
+        "CountryCode": "TH",
+        "AirportName": "Phitsanulokt",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PHX",
+        "CityName": "Phoenix",
+        "CountryCode": "US",
+        "AirportName": "Phoenix Sky Harbor",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PHY",
+        "CityName": "Phetchabun",
+        "CountryCode": "TH",
+        "AirportName": "Phetchabun",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PIA",
+        "CityName": "Peoria",
+        "CountryCode": "US",
+        "AirportName": "General Wayne A. Downing Peoria",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PIT",
+        "CityName": "Pittsburgh",
+        "CountryCode": "US",
+        "AirportName": "Pittsburgh",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PKN",
+        "CityName": "PANGKALANBUN",
+        "CountryCode": "ID",
+        "AirportName": "Iskandar Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "PKU",
+        "CityName": "PEKANBARU",
+        "CountryCode": "ID",
+        "AirportName": "Sultan Syarif Kasim II  Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PKY",
+        "CityName": "PALANGKARAYA",
+        "CountryCode": "ID",
+        "AirportName": "Tjilik Riwut Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "PLM",
+        "CityName": "PALEMBANG",
+        "CountryCode": "ID",
+        "AirportName": "Mahmud Badaruddin II Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PLW",
+        "CityName": "PALU",
+        "CountryCode": "ID",
+        "AirportName": "Mutiara Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "PMI",
+        "CityName": "Palma De Mallorca",
+        "CountryCode": "ES",
+        "AirportName": "Palma De Mallorca",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PMO",
+        "CityName": "Palermo",
+        "CountryCode": "IT",
+        "AirportName": "Falcone-Borsellino",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PNH",
+        "CityName": "Phnom Penh",
+        "CountryCode": "KH",
+        "AirportName": "Phnom Penh International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PNK",
+        "CityName": "PONTIANAK",
+        "CountryCode": "ID",
+        "AirportName": "Supadio Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "POM",
+        "CityName": "Port Moresby",
+        "CountryCode": "PG",
+        "AirportName": "Port Moresby Jacksons",
+        "Locale": 10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "POZ",
+        "CityName": "Poznan",
+        "CountryCode": "PL",
+        "AirportName": "Poznan-Lawica",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PPS",
+        "CityName": "Puerto Princesa",
+        "CountryCode": "PH",
+        "AirportName": "Puerto Princesa",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PPT",
+        "CityName": "PAPEETE",
+        "CountryCode": "PF",
+        "AirportName": null,
+        "Locale": -10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PQC",
+        "CityName": "Phu Quoc,",
+        "CountryCode": "VN",
+        "AirportName": "Phu Quoc",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PQQ",
+        "CityName": "Port Macquarie",
+        "CountryCode": "AU",
+        "AirportName": "Port Macquarie Airport",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PRG",
+        "CityName": "Prague",
+        "CountryCode": "CZ",
+        "AirportName": "Václav Havel",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PSA",
+        "CityName": "Pisa",
+        "CountryCode": "IT",
+        "AirportName": "Pisa",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PSJ",
+        "CityName": "POSO",
+        "CountryCode": "ID",
+        "AirportName": "Kasiguncu Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "PSU",
+        "CityName": "PUTUSSIBAU",
+        "CountryCode": "ID",
+        "AirportName": "Pangsuma Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "PTY",
+        "CityName": "Tocumen",
+        "CountryCode": "PA",
+        "AirportName": "Tocumen",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PUJ",
+        "CityName": "Punta Cana",
+        "CountryCode": "DO",
+        "AirportName": "Punta Cana",
+        "Locale": -4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PUM",
+        "CityName": "POMALA",
+        "CountryCode": "ID",
+        "AirportName": "Sangia Nibandera Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "PUS",
+        "CityName": "Busan",
+        "CountryCode": "KR",
+        "AirportName": "Gimhae",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PVG",
+        "CityName": "Shanghai",
+        "CountryCode": "CN",
+        "AirportName": "Shanghai Pudong",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "PVR",
+        "CityName": "Puerto Vallarta",
+        "CountryCode": "MX",
+        "AirportName": "Licenciado Gustavo Díaz Ordaz",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PWM",
+        "CityName": "Portland",
+        "CountryCode": "US",
+        "AirportName": "Portland Jetport",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "PXA",
+        "CityName": "Pagar Alam",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Atung Bungsu",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "PYY",
+        "CityName": "Mae Hong Son",
+        "CountryCode": "TH",
+        "AirportName": "Pai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "QUO",
+        "CityName": "Uyo",
+        "CountryCode": "NG",
+        "AirportName": "Akwa Ibom",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RAQ",
+        "CityName": "Raha",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Sugimanuru",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "RAR",
+        "CityName": "Avarua",
+        "CountryCode": "CK",
+        "AirportName": "Rarotonga",
+        "Locale": -10,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RDU",
+        "CityName": "Raleigh/Durham",
+        "CountryCode": "US",
+        "AirportName": "Raleigh Durham",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "REP",
+        "CityName": "Siem Reap",
+        "CountryCode": "KH",
+        "AirportName": "Siem Reap International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "RFD",
+        "CityName": "Chicago/Rockford",
+        "CountryCode": "US",
+        "AirportName": "Chicago Rockford",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RGN",
+        "CityName": "Yangon",
+        "CountryCode": "MM",
+        "AirportName": "Yangon Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "RGT",
+        "CityName": "Rengat",
+        "CountryCode": "ID",
+        "AirportName": "Japura Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "RIC",
+        "CityName": "Richmond",
+        "CountryCode": "US",
+        "AirportName": "Richmond",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RIX",
+        "CityName": "Riga",
+        "CountryCode": "LV",
+        "AirportName": "Riga",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RJM",
+        "CityName": "Raja Ampat",
+        "CountryCode": "ID",
+        "AirportName": "Marinda Raja Ampat Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "RMS",
+        "CityName": "Ramstein",
+        "CountryCode": "DE",
+        "AirportName": "Ramstein Air Base",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RNO",
+        "CityName": "Reno",
+        "CountryCode": "US",
+        "AirportName": "Reno Tahoe",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ROA",
+        "CityName": "Roanoke",
+        "CountryCode": "US",
+        "AirportName": "Roanokeâ€“Blacksburg Regional",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ROC",
+        "CityName": "Rochester",
+        "CountryCode": "US",
+        "AirportName": "Greater Rochester",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "ROI",
+        "CityName": "Roi Et",
+        "CountryCode": "TH",
+        "AirportName": "Roi Et",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RST",
+        "CityName": "Rochester",
+        "CountryCode": "US",
+        "AirportName": "Rochester",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RSW",
+        "CityName": "Fort Myers",
+        "CountryCode": "US",
+        "AirportName": "Southwest Florida",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RTG",
+        "CityName": "Ruteng",
+        "CountryCode": "ID",
+        "AirportName": "Frans Sales Lega",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "RTI",
+        "CityName": "Rote Island",
+        "CountryCode": "ID",
+        "AirportName": "D.C. Saundale Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "RUH",
+        "CityName": "Riyadh",
+        "CountryCode": "SA",
+        "AirportName": "King Khaled",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "RXS",
+        "CityName": "Roxas",
+        "CountryCode": "PH",
+        "AirportName": "Roxas",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SAN",
+        "CityName": "San Diego",
+        "CountryCode": "US",
+        "AirportName": "San Diego",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SAT",
+        "CityName": "San Antonio",
+        "CountryCode": "US",
+        "AirportName": "San Antonio",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SAV",
+        "CityName": "Savannah",
+        "CountryCode": "US",
+        "AirportName": "Savannah Hilton Head",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SAW",
+        "CityName": "Istanbul",
+        "CountryCode": "TR",
+        "AirportName": "Sabiha Gökçen",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SBG",
+        "CityName": "Sabang",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Maimun Saleh",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "SBN",
+        "CityName": "South Bend",
+        "CountryCode": "US",
+        "AirportName": "South Bend Regional",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SBW",
+        "CityName": "sarawak",
+        "CountryCode": "MY",
+        "AirportName": "SIBU",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SCQ",
+        "CityName": "Santiago de Compostela",
+        "CountryCode": "ES",
+        "AirportName": "Santiago de Compostela",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SDF",
+        "CityName": "Louisville",
+        "CountryCode": "US",
+        "AirportName": "Louisville Standiford Field",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SDQ",
+        "CityName": "Santo Domingo",
+        "CountryCode": "DO",
+        "AirportName": "Las Américas",
+        "Locale": -4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SEA",
+        "CityName": "Seattle",
+        "CountryCode": "US",
+        "AirportName": "Seattle Tacoma",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SFB",
+        "CityName": "Orlando",
+        "CountryCode": "US",
+        "AirportName": "Orlando Sanford",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SFO",
+        "CityName": "San Francisco",
+        "CountryCode": "US",
+        "AirportName": "San Francisco",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SGF",
+        "CityName": "Springfield",
+        "CountryCode": "US",
+        "AirportName": "Springfield Branson National",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SGN",
+        "CityName": "HO CHI MINH CITY",
+        "CountryCode": "VN",
+        "AirportName": "Tan Son Nhat International Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SHA",
+        "CityName": "Shanghai",
+        "CountryCode": "CN",
+        "AirportName": "Shanghai Hongqiao",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SHE",
+        "CityName": "Shenyang",
+        "CountryCode": "CN",
+        "AirportName": "Taoxian",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SHJ",
+        "CityName": "Sharjah",
+        "CountryCode": "AE",
+        "AirportName": "Sharjah",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SHV",
+        "CityName": "Shreveport",
+        "CountryCode": "US",
+        "AirportName": "Shreveport Regional",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SIN",
+        "CityName": "SINGAPORE",
+        "CountryCode": "SG",
+        "AirportName": "Changi Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SIP",
+        "CityName": "Simferopol",
+        "CountryCode": "UA",
+        "AirportName": "Simferopol",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SIW",
+        "CityName": "PARAPAT / TOBA SAMOSIR",
+        "CountryCode": "ID",
+        "AirportName": "Sibisa Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SJC",
+        "CityName": "San Jose",
+        "CountryCode": "US",
+        "AirportName": "Norman Y. Mineta San Jose",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SJI",
+        "CityName": "San Jose (Mindoro)",
+        "CountryCode": "PH",
+        "AirportName": "San Jose (Mindoro)",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SJJ",
+        "CityName": "Sarajevo",
+        "CountryCode": "BA",
+        "AirportName": "Sarajevo",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SJU",
+        "CityName": "San Juan",
+        "CountryCode": "PR",
+        "AirportName": "Luis Munoz Marin",
+        "Locale": -4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SKA",
+        "CityName": "Spokane",
+        "CountryCode": "US",
+        "AirportName": "Fairchild Air Force Base",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SKG",
+        "CityName": "Thessaloniki",
+        "CountryCode": "GR",
+        "AirportName": "Thessaloniki Macedonia",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SKT",
+        "CityName": "Sialkot",
+        "CountryCode": "PK",
+        "AirportName": "Sialkot",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SLC",
+        "CityName": "Salt Lake City",
+        "CountryCode": "US",
+        "AirportName": "Salt Lake City",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SLL",
+        "CityName": "Salalah",
+        "CountryCode": "OM",
+        "AirportName": "Salalah Airport",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SMF",
+        "CityName": "Sacramento",
+        "CountryCode": "US",
+        "AirportName": "Sacramento",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SMG",
+        "CityName": "Sinabang",
+        "CountryCode": "ID",
+        "AirportName": "Simeulue Lasikin Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "SMQ",
+        "CityName": "SAMPIT",
+        "CountryCode": "ID",
+        "AirportName": "Sampit Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SNA",
+        "CityName": "Santa Ana",
+        "CountryCode": "US",
+        "AirportName": "John Wayne-Orange County",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SNN",
+        "CityName": "Shannon",
+        "CountryCode": "IE",
+        "AirportName": "Shannon",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SNO",
+        "CityName": "Sakon Nakhon",
+        "CountryCode": "TH",
+        "AirportName": "Sakon Nakhon",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SOC",
+        "CityName": "SOLO",
+        "CountryCode": "ID",
+        "AirportName": "Adi Sumarmo Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SOF",
+        "CityName": "Sofia",
+        "CountryCode": "BG",
+        "AirportName": "Sofia",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SOQ",
+        "CityName": "SORONG",
+        "CountryCode": "ID",
+        "AirportName": "Domine Eduard Osok Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SOU",
+        "CityName": "Southampton",
+        "CountryCode": "GB",
+        "AirportName": "Southampton",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SPI",
+        "CityName": "Springfield",
+        "CountryCode": "US",
+        "AirportName": "Abraham Lincoln Capital",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SPS",
+        "CityName": "Wichita Falls",
+        "CountryCode": "US",
+        "AirportName": "Sheppard Air Force Base-Wichita Falls Municipal",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SQG",
+        "CityName": "SINTANG",
+        "CountryCode": "ID",
+        "AirportName": "Sintang Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SQH",
+        "CityName": "Son La",
+        "CountryCode": "VN",
+        "AirportName": "Na San",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SQN",
+        "CityName": "Sanana Island",
+        "CountryCode": "ID",
+        "AirportName": "Emalamo Sanana Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "SRG",
+        "CityName": "SEMARANG",
+        "CountryCode": "ID",
+        "AirportName": "Achmad Yani Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SRI",
+        "CityName": "Samarinda",
+        "CountryCode": "ID",
+        "AirportName": "Temindung Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SRQ",
+        "CityName": "Sarasota/Bradenton",
+        "CountryCode": "US",
+        "AirportName": "Sarasota Bradenton",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SSA",
+        "CityName": "Salvador",
+        "CountryCode": "BR",
+        "AirportName": "Deputado Luís Eduardo MagalhãesInternational",
+        "Locale": -3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "STL",
+        "CityName": "St Louis",
+        "CountryCode": "US",
+        "AirportName": "Lambert St Louis",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "STN",
+        "CityName": "London",
+        "CountryCode": "GB",
+        "AirportName": "London Stansted",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "STR",
+        "CityName": "Stuttgart",
+        "CountryCode": "DE",
+        "AirportName": "Stuttgart",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SUB",
+        "CityName": "SURABAYA",
+        "CountryCode": "ID",
+        "AirportName": "Juanda Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SUG",
+        "CityName": "Surigao City",
+        "CountryCode": "PH",
+        "AirportName": "Surigao Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SUP",
+        "CityName": "Sumenep",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Trunojoyo",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "SUX",
+        "CityName": "Sioux City",
+        "CountryCode": "US",
+        "AirportName": "Sioux Gateway Col. Bud Day Field",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SVG",
+        "CityName": "Stavanger",
+        "CountryCode": "NO",
+        "AirportName": "Stavanger, Sola",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SVO",
+        "CityName": "Moscow",
+        "CountryCode": "RU",
+        "AirportName": "Sheremetyevo",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SVX",
+        "CityName": "Yekaterinburg",
+        "CountryCode": "RU",
+        "AirportName": "Koltsovo",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SWA",
+        "CityName": "Shantou/Jieyang",
+        "CountryCode": "CN",
+        "AirportName": "Jieyang Chaoshan Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SWQ",
+        "CityName": "SUMBAWA",
+        "CountryCode": "ID",
+        "AirportName": "Brang Bidji Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SXF",
+        "CityName": "Berlin",
+        "CountryCode": "DE",
+        "AirportName": "Berlin Schönefeld",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SXK",
+        "CityName": "SAUMLAKI",
+        "CountryCode": "ID",
+        "AirportName": "Saumlaki Olilit Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "SYD",
+        "CityName": "Sydney",
+        "CountryCode": "AU",
+        "AirportName": "Sydney Airport",
+        "Locale": 11,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SYR",
+        "CityName": "Syracuse",
+        "CountryCode": "US",
+        "AirportName": "Syracuse Hancock",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SYX",
+        "CityName": "Sanya",
+        "CountryCode": "CN",
+        "AirportName": "Sanya Phoenix",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "SYZ",
+        "CityName": "Shiraz",
+        "CountryCode": "IR",
+        "AirportName": "Shiraz Shahid Dastghaib",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "SZB",
+        "CityName": "Subang",
+        "CountryCode": "MY",
+        "AirportName": "Sultan Abdul Aziz Shah Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "SZX",
+        "CityName": "Shenzhen",
+        "CountryCode": "CN",
+        "AirportName": "Shenzhen Bao'an",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TAC",
+        "CityName": "Tacloban",
+        "CountryCode": "PH",
+        "AirportName": "Tacloban",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TAG",
+        "CityName": "Bohol (Tagbilaran)",
+        "CountryCode": "PH",
+        "AirportName": "Bohol (Tagbilaran)",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TAO",
+        "CityName": "Qingdao",
+        "CountryCode": "CN",
+        "AirportName": "Qingdao Liuting International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TAS",
+        "CityName": "Tashkent",
+        "CountryCode": "UZ",
+        "AirportName": "Tashkent",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TBB",
+        "CityName": "Dong Tac",
+        "CountryCode": "VN",
+        "AirportName": "Dong Tac",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TBH",
+        "CityName": "Tablas",
+        "CountryCode": "PH",
+        "AirportName": "Tablas",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TBS",
+        "CityName": "Tbilisi",
+        "CountryCode": "GE",
+        "AirportName": "Tbilisi",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TBZ",
+        "CityName": "Tabriz",
+        "CountryCode": "IR",
+        "AirportName": "Tabriz",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TCM",
+        "CityName": "Tacoma",
+        "CountryCode": "US",
+        "AirportName": "McChord Air Force Base",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TDG",
+        "CityName": "Tandag",
+        "CountryCode": "PH",
+        "AirportName": "Tandag",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TDX",
+        "CityName": "Trat",
+        "CountryCode": "TH",
+        "AirportName": "Trat",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TER",
+        "CityName": "Lajes",
+        "CountryCode": "PT",
+        "AirportName": "Lajes Field",
+        "Locale": -1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TFN",
+        "CityName": "Tenerife Island",
+        "CountryCode": "ES",
+        "AirportName": "Tenerife Norte",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TFS",
+        "CityName": "Tenerife Island",
+        "CountryCode": "ES",
+        "AirportName": "Tenerife South",
+        "Locale": 0,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TGD",
+        "CityName": "Podgorica",
+        "CountryCode": "CS",
+        "AirportName": "Podgorica",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TGG",
+        "CityName": "Kuala Terengganu",
+        "CountryCode": "MY",
+        "AirportName": "Sultan Mahmud Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "THR",
+        "CityName": "Tehran",
+        "CountryCode": "IR",
+        "AirportName": "Mehrabad",
+        "Locale": 4,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "THS",
+        "CityName": "Sukhothai",
+        "CountryCode": "TH",
+        "AirportName": "Sukhothai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TIA",
+        "CityName": "Tirana",
+        "CountryCode": "AL",
+        "AirportName": "Tirana Mother Teresa",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TIJ",
+        "CityName": "Tijuana",
+        "CountryCode": "MX",
+        "AirportName": "General Abelardo L. Rodriguez",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TIM",
+        "CityName": "TIMIKA",
+        "CountryCode": "ID",
+        "AirportName": "Moses Kilangin Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TIP",
+        "CityName": "Tripoli",
+        "CountryCode": "LY",
+        "AirportName": "Tripoli",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TJG",
+        "CityName": "Tanjung Warukin",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Warukin",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "TJQ",
+        "CityName": "TANJUNG PANDAN",
+        "CountryCode": "ID",
+        "AirportName": "H.A.S. Hanandjoeddin Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TJS",
+        "CityName": "TANJUNG SELOR",
+        "CountryCode": "ID",
+        "AirportName": "Tanjung Harapan Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TKG",
+        "CityName": "BANDAR LAMPUNG",
+        "CountryCode": "ID",
+        "AirportName": "Radin Inten II Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "TLH",
+        "CityName": "Tallahassee",
+        "CountryCode": "US",
+        "AirportName": "Tallahassee Regional",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TLI",
+        "CityName": "TOLITOLI",
+        "CountryCode": "ID",
+        "AirportName": "LALOS AIRPORT",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TLL",
+        "CityName": "Tallinn",
+        "CountryCode": "EE",
+        "AirportName": "Tallinn",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TLS",
+        "CityName": "Toulouse/Blagnac",
+        "CountryCode": "FR",
+        "AirportName": "Toulouse-Blagnac",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TLV",
+        "CityName": "Tel Aviv",
+        "CountryCode": "IL",
+        "AirportName": "Ben Gurion",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TMC",
+        "CityName": "TAMBOLAKA",
+        "CountryCode": "ID",
+        "AirportName": "Waikabubak Airport",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TNA",
+        "CityName": "Jinan",
+        "CountryCode": "CN",
+        "AirportName": "Yaoqiang",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TNJ",
+        "CityName": "TANJUNG PINANG",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Internasional Raja Haji Fisabilillah",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TOL",
+        "CityName": "Toledo",
+        "CountryCode": "US",
+        "AirportName": "Toledo Express",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TOS",
+        "CityName": "Tromsø",
+        "CountryCode": "NO",
+        "AirportName": "Tromsø",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TPA",
+        "CityName": "Tampa",
+        "CountryCode": "US",
+        "AirportName": "Tampa",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TPE",
+        "CityName": "Taipei",
+        "CountryCode": "TW",
+        "AirportName": "Taiwan Taoyuan International Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TRD",
+        "CityName": "Trondheim",
+        "CountryCode": "NO",
+        "AirportName": "Trondheim",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TRI",
+        "CityName": "Bristol/Johnson/Kingsport",
+        "CountryCode": "US",
+        "AirportName": "Tri Cities Regional Tn Va",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TRK",
+        "CityName": "TARAKAN",
+        "CountryCode": "ID",
+        "AirportName": "Juwata Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TRN",
+        "CityName": "Torino",
+        "CountryCode": "IT",
+        "AirportName": "Turin",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TRV",
+        "CityName": "Trivandrum",
+        "CountryCode": "IN",
+        "AirportName": "Trivandrum",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TRZ",
+        "CityName": "Tiruchirappalli",
+        "CountryCode": "IN",
+        "AirportName": "Tiruchirappalli Airport",
+        "Locale": 5.5,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TSE",
+        "CityName": "Astana",
+        "CountryCode": "KZ",
+        "AirportName": "Astana",
+        "Locale": 6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TSF",
+        "CityName": "Treviso",
+        "CountryCode": "IT",
+        "AirportName": "Treviso-Sant'Angelo",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TSN",
+        "CityName": "Tianjin",
+        "CountryCode": "CN",
+        "AirportName": "Tianjin Binhai",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TST",
+        "CityName": "Trang",
+        "CountryCode": "TH",
+        "AirportName": "Trang",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "TSY",
+        "CityName": "Tasikmalaya",
+        "CountryCode": "ID",
+        "AirportName": "Cibeureum Airfield",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "TTE",
+        "CityName": "TERNATE",
+        "CountryCode": "ID",
+        "AirportName": "Babullah Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TUG",
+        "CityName": "Tuguegarao",
+        "CountryCode": "PH",
+        "AirportName": "Tuguegarao",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TUL",
+        "CityName": "Tulsa",
+        "CountryCode": "US",
+        "AirportName": "Tulsa",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TUN",
+        "CityName": "Tunis",
+        "CountryCode": "TN",
+        "AirportName": "Tunis Carthage",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TUS",
+        "CityName": "Tucson",
+        "CountryCode": "US",
+        "AirportName": "Tucson",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TWT",
+        "CityName": "Tawi-Tawi",
+        "CountryCode": "PH",
+        "AirportName": "Tawi-Tawi",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "TWU",
+        "CityName": "Tawau",
+        "CountryCode": "MY",
+        "AirportName": "Tawau Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "TXE",
+        "CityName": "Rembele-Takengon",
+        "CountryCode": "ID",
+        "AirportName": "Rembele-Takengon",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "TXL",
+        "CityName": "Berlin",
+        "CountryCode": "DE",
+        "AirportName": "Berlin-Tegel",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TYN",
+        "CityName": "Taiyuan",
+        "CountryCode": "CN",
+        "AirportName": "Taiyuan Wusu",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TYS",
+        "CityName": "Knoxville",
+        "CountryCode": "US",
+        "AirportName": "McGhee Tyson",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "TZX",
+        "CityName": "Trabzon",
+        "CountryCode": "TR",
+        "AirportName": "Trabzon",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "UBP",
+        "CityName": "Ubon Ratchathani",
+        "CountryCode": "TH",
+        "AirportName": "Ubon Ratchathani",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "UFA",
+        "CityName": "Ufa",
+        "CountryCode": "RU",
+        "AirportName": "Ufa",
+        "Locale": 5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "UIH",
+        "CityName": "Phu Cat",
+        "CountryCode": "VN",
+        "AirportName": "Phu Cat",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "UIO",
+        "CityName": "Quito",
+        "CountryCode": "EC",
+        "AirportName": "Mariscal Sucre",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "UNN",
+        "CityName": "Ranong",
+        "CountryCode": "TH",
+        "AirportName": "Ranong",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "UOL",
+        "CityName": "BUOL",
+        "CountryCode": "ID",
+        "AirportName": "Pogogul",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "UPG",
+        "CityName": "Makassar",
+        "CountryCode": "ID",
+        "AirportName": "Hasanudin Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "URT",
+        "CityName": "Surat Thani",
+        "CountryCode": "TH",
+        "AirportName": "Surat Thani",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "USM",
+        "CityName": "Samui",
+        "CountryCode": "TH",
+        "AirportName": "Samui",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "USU",
+        "CityName": "Coron (Busuanga)",
+        "CountryCode": "PH",
+        "AirportName": "Coron (Busuanga)",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "UTH",
+        "CityName": "Udonthani",
+        "CountryCode": "TH",
+        "AirportName": "Udonthani",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "UTP",
+        "CityName": "Rayong",
+        "CountryCode": "TH",
+        "AirportName": "Internasional U-Tapao-Rayong-Pattaya",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "VAR",
+        "CityName": "Varna",
+        "CountryCode": "BG",
+        "AirportName": "Varna",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VBG",
+        "CityName": "Lompoc",
+        "CountryCode": "US",
+        "AirportName": "Vandenberg Air Force Base",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VCA",
+        "CityName": "Can Tho",
+        "CountryCode": "VN",
+        "AirportName": "Can Tho",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "VCE",
+        "CityName": "Venice",
+        "CountryCode": "IT",
+        "AirportName": "Venice Marco Polo",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VCL",
+        "CityName": "Chu Lai",
+        "CountryCode": "VN",
+        "AirportName": "Chu Lai",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "VDA",
+        "CityName": "Eilat",
+        "CountryCode": "IL",
+        "AirportName": "Ovda",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VDH",
+        "CityName": "Dong Hoi",
+        "CountryCode": "VN",
+        "AirportName": "Dong Hoi",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "VIE",
+        "CityName": "Vienna",
+        "CountryCode": "AT",
+        "AirportName": "Vienna",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VII",
+        "CityName": "Vinh",
+        "CountryCode": "VN",
+        "AirportName": "Vinh",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "VKO",
+        "CityName": "Moscow",
+        "CountryCode": "RU",
+        "AirportName": "Vnukovo",
+        "Locale": 3,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VNO",
+        "CityName": "Vilnius",
+        "CountryCode": "LT",
+        "AirportName": "Vilnius",
+        "Locale": 2,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VPM",
+        "CityName": "Ampana",
+        "CountryCode": "ID",
+        "AirportName": "Bandar Udara Tanjung Api",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "VPS",
+        "CityName": "Valparaiso",
+        "CountryCode": "US",
+        "AirportName": "Eglin Air Force Base",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VRA",
+        "CityName": "Varadero",
+        "CountryCode": "CU",
+        "AirportName": "Juan Gualberto Gomez",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VRC",
+        "CityName": "Virac",
+        "CountryCode": "PH",
+        "AirportName": "Virac",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "VRN",
+        "CityName": "Verona",
+        "CountryCode": "IT",
+        "AirportName": "Verona Villafranca",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "VTG",
+        "CityName": "Vung Tau",
+        "CountryCode": "VN",
+        "AirportName": "Vung Tau",
+        "Locale": 7,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "VTZ",
+        "CityName": "Visakhapatnam",
+        "CountryCode": "IN",
+        "AirportName": "Visakhapatnam Airport",
+        "Locale": 5.5,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "WAW",
+        "CityName": "Warsaw",
+        "CountryCode": "PL",
+        "AirportName": "Warsaw Chopin",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "WGP",
+        "CityName": "WAINGAPU",
+        "CountryCode": "ID",
+        "AirportName": "Umbu Mehang Kunda Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "WLG",
+        "CityName": "Wellington",
+        "CountryCode": "NZ",
+        "AirportName": "Wellington International Airport",
+        "Locale": 12,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "WMI",
+        "CityName": "Warsaw",
+        "CountryCode": "PL",
+        "AirportName": "Modlin",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "WMX",
+        "CityName": "Wamena",
+        "CountryCode": "ID",
+        "AirportName": "Wamena Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "WNI",
+        "CityName": "WAKATOBI",
+        "CountryCode": "ID",
+        "AirportName": "Matahora Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "WNP",
+        "CityName": "Naga",
+        "CountryCode": "PH",
+        "AirportName": "Naga",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "WNZ",
+        "CityName": "Wenzhou",
+        "CountryCode": "CN",
+        "AirportName": "Wenzhou Yongqiang",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "WRB",
+        "CityName": "Warner Robins",
+        "CountryCode": "US",
+        "AirportName": "Robins Air Force Base",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "WUB",
+        "CityName": "BULI",
+        "CountryCode": "ID",
+        "AirportName": "Buli Airport",
+        "Locale": 9,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": null
+    },
+    {
+        "Code": "WUH",
+        "CityName": "Wuhan",
+        "CountryCode": "CN",
+        "AirportName": "Wuhan Tianhe",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "WUX",
+        "CityName": "Wuxi",
+        "CountryCode": "ID",
+        "AirportName": "Shuofang Sunan Internasional Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "XCH",
+        "CityName": "Christmas Island Airport",
+        "CountryCode": "AU",
+        "AirportName": "Christmas Island Airport",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": false,
+        "IsGds": true
+    },
+    {
+        "Code": "XIY",
+        "CityName": "Xianyang",
+        "CountryCode": "CN",
+        "AirportName": "Xi'an Xianyang",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "XMN",
+        "CityName": "Xiamen",
+        "CountryCode": "CN",
+        "AirportName": "Xiamen Gaoqi",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "YEG",
+        "CityName": "Edmonton",
+        "CountryCode": "CA",
+        "AirportName": "Edmonton",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YHZ",
+        "CityName": "Halifax",
+        "CountryCode": "CA",
+        "AirportName": "Halifax / Stanfield",
+        "Locale": -4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YKR",
+        "CityName": "Selayar",
+        "CountryCode": "ID",
+        "AirportName": "Selayar",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": false
+    },
+    {
+        "Code": "YOW",
+        "CityName": "Ottawa",
+        "CountryCode": "CA",
+        "AirportName": "Ottawa Macdonald-Cartier",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YQB",
+        "CityName": "Quebec",
+        "CountryCode": "CA",
+        "AirportName": "Quebec Jean Lesage",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YUL",
+        "CityName": "Montreal",
+        "CountryCode": "CA",
+        "AirportName": "Montreal / Pierre Elliott Trudeau",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YVR",
+        "CityName": "Vancouver",
+        "CountryCode": "CA",
+        "AirportName": "Vancouver",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YWG",
+        "CityName": "Winnipeg",
+        "CountryCode": "CA",
+        "AirportName": "Winnipeg / James Armstrong Richardson",
+        "Locale": -6,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YXU",
+        "CityName": "London",
+        "CountryCode": "CA",
+        "AirportName": "London",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YYC",
+        "CityName": "Calgary",
+        "CountryCode": "CA",
+        "AirportName": "Calgary",
+        "Locale": -7,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YYJ",
+        "CityName": "Victoria",
+        "CountryCode": "CA",
+        "AirportName": "Victoria",
+        "Locale": -8,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YYT",
+        "CityName": "St. John's",
+        "CountryCode": "CA",
+        "AirportName": "St. John's",
+        "Locale": -4,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "YYZ",
+        "CityName": "Toronto",
+        "CountryCode": "CA",
+        "AirportName": "Lester B. Pearson",
+        "Locale": -5,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ZAG",
+        "CityName": "Zagreb",
+        "CountryCode": "HR",
+        "AirportName": "Zagreb",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ZAM",
+        "CityName": "Zamboanga",
+        "CountryCode": "PH",
+        "AirportName": "Zamboanga",
+        "Locale": 8,
+        "Active": true,
+        "IsNonGds": true,
+        "IsGds": true
+    },
+    {
+        "Code": "ZQN",
+        "CityName": "Queenstown",
+        "CountryCode": "NZ",
+        "AirportName": "Queenstown Airport",
+        "Locale": 12,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    },
+    {
+        "Code": "ZRH",
+        "CityName": "Zurich",
+        "CountryCode": "CH",
+        "AirportName": "Zurich",
+        "Locale": 1,
+        "Active": true,
+        "IsNonGds": null,
+        "IsGds": true
+    }
+]

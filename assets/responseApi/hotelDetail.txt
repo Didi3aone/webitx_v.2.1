@@ -1,0 +1,185 @@
+{
+    "Data": {
+        "HotelKey": "k2Xo0Qs8CEaJfqOt01iItQ",
+        "HotelName": "Vio Veteran",
+        "ProviderCode": "MG",
+        "ProviderHotelCode": "WSASIDBDO000318",
+        "Description": "Vio Veteran offers minimalist-style rooms and is a 5-minute walk from Bee Shopping Mall. Free WiFi access is available throughout the area.",
+        "Latitude": -6.9192724227905273,
+        "Longitude": 107.61504364013672,
+        "Website": "topotels.com",
+        "Address": "Jl. Veteran No.32, Kb. Pisang, Sumur Bandung, Kota Bandung, Jawa Barat 40112, Indonesia",
+        "Telephone": "+62 22 4266100",
+        "Facsimile": "+62 22 4266099",
+        "Email": "veteran@viohotels.com",
+        "Facilities": [
+            {
+                "Code": "220V",
+                "Description": "220 Volt"
+            },
+            {
+                "Code": "AC",
+                "Description": "Air Condition"
+            },
+            {
+                "Code": "ELV",
+                "Description": "Elevator"
+            },
+            {
+                "Code": "GRDN",
+                "Description": "Garden"
+            },
+            {
+                "Code": "NOSMR",
+                "Description": "Non Smoking Room"
+            },
+            {
+                "Code": "PRK",
+                "Description": "Parking"
+            },
+            {
+                "Code": "NOPETS",
+                "Description": "Pets Not Allowed"
+            },
+            {
+                "Code": "RCAR",
+                "Description": "Rent car"
+            },
+            {
+                "Code": "RENTM",
+                "Description": "Rent Mobile"
+            },
+            {
+                "Code": "RST",
+                "Description": "Restaurant"
+            },
+            {
+                "Code": "RSVC",
+                "Description": "Room service"
+            },
+            {
+                "Code": "SHUTS",
+                "Description": "Shuttle Service"
+            },
+            {
+                "Code": "TECOF",
+                "Description": "Teacoffee"
+            },
+            {
+                "Code": "TLP",
+                "Description": "Telephone"
+            },
+            {
+                "Code": "TDESK",
+                "Description": "Tour Desk"
+            },
+            {
+                "Code": "TV",
+                "Description": "TV"
+            },
+            {
+                "Code": "WIFI",
+                "Description": "Wifi"
+            }
+        ],
+        "Images": [
+            {
+                "Description": "\"2018-01-21.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/337043CD86ADBFFD_C977486CD42E9E78.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/337043CD86ADBFFD_C977486CD42E9E78.jpg"
+            },
+            {
+                "Description": "\"20180216_063849.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/FAD7799A7BD61923_6E26304163CC78FA.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/FAD7799A7BD61923_6E26304163CC78FA.jpg"
+            },
+            {
+                "Description": "\"2016-03-03.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/838F7A530C5C9D0B_C578370FD1151068.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/838F7A530C5C9D0B_C578370FD1151068.jpg"
+            },
+            {
+                "Description": "\"20180216_064917.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/290445010F5085E2_D10AC6B5169F300A.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/290445010F5085E2_D10AC6B5169F300A.jpg"
+            },
+            {
+                "Description": "\"20180216_061043.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/7AF52B506583B341_B352A685C5BB2F14.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/7AF52B506583B341_B352A685C5BB2F14.jpg"
+            },
+            {
+                "Description": "\"20180216_064747.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/17FA823BADCB6C7A_EB08AF5D49CFE596.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/17FA823BADCB6C7A_EB08AF5D49CFE596.jpg"
+            },
+            {
+                "Description": "\"2017-04-29.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/8702D1BA70DDC83F_A042A2FB606B22DF.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/8702D1BA70DDC83F_A042A2FB606B22DF.jpg"
+            },
+            {
+                "Description": "\"2018-05-31.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/F7EB9CDCC8A7EF0B_5A56EB4467B0F733.jpg",
+                "ThumbUri": "https://hstatic.blob.core.windows.net/hs-timg/k2Xo0Qs8CEaJfqOt01iItQ/F7EB9CDCC8A7EF0B_5A56EB4467B0F733.jpg"
+            },
+            {
+                "Description": "\"2018-04-08.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/2D0224D5A4A10B92_F4921F9E05073EA0.jpg",
+                "ThumbUri": "https://hotel.opsinfra.com/Asset/Img?k=k2Xo0Qs8CEaJfqOt01iItQ/2D0224D5A4A10B92_F4921F9E05073EA0.jpg"
+            },
+            {
+                "Description": "\"IMG_20180107_133906.jpg\"",
+                "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/k2Xo0Qs8CEaJfqOt01iItQ/A4014DE8A1FD8882_3833C43CFC6D5AA5.jpg",
+                "ThumbUri": "https://hotel.opsinfra.com/Asset/Img?k=k2Xo0Qs8CEaJfqOt01iItQ/A4014DE8A1FD8882_3833C43CFC6D5AA5.jpg"
+            }
+        ],
+        "Reviews": [
+            {
+                "RelativeTime": "2 months ago",
+                "Text": "This 2stars hotel is suitable for transit / just sleep. The strategic location near street Braga and Asia Afrika so you can walk around 10-15 minutes. You can also find many eat places near the hotel, plus it's front of Batagor kingsley if you wanna try, one of famous culinary in Bandung.",
+                "AuthorName": "Noviana Ika Setyaningrum",
+                "Rating": 3,
+                "Uri": "https://www.google.com/maps/contrib/105006457760867183161/reviews",
+                "PostedTime": "2018-09-30T03:32:46+00:00"
+            },
+            {
+                "RelativeTime": "3 months ago",
+                "Text": "Buat tidur doang is okay sih .. Don't expect too much because this is a 2 star hotel",
+                "AuthorName": "garry lutfiansyah",
+                "Rating": 3,
+                "Uri": "https://www.google.com/maps/contrib/111124348257651215464/reviews",
+                "PostedTime": "2018-09-15T06:59:37+00:00"
+            },
+            {
+                "RelativeTime": "2 months ago",
+                "Text": "Nice just nice",
+                "AuthorName": "imam jasuli",
+                "Rating": 3,
+                "Uri": "https://www.google.com/maps/contrib/104850696826794397660/reviews",
+                "PostedTime": "2018-10-11T01:24:00+00:00"
+            },
+            {
+                "RelativeTime": "one year ago",
+                "Text": "Good place for one night stay. It was pretty clean, nice staff. I booked for a cozy room, but there's no windows there, a very tiny space (almost none). But it's good for overnight stay",
+                "AuthorName": "Pratiti Dini Fachrurrozi",
+                "Rating": 2,
+                "Uri": "https://www.google.com/maps/contrib/100461495285613381527/reviews",
+                "PostedTime": "2017-12-23T11:32:31+00:00"
+            },
+            {
+                "RelativeTime": "7 months ago",
+                "Text": "Small hotel but quite cozy. Right hotel in the right place. Lots of delicious foods here. Like Batagor Kingsley, Makuta etc",
+                "AuthorName": "deni Iskandar",
+                "Rating": 4,
+                "Uri": "https://www.google.com/maps/contrib/105845142937487022643/reviews",
+                "PostedTime": "2018-05-12T14:21:20+00:00"
+            }
+        ],
+        "CancelPolicy": null
+    },
+    "IsError": false,
+    "Message": "OK",
+    "ErrorCode": null,
+    "Warning": null
+}

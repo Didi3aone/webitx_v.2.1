@@ -1,0 +1,144 @@
+stdClass Object
+(
+    [Id] => d4741af2-cb42-4eb7-afa0-037d5e1fed7f
+    [Airline] => 11
+    [BookingCode] => OYBI1J
+    [TimeLimit] => 2018-10-13 16:27
+    [Created] => 2018-10-11 16:27
+    [Reserved] => 2018-10-11 16:27
+    [Ticketed] => 
+    [Status] => Expired
+    [BosInvoiceNo] => -
+    [Contact] => stdClass Object
+        (
+            [Title] => MR
+            [FirstName] => TRIVALDI
+            [LastName] => RAHARDJA
+            [Email] => trivaldirahardja.tr@gmail.com
+            [MobilePhone] => +62111222333777
+            [HomePhone] => +62111222333777
+        )
+
+    [Passengers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [Index] => 1
+                    [Type] => Adult
+                    [Title] => MR
+                    [FirstName] => TRIVALDI
+                    [LastName] => TRIVALDI
+                    [BirthDate] => 2005-10-11 00:00
+                    [Gender] => Unknown
+                    [HomePhone] => 62111222333777
+                    [MobilePhone] => 62111222333777
+                    [OtherPhone] => 
+                    [Nationality] => 
+                    [IdNumber] => 
+                    [Passport] => stdClass Object
+                        (
+                            [Number] => 
+                            [OriginCountry] => 
+                            [FirstName] => 
+                            [LastName] => 
+                            [Expire] => 
+                        )
+
+                    [TicketNumber] => 
+                )
+
+        )
+
+    [Payments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [Code] => PAX
+                    [Title] => Basic Fare
+                    [Amount] => 475000
+                    [Currency] => IDR
+                    [ForeignAmount] => 475000
+                    [ForeignCurrency] => IDR
+                )
+
+            [1] => stdClass Object
+                (
+                    [Code] => VAT
+                    [Title] => Fare Vat
+                    [Amount] => 47500
+                    [Currency] => IDR
+                    [ForeignAmount] => 47500
+                    [ForeignCurrency] => IDR
+                )
+
+            [2] => stdClass Object
+                (
+                    [Code] => TOTAL
+                    [Title] => Total Fare
+                    [Amount] => 592500
+                    [Currency] => IDR
+                    [ForeignAmount] => 592500
+                    [ForeignCurrency] => IDR
+                )
+
+            [3] => stdClass Object
+                (
+                    [Code] => NTS
+                    [Title] => NTS
+                    [Amount] => 568750
+                    [Currency] => IDR
+                    [ForeignAmount] => 568750
+                    [ForeignCurrency] => IDR
+                )
+
+            [4] => stdClass Object
+                (
+                    [Code] => SF
+                    [Title] => Service Fee
+                    [Amount] => 0
+                    [Currency] => IDR
+                    [ForeignAmount] => 0
+                    [ForeignCurrency] => IDR
+                )
+
+            [5] => stdClass Object
+                (
+                    [Code] => TOTAL_PAID
+                    [Title] => Total Paid
+                    [Amount] => 592500
+                    [Currency] => IDR
+                    [ForeignAmount] => 592500
+                    [ForeignCurrency] => IDR
+                )
+
+        )
+
+    [FlightDetails] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [Airline] => 11
+                    [FlightNumber] => KD 710
+                    [CarrierCode] => 
+                    [Origin] => CGK
+                    [Destination] => DPS
+                    [DepartDate] => 2018-10-14
+                    [DepartTime] => 08:00
+                    [ArriveDate] => 2018-10-14
+                    [ArriveTime] => 10:30
+                    [Num] => 0
+                    [Seq] => 0
+                    [Class] => N
+                    [Category] => 
+                    [AirlineImageUrl] => http://portalvhds11000v9mfhk0k.blob.core.windows.net/airline/-mail.png
+                )
+
+        )
+
+    [DiscountInfo] => 
+    [PaymentTransactionInfo] => 
+    [SqlDiscountInfo] => 
+    [SqlPaymentInfo] => 
+    [Histories] => 
+    [Remarks] => 
+)

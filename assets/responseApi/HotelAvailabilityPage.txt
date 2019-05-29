@@ -1,0 +1,4524 @@
+{
+    "Count": 751,
+    "MaxPage": 31,
+    "MinPrice": 0,
+    "MaxPrice": 0,
+    "Stars": [
+        {
+            "Rating": 0,
+            "Count": 95
+        },
+        {
+            "Rating": 1,
+            "Count": 1
+        },
+        {
+            "Rating": 2,
+            "Count": 40
+        },
+        {
+            "Rating": 3,
+            "Count": 200
+        },
+        {
+            "Rating": 4,
+            "Count": 267
+        },
+        {
+            "Rating": 5,
+            "Count": 143
+        }
+    ],
+    "Areas": [
+        {
+            "Area": "Bali",
+            "Count": 4
+        },
+        {
+            "Area": "Jimbaran",
+            "Count": 34
+        },
+        {
+            "Area": "Pemecutan Klod",
+            "Count": 4
+        },
+        {
+            "Area": "Kedonganan",
+            "Count": 6
+        },
+        {
+            "Area": "Benoa",
+            "Count": 56
+        },
+        {
+            "Area": "Dauh Puri Klod",
+            "Count": 3
+        },
+        {
+            "Area": "Kesiman Kertalangu",
+            "Count": 5
+        },
+        {
+            "Area": "Sanur Kaja",
+            "Count": 11
+        },
+        {
+            "Area": "Padangsambian",
+            "Count": 3
+        },
+        {
+            "Area": "Kuta",
+            "Count": 127
+        },
+        {
+            "Area": "Ungasan",
+            "Count": 9
+        },
+        {
+            "Area": "Gianyar",
+            "Count": 1
+        },
+        {
+            "Area": "Kp. Baru",
+            "Count": 1
+        },
+        {
+            "Area": "Dauh Puri Kaja",
+            "Count": 2
+        },
+        {
+            "Area": "Kaliasem",
+            "Count": 4
+        },
+        {
+            "Area": "Anturan",
+            "Count": 8
+        },
+        {
+            "Area": "Pecatu",
+            "Count": 17
+        },
+        {
+            "Area": "Sayan",
+            "Count": 9
+        },
+        {
+            "Area": "Pemecutan Kaja",
+            "Count": 3
+        },
+        {
+            "Area": "Padangsambian Kaja",
+            "Count": 3
+        },
+        {
+            "Area": "Pemuteran",
+            "Count": 1
+        },
+        {
+            "Area": "Legian",
+            "Count": 74
+        },
+        {
+            "Area": "Dauh Puri Kauh",
+            "Count": 5
+        },
+        {
+            "Area": "MAS",
+            "Count": 12
+        },
+        {
+            "Area": "Sanur Kauh",
+            "Count": 7
+        },
+        {
+            "Area": "Tegallalang",
+            "Count": 6
+        },
+        {
+            "Area": "Ubud",
+            "Count": 31
+        },
+        {
+            "Area": "Kedewatan",
+            "Count": 18
+        },
+        {
+            "Area": "Kutuh",
+            "Count": 3
+        },
+        {
+            "Area": "Pancasari",
+            "Count": 1
+        },
+        {
+            "Area": "Petulu",
+            "Count": 3
+        },
+        {
+            "Area": "Tuban",
+            "Count": 15
+        },
+        {
+            "Area": "Beraban",
+            "Count": 4
+        },
+        {
+            "Area": "Manggis",
+            "Count": 3
+        },
+        {
+            "Area": "Cemagi",
+            "Count": 1
+        },
+        {
+            "Area": "Candidasa",
+            "Count": 1
+        },
+        {
+            "Area": "Kerobokan Kelod",
+            "Count": 48
+        },
+        {
+            "Area": "Pelaga",
+            "Count": 1
+        },
+        {
+            "Area": "Sengkidu",
+            "Count": 8
+        },
+        {
+            "Area": "Jungutbatu",
+            "Count": 6
+        },
+        {
+            "Area": "Kenderan",
+            "Count": 2
+        },
+        {
+            "Area": "Batuan",
+            "Count": 1
+        },
+        {
+            "Area": "Peliatan",
+            "Count": 2
+        },
+        {
+            "Area": "Sanur",
+            "Count": 26
+        },
+        {
+            "Area": "Hijau Kelod",
+            "Count": 1
+        },
+        {
+            "Area": "Taro",
+            "Count": 1
+        },
+        {
+            "Area": "Sudimara",
+            "Count": 1
+        },
+        {
+            "Area": "Lebih",
+            "Count": 1
+        },
+        {
+            "Area": "Pejarakan",
+            "Count": 4
+        },
+        {
+            "Area": "Panjer",
+            "Count": 2
+        },
+        {
+            "Area": "Singakerta",
+            "Count": 4
+        },
+        {
+            "Area": "Pengosekan",
+            "Count": 1
+        },
+        {
+            "Area": "Sidakarya",
+            "Count": 2
+        },
+        {
+            "Area": "Tulamben",
+            "Count": 1
+        },
+        {
+            "Area": "Lembongan",
+            "Count": 2
+        },
+        {
+            "Area": "Pererenan",
+            "Count": 2
+        },
+        {
+            "Area": "Seminyak",
+            "Count": 60
+        },
+        {
+            "Area": "Dangin Puri Kauh",
+            "Count": 1
+        },
+        {
+            "Area": "Sakti",
+            "Count": 1
+        },
+        {
+            "Area": "Canggu",
+            "Count": 6
+        },
+        {
+            "Area": "Temukus",
+            "Count": 1
+        },
+        {
+            "Area": "Lodtunduh",
+            "Count": 6
+        },
+        {
+            "Area": "Tj. Benoa",
+            "Count": 4
+        },
+        {
+            "Area": "Banjar Tebesaya",
+            "Count": 1
+        },
+        {
+            "Area": "Bunutan",
+            "Count": 2
+        },
+        {
+            "Area": "Tibubeneng",
+            "Count": 5
+        },
+        {
+            "Area": "Pejeng Kaja",
+            "Count": 4
+        },
+        {
+            "Area": "Melinggih Kelod",
+            "Count": 2
+        },
+        {
+            "Area": "Kayu Putih",
+            "Count": 1
+        },
+        {
+            "Area": "Kelusa",
+            "Count": 5
+        },
+        {
+            "Area": "Buahan",
+            "Count": 2
+        },
+        {
+            "Area": "Banjar Nagi",
+            "Count": 1
+        },
+        {
+            "Area": "Singapadu",
+            "Count": 1
+        },
+        {
+            "Area": "Ketewel",
+            "Count": 1
+        },
+        {
+            "Area": "Denpasar",
+            "Count": 2
+        },
+        {
+            "Area": "Pemogan",
+            "Count": 3
+        },
+        {
+            "Area": "Dalung",
+            "Count": 1
+        },
+        {
+            "Area": "Renon",
+            "Count": 1
+        },
+        {
+            "Area": "Kerobokan",
+            "Count": 7
+        },
+        {
+            "Area": "Padangsambian Klod",
+            "Count": 2
+        },
+        {
+            "Area": "Pekutatan",
+            "Count": 1
+        },
+        {
+            "Area": "Pemaron",
+            "Count": 1
+        },
+        {
+            "Area": "Keliki",
+            "Count": 2
+        },
+        {
+            "Area": "Petak Kaja",
+            "Count": 1
+        },
+        {
+            "Area": "Candikuning",
+            "Count": 1
+        },
+        {
+            "Area": "Takmung",
+            "Count": 1
+        },
+        {
+            "Area": "Tukadmungga",
+            "Count": 1
+        },
+        {
+            "Area": "Baturiti",
+            "Count": 2
+        },
+        {
+            "Area": "Bondalem",
+            "Count": 1
+        },
+        {
+            "Area": "Mumbul",
+            "Count": 1
+        },
+        {
+            "Area": "Batubulan",
+            "Count": 1
+        },
+        {
+            "Area": "Sebatu",
+            "Count": 1
+        },
+        {
+            "Area": "Medahan",
+            "Count": 1
+        },
+        {
+            "Area": "Puhu",
+            "Count": 2
+        },
+        {
+            "Area": "Sukawati",
+            "Count": 1
+        },
+        {
+            "Area": "Kelating",
+            "Count": 1
+        },
+        {
+            "Area": "Kemenuh",
+            "Count": 1
+        }
+    ],
+    "Hotels": [
+        {
+            "HotelKey": "NP_RG_81D6A5FE9947793D",
+            "HotelName": "(TEST) Speed Godzilla Bali",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSIDDPS999997",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Bali",
+            "Location": "NONE",
+            "Latitude": -8.4095178,
+            "Longitude": 115.188916,
+            "Address": "test / test",
+            "MapUri": "https://www.google.com/maps/search/?api=1&query=(TEST) Speed Godzilla Bali test / test",
+            "Phone": null,
+            "Facsimile": null,
+            "Email": "",
+            "Website": "",
+            "ImageUri": "https://hstatic.blob.core.windows.net/pub/noimg2.png",
+            "Mapped": false,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 80000,
+            "PricePerNight": 80000,
+            "PricePerRoomNight": 80000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA140514092",
+                    "RoomKey": "F6D2486BWRXDDC57D3AE2A3B3A4",
+                    "RoomHash": "26575E83",
+                    "RoomName": "TWIN  SEA VIEW",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 80000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 80000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 80000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA151015584",
+                    "RoomKey": "F6D2486BWRX42C94A3880D3536D",
+                    "RoomHash": "ABD6967E",
+                    "RoomName": "SUPERIOR CHIC TOWER ROOM",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 180000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 180000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 180000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06040036",
+                    "RoomKey": "F6D2486BWRX11C9DFD23D545AD3",
+                    "RoomHash": "4F45C373",
+                    "RoomName": "POOL VILLA",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 180000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 180000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 180000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06080232",
+                    "RoomKey": "F6D2486BWRX9FE679146CA753B5",
+                    "RoomHash": "A193E7",
+                    "RoomName": "DUPLEX",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 3547680,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 4434600,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 4434600
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06030122",
+                    "RoomKey": "F6D2486BWRX753DA2F664C2C368",
+                    "RoomHash": "A2A683C",
+                    "RoomName": "DELUXE SUITE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 3580000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 3580000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 3580000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "zvubbKTVBU6qogWbHALB8g",
+            "HotelName": "Bali Utopia Backpacker",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS003244",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Jimbaran",
+            "Location": "Uluwatu",
+            "Latitude": -8.7841535,
+            "Longitude": 115.1715255,
+            "Address": "Jalan Uluwatu 2, No 2A, Jimbaran, 80361 Bali, Indo",
+            "MapUri": "https://maps.google.com/?cid=17892823395248768681",
+            "Phone": "6285790707043",
+            "Facsimile": "6285790707043",
+            "Email": "bali@bedsolving.com",
+            "Website": "http://www.bedsolving.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/zvubbKTVBU6qogWbHALB8g/F3F73EE515E3872C_DD6FFAC125D50BB9.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 165000,
+            "PricePerNight": 165000,
+            "PricePerRoomNight": 165000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA09010059",
+                    "RoomKey": "F6D2486BWRX416F1A2E59F109C5",
+                    "RoomHash": "82107608",
+                    "RoomName": "DORMITORY",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 165000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 165000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 165000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "EQ83MZANwUaCL2ojIpPj8w",
+            "HotelName": "Darma Wisata",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS003178",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Pemecutan Klod",
+            "Location": "Denpasar",
+            "Latitude": -8.6671543121337891,
+            "Longitude": 115.20645141601563,
+            "Address": "Jalan Imam Bonjol No. 125 PO BOX 3226, Pemecutan Klod, Denpasar Barat",
+            "MapUri": "https://maps.google.com/?cid=11441886077240383274",
+            "Phone": "+62 361 484186",
+            "Facsimile": "+62 361 484186",
+            "Email": "darmawisata@gmail.com",
+            "Website": "http://hotel-darma-wisata.business.site",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/EQ83MZANwUaCL2ojIpPj8w/AC3384CAB6A168E_E78B7A5322591F6C.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 208760,
+            "PricePerNight": 208760,
+            "PricePerRoomNight": 208760,
+            "Facilities": [
+                "PRK",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRXC3F62B0276869165",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 208760,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 208760,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 208760
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX6FAE45943012A32D",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 217580,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 217580,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 217580
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "gNLAWLJJL0KOAQQld8glYg",
+            "HotelName": "Sari Segara Resort",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001586",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kedonganan",
+            "Location": "Jimbaran Bay",
+            "Latitude": -8.7641506195068359,
+            "Longitude": 115.17056274414063,
+            "Address": "Jl.Pantai Kedonganan, Jimbaran, P.O.Box 1074 Tuban",
+            "MapUri": "https://maps.google.com/?cid=9580095161602897736",
+            "Phone": "(62) 361 - 703 - 647",
+            "Facsimile": "(62) 361 - 703 - 330",
+            "Email": "info@bedsolving.com",
+            "Website": "http://www.sarisegara.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/gNLAWLJJL0KOAQQld8glYg/B8797F1EFEF44E9A_F4FC939BD42FBD5E.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 255000,
+            "PricePerNight": 255000,
+            "PricePerRoomNight": 255000,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "SPA",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06050025",
+                    "RoomKey": "F6D2486BWRX303FC84833CF6496",
+                    "RoomHash": "B4680627",
+                    "RoomName": "STANDARD FAN",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 255000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 255000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 255000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06040267",
+                    "RoomKey": "F6D2486BWRX54E6A604C266D4F",
+                    "RoomHash": "4D02EE03",
+                    "RoomName": "DELUXE GARDEN",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 330000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 330000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 330000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06040267",
+                    "RoomKey": "F6D2486BWRX56A8833F2577E802",
+                    "RoomHash": "4D02EE03",
+                    "RoomName": "DELUXE GARDEN",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 360000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 360000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 360000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06040028",
+                    "RoomKey": "F6D2486BWRX1AA935280D334F7D",
+                    "RoomHash": "4E889714",
+                    "RoomName": "DELUXE POOL VIEW",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 460000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 460000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 460000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA09020787",
+                    "RoomKey": "D5F890DAWRX7E814F477093E3B1",
+                    "RoomHash": "D0663AEA",
+                    "RoomName": "SINGLE STANDARD",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 443522.98,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 443522.98,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 443522.98
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150617090",
+                    "RoomKey": "D5F890DAWRX37F58341D7AE0AA9",
+                    "RoomHash": "1A3A5B31",
+                    "RoomName": "SINGLE DELUXE GARDEN VIEW",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 529978.98,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 529978.98,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 529978.98
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150617090",
+                    "RoomKey": "D5F890DAWRX2B82ED4245BD2BBA",
+                    "RoomHash": "1A3A5B31",
+                    "RoomName": "SINGLE DELUXE GARDEN VIEW",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 564560.98,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 564560.98,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 564560.98
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA140515659",
+                    "RoomKey": "D5F890DAWRXC3758EF184D8E24E",
+                    "RoomHash": "E47B1807",
+                    "RoomName": "SINGLE DELUXE POOL VIEW",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 679834.98,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 679834.98,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 679834.98
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "2xydWR1diEChzzEODt0Yyg",
+            "HotelName": "POP Hotel Nusa Dua",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001706",
+            "StarRating": 2,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Benoa",
+            "Location": "Nusa Dua",
+            "Latitude": -8.784846305847168,
+            "Longitude": 115.19847869873047,
+            "Address": "Jl. Bypass Ngurah Rai No. 188 X, Mumbul",
+            "MapUri": "https://maps.google.com/?cid=1187957825832099920",
+            "Phone": "+62 361 - 849 8853",
+            "Facsimile": "+62 361 - 849 8852",
+            "Email": "info-pop-nusadua@tauzia.com",
+            "Website": "http://www.pophotels.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/2xydWR1diEChzzEODt0Yyg/1EA35E3C57A5F7E7_297DA73F5A3D6055.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 265000,
+            "PricePerNight": 265000,
+            "PricePerRoomNight": 265000,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "RSVC",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150601997",
+                    "RoomKey": "F6D2486BWRX73C11E34343EA048",
+                    "RoomHash": "FD3F09D",
+                    "RoomName": "POP ROOM",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 280000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 280000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 280000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150601997",
+                    "RoomKey": "F6D2486BWRX8CE0EAE802D312FA",
+                    "RoomHash": "FD3F09D",
+                    "RoomName": "POP ROOM",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 320000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 320000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 320000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150601997",
+                    "RoomKey": "D5F890DAWRX73C11E34343EA048",
+                    "RoomHash": "FD3F09D",
+                    "RoomName": "POP ROOM",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 265000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 265000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 265000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150601997",
+                    "RoomKey": "D5F890DAWRX8CE0EAE802D312FA",
+                    "RoomHash": "FD3F09D",
+                    "RoomName": "POP ROOM",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 305000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 305000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 305000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "P2VQFihyQku7SBMaH6SUEQ",
+            "HotelName": "Grand Pondok Puri Ayu",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS000783",
+            "StarRating": 1,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Dauh Puri Klod",
+            "Location": "Denpasar",
+            "Latitude": -8.6705474853515625,
+            "Longitude": 115.21084594726563,
+            "Address": "Jl. Teuku Umar Gang Sesapi No. 2 &amp; 3, Denpasar",
+            "MapUri": "https://maps.google.com/?cid=3706143825397525153",
+            "Phone": "+62 361 228973",
+            "Facsimile": "",
+            "Email": "marketing@hotelpuriayu.com",
+            "Website": "http://www.hotelpuriayu.com/pondok/",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/P2VQFihyQku7SBMaH6SUEQ/82393A1B60DBEF55_63870F8816367822.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 285000,
+            "PricePerNight": 285000,
+            "PricePerRoomNight": 285000,
+            "Facilities": [
+                "LDRY",
+                "PRK"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX3DB986CDD50D8C26",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 285000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 285000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 285000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07091871",
+                    "RoomKey": "D5F890DAWRXE78938E2648DC016",
+                    "RoomHash": "6AACA972",
+                    "RoomName": "SINGLE SUPERIOR",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 456413.98,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 456413.98,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 456413.98
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "Dim7TcbCP0OxZ1iCPEK1SQ",
+            "HotelName": "Griya Tunjung Sari",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS003269",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kesiman Kertalangu",
+            "Location": "",
+            "Latitude": -8.63620376586914,
+            "Longitude": 115.24842834472656,
+            "Address": "Jalan Sekar Tunjung II No. 11, Denpasar",
+            "MapUri": "https://maps.google.com/?cid=88641083809956619",
+            "Phone": "+62 361-465713",
+            "Facsimile": "+62 361-465713",
+            "Email": "griyatunjungsari.bali@gmail.com",
+            "Website": "",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/Dim7TcbCP0OxZ1iCPEK1SQ/6CF13844AEFD5529_853DE3C9252629A3.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 285000,
+            "PricePerNight": 285000,
+            "PricePerRoomNight": 285000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA17110047",
+                    "RoomKey": "F6D2486BWRXD562986F1EE0F824",
+                    "RoomHash": "FF4F5F3D",
+                    "RoomName": "TUNJUNG CITY",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 285000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 285000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 285000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA17110048",
+                    "RoomKey": "F6D2486BWRXD46BC8BF5A8B1DA4",
+                    "RoomHash": "CF2CD494",
+                    "RoomName": "TUNJUNG VIP",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 310000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 310000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 310000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "FjM402gSlUQggnl5XiaFmA",
+            "HotelName": "Sri Kandi Inn by Gamma Hospitality",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS002361",
+            "StarRating": 2,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kedonganan",
+            "Location": "Jimbaran",
+            "Latitude": -8.7616462707519531,
+            "Longitude": 115.17227172851563,
+            "Address": "Jalan Pengeracikan,, Gg. Gusti Ngurah Jelantik No.4,, Kedonganan",
+            "MapUri": "https://maps.google.com/?cid=6140946011854478225",
+            "Phone": "+62 361 701402",
+            "Facsimile": "+62 361 701402",
+            "Email": "reservation@srikandi-inn.com",
+            "Website": "http://www.srikandi-inn.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/FjM402gSlUQggnl5XiaFmA/C7F72C1A1E32796A_46D977F90CD7C77D.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 251828.91,
+            "PricePerNight": 251828.91,
+            "PricePerRoomNight": 251828.91,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRXFAE57217874760E3",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 315000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 315000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 315000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRXBAB1C708D727ED57",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 385000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 385000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 385000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07091919",
+                    "RoomKey": "D5F890DAWRX1EB72F4446356ED",
+                    "RoomHash": "E1C285CC",
+                    "RoomName": "Standard Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 251828.91,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 251828.91,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 251828.91
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "CylS5Uaqa0y0TFxZkmDrDg",
+            "HotelName": "Sanur Agung Hotel and Restaurant",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS000976",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Sanur Kaja",
+            "Location": "Sanur",
+            "Latitude": -8.6724089,
+            "Longitude": 115.2582678,
+            "Address": "Jl. By Pass Ngurah Rai No.174, Sanur Kaja, Denpasa",
+            "MapUri": "https://maps.google.com/?cid=8489406713071326590",
+            "Phone": "+ 62 361 288409",
+            "Facsimile": "+ 62 361 289575",
+            "Email": "sales@hotelsanuragung.com",
+            "Website": "http://www.hotelsanuragung.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/CylS5Uaqa0y0TFxZkmDrDg/297C03AF4FF6B805_AC3904B57FDB1998.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 325000,
+            "PricePerNight": 325000,
+            "PricePerRoomNight": 325000,
+            "Facilities": [
+                "LDRY",
+                "RST",
+                "RSVC",
+                "POOL"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX1DBFD8DEF948B212",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 325000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 325000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 325000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX6BF3B6E23FED9295",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 365000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 365000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 365000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07090596",
+                    "RoomKey": "F6D2486BWRX36D4086B334D6E49",
+                    "RoomHash": "3FDDDB85",
+                    "RoomName": "SUPERIOR TRIPLE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 385000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 385000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 385000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX711BF2F0321405E0",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 385000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 385000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 385000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX779CB40E13969E0F",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 425000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 425000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 425000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06090304",
+                    "RoomKey": "F6D2486BWRX1C99A7CEF9E060FB",
+                    "RoomHash": "C230615D",
+                    "RoomName": "DELUXE TRIPLE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 435000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 435000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 435000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07090596",
+                    "RoomKey": "F6D2486BWRX76D4F740F0CEE753",
+                    "RoomHash": "3FDDDB85",
+                    "RoomName": "SUPERIOR TRIPLE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 445000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 445000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 445000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06090304",
+                    "RoomKey": "F6D2486BWRX206AB05584CAC309",
+                    "RoomHash": "C230615D",
+                    "RoomName": "DELUXE TRIPLE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 495000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 495000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 495000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "tpNzFh8hGEadC5aV7qUgrw",
+            "HotelName": "Quest San Hotel",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS002092",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Padangsambian",
+            "Location": "Denpasar",
+            "Latitude": -8.6771755218505859,
+            "Longitude": 115.19011688232422,
+            "Address": "Jl. Mahendrata No.93",
+            "MapUri": "https://maps.google.com/?cid=1459666858833230701",
+            "Phone": "+62 361 471 7000",
+            "Facsimile": "+62 361 417 7111",
+            "Email": "denpasarinfo@quest-hotels.com",
+            "Website": "http://www.questhotels.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/tpNzFh8hGEadC5aV7qUgrw/9FC54411E3DC3454_8C532C507F5ED09A.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 333000,
+            "PricePerNight": 333000,
+            "PricePerRoomNight": 333000,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "RSVC",
+                "SPA",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX34434BA55245B192",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 333000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 333000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 333000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRXC6EABFAFA901F776",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 383000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 383000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 383000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06030205",
+                    "RoomKey": "F6D2486BWRXFFB21252BA8A10CA",
+                    "RoomHash": "49C13277",
+                    "RoomName": "FAMILY SUITE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 763000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 763000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 763000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06030205",
+                    "RoomKey": "F6D2486BWRX9A97C755EDFB7139",
+                    "RoomHash": "49C13277",
+                    "RoomName": "FAMILY SUITE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 813000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 813000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 813000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "05176872a7a8671a457a55f1512061c6",
+                    "RoomKey": "D5F890DAWRXC8064913E2E378CA",
+                    "RoomHash": "FA93CB60",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 340196.8,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 340196.8,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 340196.8
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "05176872a7a8671a457a55f1512061c6",
+                    "RoomKey": "D5F890DAWRX7D4AA6E57764A8EF",
+                    "RoomHash": "FA93CB60",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 417443.2,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 417443.2,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 417443.2
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "22648d2d3541f58840faf98919b94fc1",
+                    "RoomKey": "D5F890DAWRX72437C016ED98FE3",
+                    "RoomHash": "727421E1",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 571936,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 571936,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 571936
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "UYM9cWQO2kSZ8dpx8GOqWA",
+            "HotelName": "Bemo Corner Guest House",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001788",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kuta",
+            "Location": "NONE",
+            "Latitude": -8.72220516204834,
+            "Longitude": 115.17569732666016,
+            "Address": "Jl. Pantai no. 10 A",
+            "MapUri": "https://maps.google.com/?cid=932410353614393883",
+            "Phone": "0896-9417-4195",
+            "Facsimile": "",
+            "Email": "",
+            "Website": "http://www.bemocornerguesthouse.com/",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/UYM9cWQO2kSZ8dpx8GOqWA/2E3107FB950F0B35_9035603BEE20CF3.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 335000,
+            "PricePerNight": 335000,
+            "PricePerRoomNight": 335000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXF4D0D138830AF92",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 335000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 335000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 335000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07091919",
+                    "RoomKey": "D5F890DAWRXC153D38278727577",
+                    "RoomHash": "E1C285CC",
+                    "RoomName": "Standard Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 339939.88,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 339939.88,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 339939.88
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07080337",
+                    "RoomKey": "D5F890DAWRXA4C95A78065922E2",
+                    "RoomHash": "EFDE59E7",
+                    "RoomName": "Deluxe Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 433675.5,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 433675.5,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 433675.5
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "0tolqlJ0F0enJJwZx8vWkg",
+            "HotelName": "Matahari Guest House",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001680",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kuta",
+            "Location": "Kuta",
+            "Latitude": -8.7235332,
+            "Longitude": 115.1733578,
+            "Address": "Jl. Tegal Wangi No 14, Kuta",
+            "MapUri": "https://maps.google.com/?cid=18178001637603940479",
+            "Phone": "+62 361 766233",
+            "Facsimile": "",
+            "Email": "reservation.general@gmail.com",
+            "Website": "http://www.matahariguesthouse.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/0tolqlJ0F0enJJwZx8vWkg/616826C06F070F74_EB67D07CC8D46338.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 335000,
+            "PricePerNight": 335000,
+            "PricePerRoomNight": 335000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX86F6A5AFC9B95D11",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 335000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 335000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 335000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07091919",
+                    "RoomKey": "D5F890DAWRX35D7E8EA43D4CEC6",
+                    "RoomHash": "E1C285CC",
+                    "RoomName": "Standard Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 354180.51,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 354180.51,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 354180.51
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07080337",
+                    "RoomKey": "D5F890DAWRX5DCD150ED06DF107",
+                    "RoomHash": "EFDE59E7",
+                    "RoomName": "Deluxe Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 451475,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 451475,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 451475
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "iRxw6UhNWke1tLqXour4wA",
+            "HotelName": "The Hill Ungasan",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS002111",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Ungasan",
+            "Location": "NONE",
+            "Latitude": -8.8127176,
+            "Longitude": 115.1578673,
+            "Address": "Jl. Uluwatu no.88x",
+            "MapUri": "https://maps.google.com/?cid=11970896954869359406",
+            "Phone": "(0361) 7861279",
+            "Facsimile": "",
+            "Email": "",
+            "Website": "",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/iRxw6UhNWke1tLqXour4wA/5CE1692FB373FE4_A7CD3A9F5A4D237.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 311445.06,
+            "PricePerNight": 311445.06,
+            "PricePerRoomNight": 311445.06,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXFCE4219C04F4DCA1",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 335000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 335000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 335000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07080337",
+                    "RoomKey": "D5F890DAWRX92CEC866305974C5",
+                    "RoomHash": "EFDE59E7",
+                    "RoomName": "Deluxe Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 311445.06,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 311445.06,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 311445.06
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "MDbM18LhYEyQUsvAAuQbVw",
+            "HotelName": "Ayola Bali Jimbaran",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001725",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kedonganan",
+            "Location": "Jimbaran",
+            "Latitude": -8.7627201080322266,
+            "Longitude": 115.17512512207031,
+            "Address": "Jl.Uluwatu I No.389 Kedonganan, Kuta / Tuban, Bali",
+            "MapUri": "https://maps.google.com/?cid=8821874305714915109",
+            "Phone": "+62 361 709137",
+            "Facsimile": "+62 361 709144",
+            "Email": "info.jimbaran@horisonhotels.com",
+            "Website": "http://www.horisonjimbaran.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/MDbM18LhYEyQUsvAAuQbVw/BAAB5F4FC4FE1F65_F9AE85225E2B6633.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 340000,
+            "PricePerNight": 340000,
+            "PricePerRoomNight": 340000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18100061",
+                    "RoomKey": "F6D2486BWRXD5598369740E7A95",
+                    "RoomHash": "587FF0D3",
+                    "RoomName": "DELUXE (PROMO SPECIAL)",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 340000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 340000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 340000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX1A6950BADCB2EE4B",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 540000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 540000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 540000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18100064",
+                    "RoomKey": "F6D2486BWRXE9338D834640BB7B",
+                    "RoomHash": "77E5D1FA",
+                    "RoomName": "JUNIOR SUITE (PROMO SPECIAL)",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 595000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 595000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 595000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18100065",
+                    "RoomKey": "F6D2486BWRX50D2C964D63DFC54",
+                    "RoomHash": "B289F685",
+                    "RoomName": "EXECUTIVE SUITE (PROMO SPECIAL)",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 935000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 935000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 935000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA13081382",
+                    "RoomKey": "D5F890DAWRXA7C7C5B383E7E4D0",
+                    "RoomHash": "D76E2824",
+                    "RoomName": "Twin/Double room - De Luxe",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 613554.3,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 613554.3,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 613554.3
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA160238398",
+                    "RoomKey": "D5F890DAWRX486D42010B13823E",
+                    "RoomHash": "D56BCB17",
+                    "RoomName": "Single room - De Luxe - Plus",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 728623.3,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 728623.3,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 728623.3
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150102138",
+                    "RoomKey": "D5F890DAWRX7B4E7412F3C107C5",
+                    "RoomHash": "C735DC7A",
+                    "RoomName": "Junior Suite - Single use",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 893007.3,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 893007.3,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 893007.3
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA02017873",
+                    "RoomKey": "D5F890DAWRX6951F91DB64FAA15",
+                    "RoomHash": "81C3B7D",
+                    "RoomName": "Suite - Executive",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 1090269.3,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 1090269.3,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 1090269.3
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "sRM2wH7HqkiBKrAYEhmcGA",
+            "HotelName": "Dante Guest House",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS003098",
+            "StarRating": 3,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Gianyar",
+            "Location": "NONE",
+            "Latitude": -8.544774055480957,
+            "Longitude": 115.32186126708984,
+            "Address": "Jalan Hasanuddin I No.3",
+            "MapUri": "https://maps.google.com/?cid=16045108713541119657",
+            "Phone": "+62 361 947376",
+            "Facsimile": "+62 361 947321",
+            "Email": "info@danteguesthouse.com",
+            "Website": "http://http//:www.danteguesthouse.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/sRM2wH7HqkiBKrAYEhmcGA/AE9D035F4827EFBC_F609389E89663D99.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 355000,
+            "PricePerNight": 355000,
+            "PricePerRoomNight": 355000,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "RSVC",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRXC217EFF54ADC249F",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 355000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 355000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 355000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07091871",
+                    "RoomKey": "D5F890DAWRXD3736841D5F7131E",
+                    "RoomHash": "6AACA972",
+                    "RoomName": "SINGLE SUPERIOR",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 531682.98,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 531682.98,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 531682.98
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "5AqT7EkS3kKEmHnEhYbMoA",
+            "HotelName": "Hardys Hotel Singaraja",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001738",
+            "StarRating": 2,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kp. Baru",
+            "Location": "Singaraja",
+            "Latitude": -8.1028900146484375,
+            "Longitude": 115.09072875976563,
+            "Address": "Jl. Surapati No. 122",
+            "MapUri": "https://maps.google.com/?cid=18326251968960479396",
+            "Phone": "+62 362 3301500",
+            "Facsimile": "+62 362 3301511",
+            "Email": "info-pop-singaraja@tauzia.com",
+            "Website": "http://www.pophotels.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/5AqT7EkS3kKEmHnEhYbMoA/86F4832BF66011D9_416893E2EE423144.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 364400,
+            "PricePerNight": 364400,
+            "PricePerRoomNight": 364400,
+            "Facilities": [
+                "LDRY",
+                "RST",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18110080",
+                    "RoomKey": "F6D2486BWRX2EFCB495DA0E4816",
+                    "RoomHash": "7C055540",
+                    "RoomName": "HARDYS ROOM",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 364400,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 364400,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 364400
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "YO1kNhAz7U2U7ApBpUT1xw",
+            "HotelName": "Rumah Warna",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS003240",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Jimbaran",
+            "Location": "Jimbaran",
+            "Latitude": -8.8078551,
+            "Longitude": 115.1408387,
+            "Address": "Jl. Pantai Balangan No.9, Jimbaran, Kuta Sel., Kab",
+            "MapUri": "https://maps.google.com/?cid=16711355305937386448",
+            "Phone": "+62 819-9940-4073",
+            "Facsimile": "+62 819-9940-4073",
+            "Email": "bali@bedsolving.com",
+            "Website": "",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/YO1kNhAz7U2U7ApBpUT1xw/91A150C9C93C099F_179066CA82987B7A.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 385000,
+            "PricePerNight": 385000,
+            "PricePerRoomNight": 385000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRX701150B950BE77F6",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 385000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 385000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 385000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "v1BwvEgVN0aCXZRLNCpBXQ",
+            "HotelName": "Serela Kuta Bali",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS000054",
+            "StarRating": 3,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kuta",
+            "Location": "Kuta",
+            "Latitude": -8.7094326019287109,
+            "Longitude": 115.18098449707031,
+            "Address": "Jl. Raya Kuta No. 42 XX, Kuta",
+            "MapUri": "https://maps.google.com/?cid=8939957464940352400",
+            "Phone": "+62 361 764807",
+            "Facsimile": "+62 361 764808",
+            "Email": "rsv.kuta@serelahotel.com",
+            "Website": "http://serelahotel.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/v1BwvEgVN0aCXZRLNCpBXQ/35B65C66271506_E651319D1BD0C783.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 590998.58,
+            "PricePerNight": 590998.58,
+            "PricePerRoomNight": 590998.58,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX6DBB3D17612C4F8E",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 685000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 385000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 385000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX91BA9D80318B9CA5",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 735000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 435000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 435000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXFED89A3CF99FC9A",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 760000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 460000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 460000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX5EDAAF0F4EFE5680",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 810000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 510000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 510000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07080337",
+                    "RoomKey": "D5F890DAWRXA3647F2D86A6080A",
+                    "RoomHash": "EFDE59E7",
+                    "RoomName": "Deluxe Room",
+                    "MealType": "CBF",
+                    "MealTypeName": "Continental Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 590998.58,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 590998.58,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 590998.58
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "wX7yARUd4UyKMIePWZ9wig",
+            "HotelName": "Inna Bali Heritage Hotel",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001302",
+            "StarRating": 3,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Dauh Puri Kaja",
+            "Location": "Denpasar",
+            "Latitude": -8.6545095443725586,
+            "Longitude": 115.21675872802734,
+            "Address": "Jl. Veteran No. 3 Denpasar",
+            "MapUri": "https://maps.google.com/?cid=3344367897917979880",
+            "Phone": "+62 361 225681",
+            "Facsimile": "+62 361 235347",
+            "Email": "reservation@innabalihotel.com",
+            "Website": "http://www.innabali.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/wX7yARUd4UyKMIePWZ9wig/26B3E668A1250FE9_7F01C1C1E4A9CD39.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 390000,
+            "PricePerNight": 390000,
+            "PricePerRoomNight": 390000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18060114",
+                    "RoomKey": "F6D2486BWRX1D2D8301BAB1BF28",
+                    "RoomHash": "95B70067",
+                    "RoomName": "STANDARD - MG DEAL",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 390000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 390000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 390000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRX5CC61D34BE28FBD7",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 430000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 430000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 430000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18060121",
+                    "RoomKey": "F6D2486BWRX5E2B5CA52CB637F9",
+                    "RoomHash": "E83CB74F",
+                    "RoomName": "DELUXE - MG DEAL",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 490000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 490000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 490000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX2D9488A8EEAE8E7B",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 540000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 540000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 540000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA141108896",
+                    "RoomKey": "D5F890DAWRX527EBA65C6B34A1D",
+                    "RoomHash": "E29D8516",
+                    "RoomName": "Standard Room, Garden View",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 427318.42,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 427318.42,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 427318.42
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA141108896",
+                    "RoomKey": "D5F890DAWRXCD503613FAC713B7",
+                    "RoomHash": "E29D8516",
+                    "RoomName": "Standard Room, Garden View",
+                    "MealType": "CBF",
+                    "MealTypeName": "Continental Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 498945.21,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 498945.21,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 498945.21
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "3IhQMUiQo0WqBZIeH2nhPw",
+            "HotelName": "Gowin Hotel Bali",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001755",
+            "StarRating": 2,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kuta",
+            "Location": "Tuban",
+            "Latitude": -8.739313,
+            "Longitude": 115.168085,
+            "Address": "Jl. Dewi Sartika No. 3 Kuta",
+            "MapUri": "https://maps.google.com/?cid=15410366529812310376",
+            "Phone": "+62 361 3700558",
+            "Facsimile": "",
+            "Email": "",
+            "Website": "http://gowin-hotel-kuta.business.site/",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/3IhQMUiQo0WqBZIeH2nhPw/13D623F42DCC55D6_70C59D9B3105327D.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 435000,
+            "PricePerNight": 435000,
+            "PricePerRoomNight": 435000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX1DF8EAB097B838A0",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 435000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 435000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 435000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX4111C2EE21877AAB",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 485000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 485000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 485000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRX63CEB210A66FD4AE",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 535000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 535000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 535000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXB57232F71427F7F8",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 600000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 600000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 600000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "fqg216jfFk6pFX094AEe5A",
+            "HotelName": "Jimbaran Lestari Hotel And Residence  Spa",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS002275",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Jimbaran",
+            "Location": "NONE",
+            "Latitude": -8.780557,
+            "Longitude": 115.174275,
+            "Address": "Uluwatu 2 street, Taman Mulia no.8B",
+            "MapUri": "https://maps.google.com/?cid=17506247409877339216",
+            "Phone": "+62361704570",
+            "Facsimile": "+62361704570",
+            "Email": "reservation@jimbaranlestari.com",
+            "Website": "http://www.jimbaranlestari.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/fqg216jfFk6pFX094AEe5A/C5587CFE4B4FE8DA_DCC79E7F2241C262.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 455000,
+            "PricePerNight": 455000,
+            "PricePerRoomNight": 455000,
+            "Facilities": [
+                "PRK",
+                "RST",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRX314EFB535DF655A",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 455000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 455000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 455000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX8785AF2BCEE95691",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 485000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 485000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 485000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "gnmS4cTvTUQvxU7tOFRysQ",
+            "HotelName": "Aditya Beach Resort",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001483",
+            "StarRating": 3,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kaliasem",
+            "Location": "Lovina",
+            "Latitude": -8.1658901,
+            "Longitude": 115.0171683,
+            "Address": "Jalan Raya Lovina, Singaraja",
+            "MapUri": "https://maps.google.com/?cid=7547412852922223587",
+            "Phone": "0361 - 41059",
+            "Facsimile": "0361 - 41342",
+            "Email": "info@adityalovinabali.com",
+            "Website": "http://www.adityabeachlovina.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/gnmS4cTvTUQvxU7tOFRysQ/4C557D84FE2B48F0_FAAE51472B3B895E.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 460000,
+            "PricePerNight": 460000,
+            "PricePerRoomNight": 460000,
+            "Facilities": [
+                "LDRY",
+                "PRK",
+                "RST",
+                "RSVC",
+                "SPA",
+                "POOL",
+                "WIFI"
+            ],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110039",
+                    "RoomKey": "F6D2486BWRXE16FF1BF2F83F3C8",
+                    "RoomHash": "FA03E0CA",
+                    "RoomName": "STANDARD",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 460000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 460000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 460000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX802CF3FBCFA6F831",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 580000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 580000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 580000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150775712",
+                    "RoomKey": "D5F890DAWRXDCCA347400C7AB4A",
+                    "RoomHash": "518756ED",
+                    "RoomName": "Standard Room (Building)",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 500318.25,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 500318.25,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 500318.25
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07092119",
+                    "RoomKey": "D5F890DAWRXF0248FE36E94BB7",
+                    "RoomHash": "64618D03",
+                    "RoomName": "Superior Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 727178.82,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 727178.82,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 727178.82
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA140617465",
+                    "RoomKey": "D5F890DAWRXEADF0EC237771C4A",
+                    "RoomHash": "709AB8B5",
+                    "RoomName": "Deluxe Cottage (Sea Side)",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 944944.05,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 944944.05,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 944944.05
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "l15ZDvKa5k60YdtpbFyK7Q",
+            "HotelName": "Bali Kuta Resort",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS000002",
+            "StarRating": 0,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kuta",
+            "Location": "Kuta",
+            "Latitude": -8.7200765609741211,
+            "Longitude": 115.17850494384766,
+            "Address": "Jl.Majapahit 18",
+            "MapUri": "https://maps.google.com/?cid=7377243943337365877",
+            "Phone": "(62) 361 - 762 - 818",
+            "Facsimile": "(62) 361 - 756 - 678",
+            "Email": "reservationIst@bali-kutaresort.com",
+            "Website": "http://www.bali-kutaresort.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/l15ZDvKa5k60YdtpbFyK7Q/52216671AD846DC9_DE810B62172A2A4A.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 470000,
+            "PricePerNight": 470000,
+            "PricePerRoomNight": 470000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX74D02E780A02E0DF",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 470000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 470000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 470000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110035",
+                    "RoomKey": "F6D2486BWRX17A24FB21E2C9D5E",
+                    "RoomHash": "9DBCE7D8",
+                    "RoomName": "SUPERIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 570000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 570000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 570000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXA0FAD8275AFC8DBC",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 670000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 670000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 670000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA06030155",
+                    "RoomKey": "F6D2486BWRX31521343F51FC9DE",
+                    "RoomHash": "516C677C",
+                    "RoomName": "JUNIOR",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 775000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 775000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 775000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "Xw6BuAicG02ZDYsSUJmGCw",
+            "HotelName": "Melka Excelsior",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001262",
+            "StarRating": 3,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Anturan",
+            "Location": "Lovina",
+            "Latitude": -8.1545975000000013,
+            "Longitude": 115.0372974,
+            "Address": "Jl. Raya Kalibukbuk, Lovina",
+            "MapUri": "https://maps.google.com/?cid=15591063636472049989",
+            "Phone": "(62) 36 - 241 - 552",
+            "Facsimile": "(62) 36 - 241 - 543",
+            "Email": "reservation@melkahotelbali.com",
+            "Website": "http://www.melkahotelbali.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/Xw6BuAicG02ZDYsSUJmGCw/B20069F1CF6C7260_31A1C55E6FC8327A.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 510000,
+            "PricePerNight": 510000,
+            "PricePerRoomNight": 510000,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA02024712",
+                    "RoomKey": "F6D2486BWRX9D0D1211A59F8F53",
+                    "RoomHash": "51B1F717",
+                    "RoomName": "DELUXE PROMO",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 510000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 510000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 510000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA05110034",
+                    "RoomKey": "F6D2486BWRXC2140572D9B06AC",
+                    "RoomHash": "DDE4C056",
+                    "RoomName": "DELUXE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 585000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 585000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 585000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18110195",
+                    "RoomKey": "F6D2486BWRXB7C9D3489486F2D5",
+                    "RoomHash": "CC8F5805",
+                    "RoomName": "DOLPHIN SUITE PROMO",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 610000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 610000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 610000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07010191",
+                    "RoomKey": "F6D2486BWRX1E829C8D823F0490",
+                    "RoomHash": "56AE8D92",
+                    "RoomName": "DOLPHIN SUITE",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 685000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 685000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 685000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA18110194",
+                    "RoomKey": "F6D2486BWRX7E111AC578970D23",
+                    "RoomHash": "7CEB186D",
+                    "RoomName": "SUITE POOL ACCESS PROMO",
+                    "MealType": "BB",
+                    "MealTypeName": "Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 710000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 710000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 710000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA09010100",
+                    "RoomKey": "F6D2486BWRXF85320BE3F26626F",
+                    "RoomHash": "C00F1CE9",
+                    "RoomName": "SUITE POOL ACCESS",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 910000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 910000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 910000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        },
+        {
+            "HotelKey": "0xTaSbQJhEWXbeZViFzNdw",
+            "HotelName": "Fashion Hotel by The Trans",
+            "ProviderCode": "MG",
+            "ProviderHotelCode": "WSASIDDPS001703",
+            "StarRating": 4,
+            "IsoCountryCode": "ID",
+            "CountryName": "Indonesia",
+            "CityKey": "gfhgfdgsf02zfiAnDMUvIw",
+            "CityName": "Bali",
+            "Area": "Kuta",
+            "Location": "Legian",
+            "Latitude": -8.7136001586914062,
+            "Longitude": 115.17367553710938,
+            "Address": "Jl. Raya Legian 121 Kuta, Badung",
+            "MapUri": "https://maps.google.com/?cid=14459328428371213008",
+            "Phone": "+62 361 8496688",
+            "Facsimile": "+62 361 8196699",
+            "Email": "reservation2@lovefhotel.com",
+            "Website": "http://www.lovehotel.com",
+            "ImageUri": "https://hstatic.blob.core.windows.net/hs-fimg/0xTaSbQJhEWXbeZViFzNdw/26EE8D6005CF8BFF_6F70404D2386674E.jpg",
+            "Mapped": true,
+            "Status": 1,
+            "Currency": "IDR",
+            "LowestRoomPrice": 559659.48,
+            "PricePerNight": 559659.48,
+            "PricePerRoomNight": 559659.48,
+            "Facilities": [],
+            "Rooms": [
+                {
+                    "ProviderId": "E108",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA150623117",
+                    "RoomKey": "F6D2486BWRX717C94D361BFDB2C",
+                    "RoomHash": "5BADD25E",
+                    "RoomName": "SUPERIOR ROOM VIEW",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 765000,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 515000,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 515000
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07092119",
+                    "RoomKey": "D5F890DAWRX8BD4648525C929E6",
+                    "RoomHash": "64618D03",
+                    "RoomName": "Superior Room",
+                    "MealType": "RO",
+                    "MealTypeName": "Room Only",
+                    "IncludeBreakfast": false,
+                    "TotalPrice": 559659.48,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 559659.48,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 559659.48
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07092119",
+                    "RoomKey": "D5F890DAWRXC6378D23D513C658",
+                    "RoomHash": "64618D03",
+                    "RoomName": "Superior Room",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 658769.49,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 658769.49,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 658769.49
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA02051814",
+                    "RoomKey": "D5F890DAWRX854F73035D7D02CE",
+                    "RoomHash": "8CBE43C0",
+                    "RoomName": "Superior View Room",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 757880.51,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 757880.51,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 757880.51
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA141103437",
+                    "RoomKey": "D5F890DAWRX7AA95D9044AB0EBF",
+                    "RoomHash": "44FF32FB",
+                    "RoomName": "Deluxe Room, Balcony",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 856989.99,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 856989.99,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 856989.99
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA141103449",
+                    "RoomKey": "D5F890DAWRX9E9B8BEA3EAA6F33",
+                    "RoomHash": "AD3C0BF8",
+                    "RoomName": "Deluxe Room, Pool Access",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 856989.99,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 856989.99,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 856989.99
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                },
+                {
+                    "ProviderId": "E109",
+                    "ProviderCode": "MG",
+                    "ProviderRoomCode": "WSMA07081042",
+                    "RoomKey": "D5F890DAWRXDD68A262AD70AAE3",
+                    "RoomHash": "567DFD3",
+                    "RoomName": "Fashion Suite",
+                    "MealType": "BABF",
+                    "MealTypeName": "Bed and Breakfast",
+                    "IncludeBreakfast": true,
+                    "TotalPrice": 1253429.48,
+                    "Status": 1,
+                    "PriceDetails": [
+                        {
+                            "NightIndex": 0,
+                            "CountAdult": 1,
+                            "CountChild": 0,
+                            "CountInfant": 0,
+                            "TotalRoom": 1,
+                            "TotalPrice": 1253429.48,
+                            "RoomTypePrice": {
+                                "Single": {
+                                    "TypeCode": "single",
+                                    "TypeName": "Single",
+                                    "CountRoom": 1,
+                                    "PricePerRoom": 1253429.48
+                                }
+                            }
+                        }
+                    ],
+                    "AveragePrice": 0
+                }
+            ],
+            "AveragePrice": 0
+        }
+    ],
+    "CorrelationId": "CRXGN14D0371FDB0D8780DDF1C85",
+    "IsError": false,
+    "Message": "OK",
+    "ErrorCode": null,
+    "Warning": null
+}

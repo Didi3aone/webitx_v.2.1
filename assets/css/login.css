@@ -1,0 +1,99 @@
+.main-section form{
+	width: 375px;
+	max-width: 100%;
+	margin:40px auto;
+	font-family: AvenirNextRegular;
+	font-size:14px;
+	padding:20px 0;
+}
+
+
+.main-section form .form-control{
+	height:40px;
+	border-radius: 3px;
+}
+
+.main-section form .form-control[type="number"]::-webkit-inner-spin-button,
+.main-section form .form-control[type="number"]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+
+.main-section form h3{
+	font-family: AvenirNext;
+	font-size: 28px;
+	letter-spacing: 1.4px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+
+}
+
+.main-section form h5{
+	font-family: AvenirNextRegular;
+	font-size:14px;
+	margin-top:5px;
+	margin-bottom: 20px;
+}
+
+.main-section form label{
+	font-weight: 300;
+}
+
+.main-section form a.forgot {
+	float: right;
+	color: #c51d36;
+}
+
+
+
+.col-register{
+	background: #871c34; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #871c34 , #c11b33); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #871c34, #c11b33); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #871c34, #c11b33); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #871c34 , #c11b33); /* Standard syntax */
+}
+
+.col-login h3, .col-login h5{
+	color:#c51d36;
+}
+
+.col-login button{
+	background:#c51d36 ;
+	border-color:#c51d36;
+	height:40px;
+}
+
+.col-login p a{
+	color:#c51d36;
+}
+
+.col-login p a:hover{
+	text-decoration: none;
+	cursor: pointer;
+	color:#c51d36;
+}
+
+.col-register{
+	color:#fff;
+	padding:1px 15px;
+}
+
+.col-register button{
+	background:#781524;
+	border-color: #781524;
+	height:40px;
+}
+
+.col-register button:hover{
+	background:#661524;
+
+	}
+
+@media only screen and (max-width: 767px) {
+	.main-section form{
+		margin:10px 0;
+	}
+}

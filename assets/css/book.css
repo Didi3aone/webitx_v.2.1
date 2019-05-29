@@ -1,0 +1,282 @@
+select {
+	/* -webkit-appearance: none;
+	    -moz-appearance: none;
+	    text-indent: 1px;
+	    text-overflow: ''; */
+    cursor: pointer;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+	display: none;
+}
+
+.col-xs-5ths {
+	width: 20%;
+	float: left;
+	position: relative;
+	min-height: 1px;
+}
+
+.step_holder {
+	padding: 25px 0;
+	overflow-x: scroll;
+	white-space: nowrap;
+	width: 100%;
+}
+
+.step_holder::-webkit-scrollbar {
+	display: none;
+}
+
+.step_holder .row {
+	min-width: 730px;
+}
+
+.step_holder .col-xs-5ths {
+	min-width: 145px;
+	display: inline-block;
+
+}
+
+.col-xs-5ths .per_step_holder hr {
+	border-bottom: 1px solid #282c36;
+}
+
+.col-xs-5ths .per_step_holder.active hr {
+	border-bottom: 1px solid #c51d36;	
+}
+
+.col-xs-5ths .per_step_holder .step_number_holder {
+	position: absolute;
+	background: #282c36;
+	left: 50%;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	margin-right: -50%;
+	transform: translate(-50%);
+	margin-top: -36px;
+}
+
+.col-xs-5ths .per_step_holder.active .step_number_holder {
+	background: #c51d36;
+}
+
+.col-xs-5ths .per_step_holder .step_number_holder p {
+	position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn_holder {
+	width: 150px;
+	height: 40px;
+	background: #c51d36;
+	border: 2px solid #c51d36;
+	border-radius: 4px;
+	margin: 0px 0 60px 0;
+	-webkit-transition	: all 0.4s ease;
+	-moz-transition		: all 0.4s ease;
+	-ms-transition		: all 0.4s ease;
+	-o-transition		: all 0.4s ease;
+	transition			: all 0.4s ease;
+}
+
+.btn_holder:hover { background: transparent; }
+
+.btn_holder div:hover {
+	color: #c51d36;
+	font-family: "AvenirNext";
+}
+
+.timer { margin-left: 10px; }
+
+.jst-hours { display: none; }
+
+.jst-minutes, .jst-seconds {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+
+}
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+
+}
+
+@media only screen and (min-width: 426px) and (max-width: 767px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+.info_holder h3 {
+  padding-bottom: 7px;
+  border-bottom: 1px solid #ededed;
+}
+
+.content_inner_holder {
+  margin: 0 0 15px 0;
+  padding-right: 20%;
+}
+
+.info_holder.price_details .content_inner_holder,
+.info_holder.refund_information .content_inner_holder {
+  padding-right: 0;
+}
+
+.content_inner_holder.bb_gray, .sub_total_holder {
+  border-bottom: 1px solid #ededed;
+  padding-bottom: 8px;
+}
+
+.info_holder.refund_information .content_inner_holder,
+.info_holder.price_details .content_inner_holder {
+  border: 1px solid #ededed;
+  padding: 10px 12px;
+}
+
+.content_inner_holder h4 {
+  margin-bottom: 5px;
+}
+
+.content_inner_holder .left_col {
+  width: 49%;
+  float: left;
+  margin-top: 5px;
+}
+
+.content_inner_holder .right_col {
+  width: 49%;
+  float: right;
+  margin-top: 5px;
+}
+
+.info_holder.price_details .left_col {
+  width: 49%;
+}
+
+.info_holder.price_details .right_col {
+  width: 30%;
+}
+
+.per_bank_holder {
+  margin: 10px 0;
+}
+
+.per_bank_holder .per_data_holder {
+  margin-top: 15px;
+}
+
+.per_bank_holder .img_holder, .per_bank_holder .refun_status {
+  width: 24%;
+}
+
+.per_bank_holder .destination_holder {
+  width: 50%;
+}
+
+.total_payment_holder {
+  margin-top: 5px;
+}
+
+.btn_checkout {
+  float: right;
+  margin-top: 20px;
+  width: 100px;
+  height: 40px;
+  background: #c51d36;
+  border: 3px solid #c51d36;
+  border-radius: 2px;
+  -webkit-transition  : all 0.4s ease;
+  -moz-transition   : all 0.4s ease;
+  -ms-transition    : all 0.4s ease;
+  -o-transition   : all 0.4s ease;
+  transition      : all 0.4s ease;
+}
+
+.btn_checkout:hover {
+  background: transparent;
+  border: 2px solid #c51d36;
+}
+
+.btn_checkout div:hover {
+  color: #c51d36;
+}
+
+@media only screen and (max-width: 320px) {
+
+  .info_holder .fs_14 { font-size: 12px; }
+
+  .info_holder .fs_16 { font-size: 14px; }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  .refund_information_holder .data_inner_holder {
+    padding: 0px 5px 15px 5px;
+  }
+
+  .per_bank_holder .img_holder, .refund_information_holder .refun_status { width: 25%; }
+
+  .per_bank_holder .img_holder img {
+    margin: 0 auto;
+    margin-top: -15px;
+  }
+
+  .per_bank_holder .refun_status p {
+    text-align: center;
+    margin-top: -15px;
+  }
+
+  .per_bank_holder .destination_holder { width: 73%; margin-top: 10px; }
+
+  .content_inner_holder { padding: 0; }
+
+  .content_inner_holder.bb_gray, .sub_total_holder { padding-bottom: 8px; }
+
+  .btn_checkout { width: 100%; }
+
+  .info_holder.price_details .right_col { width: 45% }
+
+  .info_holder.price_details .left_col p.fl_left { width: 95%; }
+
+  .info_holder.price_details .left_col p.fl_right { width: 5%; }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .content_inner_holder { padding: 0; }
+
+  .per_bank_holder .img_holder { width: 20%; }
+
+  .per_bank_holder .destination_holder { width: 78%; }
+
+  .per_bank_holder .refun_status { width: 100%; }
+
+  .per_bank_holder .refun_status p { margin-right: 15px; }
+
+  .info_holder.price_details .left_col p.fl_left { width: 95%; }
+
+  .info_holder.price_details .left_col p.fl_right { width: 5%; }
+
+  .info_holder.price_details .right_col { width: 45%; }
+
+}

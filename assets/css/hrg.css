@@ -1,0 +1,70 @@
+.hero {
+	background: url('../images/hrg_hero.jpg') center no-repeat;
+	background-size: cover;
+	height: 375px;
+}
+
+.text_section {
+	margin: 20px 0 80px 0;
+}
+
+.image_with_text {
+	margin-top: 30px;
+}
+
+.image_with_text .img_holder {
+	width: 18%;
+	float: left;
+}
+
+.image_with_text p {
+	width: 82%;
+	float: right;
+}
+
+@media only screen and (max-width: 375px) {
+	p.mt_30 {
+		margin-top: 15px;
+	}
+
+	p.fs_16 {
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.hero {
+		height: 180px;
+	}
+
+	.image_with_text .img_holder {
+		float: none;
+		width: 100%;
+	}
+
+	.image_with_text img {
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+
+	.image_with_text p {
+		float: none;
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.hero {
+		height: 230px;
+	}
+
+	.image_with_text .img_holder {
+		float: none;
+		width: 20%;
+	}
+
+	.image_with_text p {
+		float: none;
+		width: 75%;
+	}
+}

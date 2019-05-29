@@ -1,0 +1,156 @@
+{
+    "Id": "6b5cdc8e-f5ff-40bc-9359-979b1e2cf2b4",
+    "Airline": 11,
+    "BookingCode": "WN7I2Y",
+    "TimeLimit": "2018-10-20 10:32",
+    "Created": "2018-10-18 10:32",
+    "Reserved": "2018-10-18 10:32",
+    "Ticketed": null,
+    "Status": "Reserved",
+    "BosInvoiceNo": "-",
+    "Contact": {
+        "Title": "MR",
+        "FirstName": "TRIVALDI",
+        "LastName": "RAHARDJA",
+        "Email": "indraspian@gmail.com",
+        "MobilePhone": "6285774828884",
+        "HomePhone": "6285774828884"
+    },
+    "Passengers": [
+        {
+            "Index": 1,
+            "Type": "Adult",
+            "Title": "MR",
+            "FirstName": "TRIVALDI",
+            "LastName": "RAHARDJA",
+            "BirthDate": "1993-01-01 00:00",
+            "Gender": "Unknown",
+            "HomePhone": "085774828884",
+            "MobilePhone": "085774828884",
+            "OtherPhone": null,
+            "Nationality": "ID",
+            "IdNumber": null,
+            "Passport": {
+                "Number": null,
+                "OriginCountry": null,
+                "FirstName": null,
+                "LastName": null,
+                "Expire": null
+            },
+            "TicketNumber": null
+        }
+    ],
+    "Payments": [
+        {
+            "Code": "PAX",
+            "Title": "Basic Fare",
+            "Amount": 950000,
+            "Currency": "IDR",
+            "ForeignAmount": 475000,
+            "ForeignCurrency": "IDR"
+        },
+        {
+            "Code": "VAT",
+            "Title": "Fare Vat",
+            "Amount": 95000,
+            "Currency": "IDR",
+            "ForeignAmount": 47500,
+            "ForeignCurrency": "IDR"
+        },
+        {
+            "Code": "TOTAL",
+            "Title": "Total Fare",
+            "Amount": 1185000,
+            "Currency": "IDR",
+            "ForeignAmount": 1185000,
+            "ForeignCurrency": "IDR"
+        },
+        {
+            "Code": "NTS",
+            "Title": "NTS",
+            "Amount": 1137500,
+            "Currency": "IDR",
+            "ForeignAmount": 1137500,
+            "ForeignCurrency": "IDR"
+        },
+        {
+            "Code": "SF",
+            "Title": "Service Fee",
+            "Amount": 0,
+            "Currency": "IDR",
+            "ForeignAmount": 0,
+            "ForeignCurrency": "IDR"
+        },
+        {
+            "Code": "TOTAL_PAID",
+            "Title": "Total Paid",
+            "Amount": 1185000,
+            "Currency": "IDR",
+            "ForeignAmount": 1185000,
+            "ForeignCurrency": "IDR"
+        }
+    ],
+    "FlightDetails": [
+        {
+            "Airline": 11,
+            "FlightNumber": "KD 710",
+            "CarrierCode": "",
+            "Origin": "CGK",
+            "Destination": "DPS",
+            "DepartDate": "2018-10-22",
+            "DepartTime": "08:00",
+            "ArriveDate": "2018-10-22",
+            "ArriveTime": "10:30",
+            "Num": 0,
+            "Seq": 0,
+            "Class": "N",
+            "Category": "",
+            "AirlineImageUrl": "http://portalvhds11000v9mfhk0k.blob.core.windows.net/airline/-mail.png"
+        },
+        {
+            "Airline": 11,
+            "FlightNumber": "KD 710",
+            "CarrierCode": "",
+            "Origin": "DPS",
+            "Destination": "CGK",
+            "DepartDate": "2018-10-23",
+            "DepartTime": "08:00",
+            "ArriveDate": "2018-10-23",
+            "ArriveTime": "10:30",
+            "Num": 1,
+            "Seq": 0,
+            "Class": "N",
+            "Category": "",
+            "AirlineImageUrl": "http://portalvhds11000v9mfhk0k.blob.core.windows.net/airline/-mail.png"
+        }
+    ],
+    "DiscountInfo": null,
+    "PaymentTransactionInfo": null,
+    "SqlDiscountInfo": null,
+    "SqlPaymentInfo": null,
+    "Histories": [
+        {
+            "Id": "b4191a73-42e1-4715-9c05-046647ee29ef",
+            "PnrId": "6b5cdc8e-f5ff-40bc-9359-979b1e2cf2b4",
+            "Event": "Create",
+            "Description": "Creating new reservation with Process ID 'RW9B789DG4'<br/>Add Passenger:<br/><br/>MR TRIVALDI RAHARDJA<br/>Add Segment:<br/><br/>CGKDPS 22-Oct-2018 08:00 KD 710. Class: N<br/>\r<br/>DPSCGK 23-Oct-2018 08:00 KD 710. Class: N<br/>\r<br/>",
+            "Created": "2018-10-18T10:32:19.6612717",
+            "CreatedDisplay": "23 minutes ago",
+            "Username": "client-cre-opsigo-devmob",
+            "IpAddress": "52.163.123.89",
+            "Agent": "OPSIBOOK DEV"
+        },
+        {
+            "Id": "f7f9f907-0212-4bd8-9218-e0bbf8589452",
+            "PnrId": "6b5cdc8e-f5ff-40bc-9359-979b1e2cf2b4",
+            "Event": "Book",
+            "Description": "Reservation booked <br/>PNR Code: WN7I2Y<br/>Add Payment:<br/><br/>IDR 950,000.00 PAX<br/>IDR 95,000.00 VAT<br/>IDR 1,185,000.00 TOTAL<br/>IDR 1,137,500.00 NTA<br/>IDR 0.00 COMM<br/>IDR 1,137,500.00 NTS<br/>",
+            "Created": "2018-10-18T10:32:28.8173406",
+            "CreatedDisplay": "23 minutes ago",
+            "Username": "client-cre-opsigo-devmob",
+            "IpAddress": "",
+            "Agent": "OPSIBOOK DEV"
+        }
+    ],
+    "Remarks": null
+}

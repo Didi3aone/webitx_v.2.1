@@ -1,0 +1,332 @@
+.info_holder h3 {
+  padding-bottom: 7px;
+  border-bottom: 1px solid #ededed;
+}
+
+.content_inner_holder {
+  margin: 0 0 15px 0;
+  padding-right: 20%;
+}
+
+.info_holder.price_details .content_inner_holder,
+.info_holder.refund_information .content_inner_holder {
+  padding-right: 0;
+}
+
+.content_inner_holder.bb_gray, .sub_total_holder {
+  border-bottom: 1px solid #ededed;
+  padding-bottom: 8px;
+}
+
+.info_holder.refund_information .content_inner_holder,
+.info_holder.price_details .content_inner_holder {
+  border: 1px solid #ededed;
+  padding: 10px 12px;
+}
+
+.content_inner_holder h4 {
+  margin-bottom: 5px;
+}
+
+.content_inner_holder .left_col {
+  width: 49%;
+  float: left;
+  margin-top: 5px;
+}
+
+.content_inner_holder .right_col {
+  width: 49%;
+  float: right;
+  margin-top: 5px;
+}
+
+.info_holder.price_details .left_col {
+  width: 49%;
+}
+
+.info_holder.price_details .right_col {
+  width: 30%;
+}
+
+.per_bank_holder {
+  margin: 10px 0;
+}
+
+.per_bank_holder .per_data_holder {
+  margin-top: 15px;
+}
+
+.per_bank_holder .img_holder, .per_bank_holder .refun_status {
+  width: 24%;
+}
+
+.per_bank_holder .destination_holder {
+  width: 50%;
+}
+
+.total_payment_holder {
+  margin-top: 5px;
+}
+
+.btn_checkout {
+  float: right;
+  margin-top: 20px;
+  width: 100px;
+  height: 40px;
+  background: #c51d36;
+  border: 3px solid #c51d36;
+  border-radius: 2px;
+  -webkit-transition  : all 0.4s ease;
+  -moz-transition   : all 0.4s ease;
+  -ms-transition    : all 0.4s ease;
+  -o-transition   : all 0.4s ease;
+  transition      : all 0.4s ease;
+}
+
+.btn_checkout:hover {
+  background: transparent;
+  border: 2px solid #c51d36;
+}
+
+.btn_checkout div:hover {
+  color: #c51d36;
+}
+
+@media only screen and (max-width: 320px) {
+
+  .info_holder .fs_14 { font-size: 12px; }
+
+  .info_holder .fs_16 { font-size: 14px; }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  .refund_information_holder .data_inner_holder {
+    padding: 0px 5px 15px 5px;
+  }
+
+  .per_bank_holder .img_holder, .refund_information_holder .refun_status { width: 25%; }
+
+  .per_bank_holder .img_holder img {
+    margin: 0 auto;
+    margin-top: -15px;
+  }
+
+  .per_bank_holder .refun_status p {
+    text-align: center;
+    margin-top: -15px;
+  }
+
+  .per_bank_holder .destination_holder { width: 73%; margin-top: 10px; }
+
+  .content_inner_holder { padding: 0; }
+
+  .content_inner_holder.bb_gray, .sub_total_holder { padding-bottom: 8px; }
+
+  .btn_checkout { width: 100%; }
+
+  .info_holder.price_details .right_col { width: 45% }
+
+  .info_holder.price_details .left_col p.fl_left { width: 95%; }
+
+  .info_holder.price_details .left_col p.fl_right { width: 5%; }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .content_inner_holder { padding: 0; }
+
+  .per_bank_holder .img_holder { width: 20%; }
+
+  .per_bank_holder .destination_holder { width: 78%; }
+
+  .per_bank_holder .refun_status { width: 100%; }
+
+  .per_bank_holder .refun_status p { margin-right: 15px; }
+
+  .info_holder.price_details .left_col p.fl_left { width: 95%; }
+
+  .info_holder.price_details .left_col p.fl_right { width: 5%; }
+
+  .info_holder.price_details .right_col { width: 45%; }
+
+}
+
+.btn_open_close {
+  background: #ededed;
+  width: 100%;
+  height: 35px;
+  display: table;
+  margin: 20px 0;
+  padding-left: 25px;
+}
+
+.btn_open_close p {
+  display: table-cell;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.plus_minus_holder {
+  position: absolute;
+  margin-left: -28px;
+  margin-top: 7px;
+}
+
+.plus_minus_holder p {
+  border: 2px solid #353536;
+  width: 22px;
+  height: 22px;
+  text-align: center;
+  position: absolute;
+}
+
+.plus_minus_holder p span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.bank_holder {
+  margin-top: 15px;
+}
+
+input[name="bank_radio"], input[name="bank_CC"] {
+  opacity: 0;
+  position: absolute;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}
+
+input[name="bank_radio"] + label, input[name="bank_CC"] + label {
+  display: inline-block;
+  vertical-align: middle;
+  content: "";
+  width: 14px;
+  height: 14px;
+  border: 1px solid #353636;
+  border-radius: 50%;
+  margin-top: 7px;
+  cursor: pointer;
+}
+
+input[name="bank_radio"]:checked + label span, input[name="bank_CC"]:checked + label span {
+  display: block;
+  content: "";
+  width: 8px;
+  height: 8px;
+  background: #353636;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 2px;
+}
+
+.bank_holder img {
+  margin: 0 30px 0 20px;
+}
+
+.form-control, .input-date {
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  padding: 6px 12px;
+  border: 1px solid #ededed;
+  box-shadow: none;
+}
+
+.input-date {
+  width: 70px;
+  text-align: center;
+}
+
+.form-control.red {
+  border: 2px solid #c51d36;
+}
+
+.fa-check-circle, .fa-times-circle {
+  position: absolute;
+  right: 115px;
+    font-size: 26px;
+    margin-top: -36px;
+}
+
+.fa-check-circle {
+  color: #49be16;
+}
+
+.fa-times-circle {
+  color: #CF000F;
+}
+
+.btn_submit_holder {
+  position: absolute;
+  margin: 0;
+  right: 20px;
+  width: auto;
+  margin-top: -45px;
+}
+
+.btn_submit_holder div {
+  padding: 0 20px;
+}
+
+/* select.form-control + label {
+  float: right;
+}
+
+select.form-control + label span, .input-date + label span:after {
+  content: "";
+  display: block;
+  width: 0px;
+  height: 0px;
+  border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid #ededed;
+    margin-top: -15px;
+    transform: rotate(45deg);
+} */
+
+.input-date + label span:after {
+  position: absolute;
+  margin: 9px 0 0 -15px;
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+
+}
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+
+}
+
+@media only screen and (min-width: 426px) and (max-width: 767px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  .form-control {
+    height: 30px;
+    font-size: 14px;
+    line-height: 14px;
+  }
+
+  .form-control.red {
+    height: 50px;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}

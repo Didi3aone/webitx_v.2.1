@@ -1,0 +1,20 @@
+.img-header{
+	width: 100%;
+}
+
+.section-content .title{
+	font-size:20px;
+	font-family: AvenirNext;
+
+}
+
+.section-content .subtitle{
+	margin:20px 0;
+	font-family: AvenirNextBold;
+	font-size:17px;
+}
+
+.section-content  p {
+	line-height: 24px;
+	margin:15px 0;
+}

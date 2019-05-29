@@ -1,0 +1,80 @@
+BCA PENDING
+
+
+$InsertPayment = $this->m_insert->insertDynamic([
+    'data'  => [
+        'pay_order_id'          => $params['OrderId'],
+        'pay_reff_id'           => $params['TransId'],
+        'pay_type'              => $params['PayType'],
+        'pay_bank_from'         => '',
+        'pay_bank_name'         => $params['BankName'],
+        'pay_is_send_mail'      => 0,
+        'pay_created_at'        => $Now,
+        'pay_transaction_date'  => $Now,
+        'pay_is_read'           => 0,
+        'pay_confirmation'      => 0,
+        'pay_payment_status'    => 1,
+        'pay_total_pay'         => $TotalPrice,
+        'pay_account_number'    => '',
+        'pay_account_name'      => '',
+        'pay_pg_type'           => 2,
+        'pay_time_limit'        => date('Y-m-d H:i:s', strtotime($Now) + $SettingBooking->expired_time)
+    ],
+    'table' => 'v2_rsv_payment'
+]);
+
+
+JSON result will appear here after payment:
+{
+  "status_code": "201",
+  "status_message": "Transaksi sedang diproses",
+  "transaction_id": "ef1e8a66-1783-4aff-9f50-d36593d82dbe",
+  "order_id": "17845",
+  "gross_amount": "94000.00",
+  "payment_type": "bank_transfer",
+  "transaction_time": "2018-11-06 17:39:43",
+  "transaction_status": "pending",
+  "va_numbers": [
+    {
+      "bank": "bca",
+      "va_number": "806725909693902"
+    }
+  ],
+  "fraud_status": "accept",
+  "bca_va_number": "806725909693902",
+  "pdf_url": "https://app.sandbox.midtrans.com/snap/v1/transactions/83825d1e-62c8-4765-b326-b7715e1f9ead/pdf",
+  "finish_redirect_url": "http://example.com?order_id=17845&status_code=201&transaction_status=pending"
+}
+
+JSON result will appear here after payment:
+{
+  "status_code": "201",
+  "status_message": "Transaksi sedang diproses",
+  "transaction_id": "2ccc14a8-38ed-4847-93fe-aa6037f90a0b",
+  "order_id": "6934",
+  "gross_amount": "94000.00",
+  "payment_type": "cstore",
+  "transaction_time": "2018-11-06 18:02:16",
+  "transaction_status": "pending",
+  "payment_code": "618395774828884",
+  "pdf_url": "https://app.sandbox.midtrans.com/snap/v1/transactions/964db4a1-b97f-4bd9-abba-ab6c2b8a3155/pdf",
+  "finish_redirect_url": "http://example.com?order_id=6934&status_code=201&transaction_status=pending"
+}
+
+JSON result will appear here after payment:
+{
+  "status_code": "200",
+  "status_message": "Success, Credit Card transaction is successful",
+  "transaction_id": "d7ca2953-5b4a-495d-866d-96ed1884742e",
+  "order_id": "1098",
+  "gross_amount": "94000.00",
+  "payment_type": "credit_card",
+  "transaction_time": "2018-11-06 17:59:44",
+  "transaction_status": "capture",
+  "fraud_status": "accept",
+  "approval_code": "1541501985087",
+  "masked_card": "481111-1114",
+  "bank": "mandiri",
+  "card_type": "credit",
+  "finish_redirect_url": "http://example.com?order_id=1098&status_code=200&transaction_status=capture"
+}

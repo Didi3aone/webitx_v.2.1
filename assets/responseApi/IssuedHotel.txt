@@ -1,0 +1,1 @@
+"PnrId":"48508887-5f3e-4772-943e-779753a7da32","IsError":false,"Message":"Please wait CallbackUri to be called completely (100%) for final result.","StackTrace":null,"Errors":[]
