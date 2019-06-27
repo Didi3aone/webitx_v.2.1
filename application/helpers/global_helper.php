@@ -12,6 +12,11 @@
 	    }
 	}
 
+	if( !function_exists('format_datetime') ) {
+		function format_datetime($date) {
+			return date('Y-m-d', strtotime($date));
+		}
+	}
 	if(! function_exists('auto_format_paragraph') ) 
 	{
 		/**
@@ -108,6 +113,42 @@
 	        return form_dropdown($name, $add_options + $datas, $selected, $html_attr);
 	    }
 	}
+	
+	if(!function_exists('generate_hash') ) {
+		function generate_hash($name)
+		{
+			return md5($name).uniqid().time();
+		}
+	}
+	
+	if( !function_exists('select_type') ) {
+		function select_type ($name, $selected = FALSE, $html_attr = '', $add_options = array("" => " -- Choose --")) {
+			$ci = & get_instance();
+			$ci->load->helper('form');
+			$ci->load->model('Global_model');
+			$datas = $ci->Global_model->set_model("mst_category_article", "mc", "id")->mode(array(
+				"type" => "all_data"
+			));
 
+			if (!$datas) :
+				return FALSE;
+			endif;
+			
+			$datas = array_column($datas,"name", "id");
+			return form_dropdown($name, $add_options + $datas, $selected, $html_attr);
+		}
+	}
 
+	 /**
+     * [limit_words description]
+     */
+	if( !function_exists('limit_words')) {
+
+		function limit_words($string, $word_limit)
+	   	{
+		 	$words = explode(" ", $string);
+		 	return implode(" ", array_splice($words,0,$word_limit));
+	   	}
+	}
+    
 ?>

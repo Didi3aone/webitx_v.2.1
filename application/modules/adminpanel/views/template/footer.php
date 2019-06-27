@@ -6,7 +6,7 @@
 <script src="<?=base_url('assets/adminpanel/js/jquery-confirm.min.js')?>"></script>
 <script src="<?=base_url('assets/adminpanel/js/jquery.sparkline.min.js')?>"></script>
 <script src="<?=base_url('assets/adminpanel/js/toggles.min.js')?>"></script>
-<!-- <script src="<?=base_url('assets/adminpanel/js/retina.min.js')?>"></script> -->
+<script src="<?=base_url('assets/frontend/js/jquery.form.min.js')?>"></script>
 <script src="<?=base_url('assets/adminpanel/js/jquery.cookies.js')?>"></script>
 
 <script src="<?=base_url('assets/adminpanel/js/flot/flot.min.js')?>"></script>

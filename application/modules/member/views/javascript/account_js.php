@@ -3,6 +3,7 @@
 	$sub_district 	= (isset($mitra_info->sub_district)) ? $mitra_info->sub_district : ""; 
 ?>
 <script>
+	//image preview function
 	function readURL(input) {
 
 	  	if (input.files && input.files[0]) {
@@ -15,11 +16,13 @@
 	    	reader.readAsDataURL(input.files[0]);
 	  	}
 	}
+
 	//image read
 	$("#imgInp").change(function() {
 	  	readURL(this);
 	});
 
+	//image preview function
 	function readURLMitra(input) {
 
 	  	if (input.files && input.files[0]) {
@@ -32,12 +35,13 @@
 	    	reader.readAsDataURL(input.files[0]);
 	  	}
 	}
+
 	//image read
 	$("#img_mitra").change(function() {
 	  	readURLMitra(this);
 	});
 	
-
+	//btn seller
 	$('.btn-seller').click(function() {
         $("#seller-form").show(); 
     });
@@ -553,7 +557,6 @@
         });
     }
 
-
 	// function validate_change_password form
     function validate_change_password() {
     
@@ -848,6 +851,61 @@
 		});
 	}
 
+	//load kabupaten		
+    function load_kabupaten(selected)
+	{
+		// alert(selected);
+		console.log(selected);
+		var $province        = $('#province');
+			get_province_id = $province.find(':selected').data('id');
+		$('[name=city].select2').children().eq(0).nextAll('option').remove();
+
+		$.post (
+			'<?php echo site_url('/member/get_city'); ?>'
+			, { id: get_province_id }
+			, function(response) {
+				$.each (response, function(key, obj) {
+					var option = '<option data-id="'+obj.id+'" value="'+obj.name+'">'+obj.name+'</option>';
+					$('[name=city].select2').append(option);
+				});
+				
+				$('[name=city].select2').val(selected).trigger('change');
+			}
+		);
+	}
+
+	//load kecamatan
+	function kecamatan () 
+	{
+		var $city        = $('#citys');
+		// $('[name=sub_district].select2').children().eq(0).nextAll('option').remove();
+		$('.selectKec').select2({
+	        placeholder: '--- Select Item ---',
+	        allowClear: true,
+		    multiple: false,
+		    delay: 250,
+	        ajax: {
+	          	url: "<?= site_url('member/list_kecamatan'); ?>",
+	         	dataType: 'json',
+	          	delay: 250,
+	          	data: function(params) {
+	                return {
+	                    q: params.term,
+	                    page: params.page,
+	                    kab_id: $city.find(':selected').data('id'),
+	                };
+	            },
+	          	processResults: function (data) {
+	          		console.log(data);
+	            	return {
+	              		results: data
+	            	};
+	          	},
+		        cache: true
+        	}
+	    });
+	}
+
     // function unique password
     jQuery.validator.addMethod("passwordCheck",
         function(value, element, param) {
@@ -865,6 +923,8 @@
         },
         "Please enter a password with a combination of upper and lower case letters");
 
+	
+	//INIT function
 	$(document).ready(function() {
 
 		//init validate;
@@ -878,19 +938,13 @@
 		kecamatan();
 
 		load_kabupaten('<?php echo $city; ?>');
-		load_kecamatan('<?php echo $sub_district; ?>');
 
 		// event binding
 		$('[name=province].select2').change(function() {
 			load_kabupaten(null);
+			// $('[name="sub_district]').val('');
+			// console.log($('[name="sub_district]').val());
 		});
-		
-		$('[name=city].select2').change(function(e) {
-			e.preventDefault();
-			load_kecamatan(null);
-
-		});
-
 
 	    $('#ktp').click(function(e){
 	    	e.preventDefault();
@@ -965,56 +1019,4 @@
 	    });
 	});
 
- 
-    function load_kabupaten(selected)
-	{
-		// alert(selected);
-		console.log(selected);
-		var $province        = $('#province');
-			get_province_id = $province.find(':selected').data('id');
-		$('[name=city].select2').children().eq(0).nextAll('option').remove();
-
-		$.post (
-			'<?php echo site_url('/member/get_city'); ?>'
-			, { id: get_province_id }
-			, function(response) {
-				$.each (response, function(key, obj) {
-					var option = '<option data-id="'+obj.id+'" value="'+obj.name+'">'+obj.name+'</option>';
-					$('[name=city].select2').append(option);
-				});
-				
-				$('[name=city].select2').val(selected).trigger('change');
-			}
-		);
-	}
-
-	function kecamatan () {
-		var $city        = $('#citys');
-
-		$('.selectKec').select2({
-	        placeholder: '--- Select Item ---',
-	        allowClear: true,
-		    multiple: false,
-		    delay: 250,
-	        ajax: {
-	          	url: "<?= site_url('member/list_kecamatan'); ?>",
-	         	dataType: 'json',
-	          	delay: 250,
-	          	data: function(params) {
-	                return {
-	                    q: params.term,
-	                    page: params.page,
-	                    kab_id: $city.find(':selected').data('id'),
-	                };
-	            },
-	          	processResults: function (data) {
-	          		console.log(data);
-	            	return {
-	              		results: data
-	            	};
-	          	},
-		        cache: true
-        	}
-	    });
-	}
 </script>

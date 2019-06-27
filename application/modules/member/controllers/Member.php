@@ -515,6 +515,7 @@ class Member extends MX_Controller
 
             //create name file upload
             $filename = $this->ion_auth->user()->row()->username."_".date('Ymd')."_".time();
+
             // check  upload file
             if(isset($_FILES['img_thum'])){
                 $upload_image = $this->upload_file(
@@ -525,7 +526,8 @@ class Member extends MX_Controller
                     $data['id']
                 );
             }
-            // print_r($this->input->post());die();
+
+            // print_r($upload_image);die();
             // if upload file then insert to db
             if(!empty($upload_image)) {
                 $_save_data['img_thum'] = $upload_image['filename'];

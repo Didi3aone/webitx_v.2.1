@@ -275,41 +275,28 @@
                             <h2 class="font-weight-normal text-6 mb-4"><strong class="font-weight-extra-bold">Latest</strong> Posts</h2>
                             <div class="owl-carousel owl-theme dots-title mb-0" data-plugin-options="{'items': 1, 'autoHeight': true, 'autoplay': true, 'autoplayTimeout': 8000}">
                                 <div class="row">
-                                    <div class="col-lg-6 mb-4 mb-lg-0">
-                                        <article>
-                                            <div class="row">
-                                                <div class="col-auto pr-0">
-                                                    <div class="date">
-                                                        <span class="day font-weight-extra-bold">15</span>
-                                                        <span class="month text-1">JAN</span>
-                                                    </div>
-                                                </div>
-                                                <div class="col pl-1">
-                                                    <h4 class="heading-primary"><a href='<?= site_url('article/single_blog_1'); ?>'>PRODUK WISATA MARATUA ONLINE BERSAMA ITX</a></h4>
-                                                    <p>
-                                                        <p>Musik Jazz, siapa yang tidak tahu dengan musik jazz. Tua, muda dan dari kalangan manapun semakin banyak yang ...
-                                                            <a href='<?= site_url('article/single_blog_1'); ?>' class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
-                                                </div>
-                                            </div>
-                                        </article>
-                                    </div>
+                                    <?php 
+                                        if(!empty($data)) : 
+                                            foreach( $data as $key => $val ) :
+                                    ?>
                                     <div class="col-lg-6">
                                         <article>
                                             <div class="row">
                                                 <div class="col-auto pr-0">
                                                     <div class="date">
-                                                        <span class="day font-weight-extra-bold">14</span>
-                                                        <span class="month text-1">JAN</span>
+                                                        <span class="day font-weight-extra-bold"><?= date('d',strtotime($val['created_at'])); ?></span>
+                                                        <span class="month text-1"><?= date('m',strtotime($val['created_at'])); ?></span>
                                                     </div>
                                                 </div>
                                                 <div class="col pl-1">
-                                                    <h4 class="heading-primary"><a href='<?= site_url('article/single_blog_2'); ?>'>YUK LIHAT SALJU DI DIENG!</a></h4>
-                                                    <p>
-                                                        <p>Indonesia saat ini sedang mengalami perubahan cuaca yang sangat ekstrim dan terdapat beberapa bencana alam yang ...                                                    <a href='<?= site_url('article/single_blog_2'); ?>' class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
+                                                    <h4 class="heading-primary"><a href='<?= site_url('article/read/'.$val['seo_url']); ?>'><?= $val['title']; ?></a></h4>
+                                                    <p><?= limit_words($val['content'], 30); ?></p>
+                                                    <a href='<?= site_url('article/read/'.$val['seo_url']); ?>' class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                                                 </div>
                                             </div>
                                         </article>
                                     </div>
+                                    <?php endforeach; endif; ?>
                                 </div>
                             </div>
                         </div>

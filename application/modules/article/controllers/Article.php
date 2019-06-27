@@ -11,9 +11,12 @@ class Article extends MX_Controller {
     public function __construct()
     {
         parent::__construct();
-        $this->load->library(array('form_validation', 'general','ion_auth'));
-        // $this->load->helper(array('language', 'form'));
-        $this->load->model('m_general');
+        // load constructor
+        $this->load->library(array(
+            'form_validation', 'general','ion_auth'
+        ));
+
+        $this->load->model(['m_general','Article_model']);
         $this->general->saveVisitor($this, [1, 0]);
         $this->data = array();
         $this->data_header = array();
@@ -27,9 +30,29 @@ class Article extends MX_Controller {
      */
 	public function index()
 	{
+        $this->load->library('pagination');
 		$this->data_header['is_breadcrumb']    = 'block';
         $this->data_header['breadcrumb']       = 'Blog';
         $this->data_header['breadcrumb_child'] = 'Event And News';
+
+        $total_rows = $this->Article_model->count_all_data();
+       
+        $config['base_url']     = site_url('article/index'); //site url
+        $config['total_rows']   =  $total_rows;//total row
+        $config['enable_query_strings'] = TRUE;
+        $config['per_page']     = 5;  //show record per halaman
+        $config["uri_segment"]  = 3;  // uri parameter
+        $choice = $config["total_rows"] / $config["per_page"];
+        $config["num_links"]    = floor($choice);
+        $this->pagination->initialize($config);
+        $offset = ($this->uri->segment(3)) ? $this->uri->segment(3) : 0;
+        
+        
+        $data['limit']  = $config['per_page']; 
+        $data['offset'] = $offset;
+       
+        $this->data['data'] = $this->Article_model->get_all_data($data);
+        $this->data['pagination'] = $this->pagination->create_links();
 
         $this->data_footer['view_js'] = array();
 
@@ -38,64 +61,26 @@ class Article extends MX_Controller {
         $this->load->view(LAYOUT_FRONTEND_FOOTER, $this->data_footer, FALSE);
 	}
 
-	// function sementara
-	public function single_blog_1() 
+
+    /**
+     * [index ui single_blog]
+     * @author didi <[diditriawan13@gmail.com]>
+     * @return void
+     */
+	public function read($seo_url) 
 	{
 		$this->data_header['is_breadcrumb']    = 'block';
         $this->data_header['breadcrumb']       = 'Blog';
         $this->data_header['breadcrumb_child'] = 'Event And News';
+        //
+        $this->data['data'] = $this->Article_model->get_all_data(array(
+            'seo_url' => $seo_url
+        ));
 
-        $this->data_footer['view_js'] = array();
-
-		$this->load->view(LAYOUT_FRONTEND_HEADER, $this->data_header, FALSE);
-        $this->load->view($this->_view.'index_2', $this->data, FALSE);
-        $this->load->view(LAYOUT_FRONTEND_FOOTER, $this->data_footer, FALSE);
-	}
-
-	public function single_blog_2() 
-	{
-		$this->data_header['is_breadcrumb']    = 'block';
-        $this->data_header['breadcrumb']       = 'Blog';
-        $this->data_header['breadcrumb_child'] = 'Event And News';
-
-        $this->data_footer['view_js'] = array();
+        // print_r($this->data);die;
 
 		$this->load->view(LAYOUT_FRONTEND_HEADER, $this->data_header, FALSE);
-        $this->load->view($this->_view.'index_3', $this->data, FALSE);
-        $this->load->view(LAYOUT_FRONTEND_FOOTER, $this->data_footer, FALSE);
-	}
-
-	public function single_blog_3() 
-	{
-		$this->data_header['is_breadcrumb']    = 'block';
-        $this->data_header['breadcrumb']       = 'Blog';
-        $this->data_header['breadcrumb_child'] = 'Event And News';
-
-        $this->data_footer['view_js'] = array();
-		$this->load->view(LAYOUT_FRONTEND_HEADER, $this->data_header, FALSE);
-        $this->load->view($this->_view.'index_4', $this->data, FALSE);
-        $this->load->view(LAYOUT_FRONTEND_FOOTER, $this->data_footer, FALSE);
-	}
-
-	public function single_blog_4() 
-	{
-		$this->data_header['is_breadcrumb']    = 'block';
-        $this->data_header['breadcrumb']       = 'Blog';
-        $this->data_header['breadcrumb_child'] = 'Event And News';
-
-		$this->load->view(LAYOUT_FRONTEND_HEADER, $this->data_header, FALSE);
-        $this->load->view($this->_view.'index_5', $this->data, FALSE);
-        $this->load->view(LAYOUT_FRONTEND_FOOTER, $this->data_footer, FALSE);
-	}
-
-	public function single_blog_5() 
-	{
-		$this->data_header['is_breadcrumb']    = 'block';
-        $this->data_header['breadcrumb']       = 'Blog';
-        $this->data_header['breadcrumb_child'] = 'Event And News';
-
-		$this->load->view(LAYOUT_FRONTEND_HEADER, $this->data_header, FALSE);
-        $this->load->view($this->_view.'index_6', $this->data, FALSE);
+        $this->load->view($this->_view.'single-article', $this->data, FALSE);
         $this->load->view(LAYOUT_FRONTEND_FOOTER, $this->data_footer, FALSE);
 	}
 	// end 

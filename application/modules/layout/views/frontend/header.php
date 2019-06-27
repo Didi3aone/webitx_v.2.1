@@ -89,7 +89,7 @@
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
 													<li class="dropdown dropdown-mega">
-														<a class="dropdown-item dropdown-toggle" href="elements.html">
+														<a class="dropdown-item dropdown-toggle" href="#">
 															SELLER
 														</a>
 														<ul class="dropdown-menu">
@@ -115,7 +115,7 @@
 														</ul>
 													</li>
 													<li class="dropdown dropdown-mega">
-														<a class="dropdown-item dropdown-toggle" href="elements.html">
+														<a class="dropdown-item dropdown-toggle" href="#">
 															BUYER
 														</a>
 														<ul class="dropdown-menu">

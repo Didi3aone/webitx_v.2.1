@@ -42,7 +42,8 @@ class Users extends CI_Controller
         }
 
         usort($data['List'], function($a, $b) {
-            return $a['Group']->id - $b['Group']->id;
+            return $a['Group']->id - $this->ion_auth->user()->row()->id;
+            // return $a['Group']->id - $b['Group']->id;
         });
 
         // echo "<pre>";

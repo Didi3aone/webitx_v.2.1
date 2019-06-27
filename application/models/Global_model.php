@@ -248,7 +248,9 @@ class Global_model extends CI_Model {
 	     */
 		} else if( isset($params['type']) && $params['type'] == "update") {
 
-			$this->_result = $this->db->update($this->_table, $params['datas'], $params['conditions']);
+			return $this->_result = $this->db->update($this->_table, $params['datas'], $params['conditions']);
+			// echo $this->db->last_query();die;
+			
 		} else {
 
 			$this->_conditions   = isset($params['conditions']) ? $params['conditions'] : "";

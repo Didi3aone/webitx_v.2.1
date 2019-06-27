@@ -259,7 +259,7 @@
                                             <div class="modal-body">
                                                 <div style="margin:10px">
                                                     <label>Remark&nbsp;:</label>
-                                                    <input type="text" class="form-control" id="remarkReject"  placeholder="Input reason of rejection...">
+                                                    <input type="text" class="form-control" required id="remarkReject"  placeholder="Input reason of rejection...">
                                                 </div>
                                             </div>
                                             <div class="modal-footer">
@@ -820,7 +820,7 @@
 <?=$ViewFooter?>
 
 <script type="text/javascript">
-  app.controller('UserRequest', function (AngularService, $scope, $filter, $window, $http, $timeout) {
+app.controller('UserRequest', function (AngularService, $scope, $filter, $window, $http, $timeout) {
 
     $scope.init = function() {
     	$scope.AngularService   = AngularService;
@@ -829,6 +829,7 @@
         $scope.loading          = false;
         console.log($scope.List);
     };
+
     (function () {
         // FlightSearch.startLoadingPage("Your transaction is being processed. Please be patient");
         $scope.init();
@@ -864,14 +865,6 @@
             });
         }, 300);
     };
-    
-    // $scope.GoToAddNewUser = function() {
-    //     window.location.href = adminUrl+'users/add';
-    // };
-
-    // $scope.GoToDetailUser = function(UserId) {
-    //     window.location.href = adminUrl+'users/add/'+UserId;
-    // };
 
     $scope.chckPrivId = function(data){
 
@@ -892,15 +885,15 @@
     }
 
     function isSubmitted(arr){
-            var res = true;
-            for(var key in arr){
-                console.log(arr[key].Status)
-                if(arr[key].Status == 'new'){
-                    res = false
-                }
+        var res = true;
+        for(var key in arr){
+            console.log(arr[key].Status)
+            if(arr[key].Status == 'new'){
+                res = false
             }
-            return res;
         }
+        return res;
+    }
     
     $scope.submitDocAll = function(doc, privyid) {
         console.log(privyid);
@@ -934,17 +927,6 @@
 
     $scope.checkDoc = function(data){
 
-        //check if there're submitted doc
-        // function isSubmitted(arr){
-        //     var res = false;
-        //     for(var key in arr){
-        //         console.log(arr[key].Status)
-        //         if(arr[key].Status != 'undefined'){
-        //             res = true
-        //         }
-        //     }
-        //     return res;
-        // }
         var userData = data;
 
         if(!isSubmitted(userData.Document)){
@@ -1003,127 +985,7 @@
                 AngularService.ErrorResponse(err);
             });
     }
-
-    // $scope.acceptSeller = function(user) {
-    //     user['type'] = 'seller'
-    //     var c = confirm("Are you sure you want to accept this request?");
-    //       if(c) {
-    //         AngularService.startLoadingPage();
-    //         $http.post(
-    //             adminUrl+'crud_user/acceptSeller',
-    //             user
-    //         ).then(function successCallback(resp) {
-    //             console.log(resp);
-    //             AngularService.stopLoadingPage();
-    //             if (resp.data['StatusResponse'] == 0) {
-    //                 AngularService.ErrorResponse(resp.data['Message']);
-    //             }
-    //             else if (resp.data['StatusResponse'] == 1) {
-    //                 AngularService.SuccessResponse();
-    //             }
-    //         }, function errorCallback(err) {
-    //             console.log(err);
-    //             AngularService.ErrorResponse(err);
-    //         });
-    //     }
-    // };
-
-    // $scope.rejectSeller = function(UserId) {
-    //     var c = confirm("Are you sure you want to reject this request?");
-    //       if(c) {
-    //         AngularService.startLoadingPage();
-    //         $http.post(
-    //             adminUrl+'crud_user/rejectSeller',
-    //             {'UserId': UserId}
-    //         ).then(function successCallback(resp) {
-    //             console.log(resp);
-    //             AngularService.stopLoadingPage();
-    //             if (resp.data['StatusResponse'] == 0) {
-    //                 AngularService.ErrorResponse(resp.data['Message']);
-    //             }
-    //             else if (resp.data['StatusResponse'] == 1) {
-    //                 AngularService.SuccessResponse();
-    //             }
-    //         }, function errorCallback(err) {
-    //             console.log(err);
-    //             AngularService.ErrorResponse(err);
-    //         });
-    //     }
-    // };
-    
-    // $scope.acceptBuyer = function(user) {
-    //     user['type'] = 'buyer'
-    //     var c = confirm("Are you sure you want to accept this request?");
-
-    //       if(c) {
-    //         AngularService.startLoadingPage();
-    //         $http.post(
-    //             adminUrl+'crud_user/acceptBuyer',
-    //             user
-    //         ).then(function successCallback(resp) {
-    //             console.log(resp);
-    //             AngularService.stopLoadingPage();
-    //             if (resp.data['StatusResponse'] == 0) {
-    //                 AngularService.ErrorResponse(resp.data['Message']);
-    //             }
-    //             else if (resp.data['StatusResponse'] == 1) {
-    //                 AngularService.SuccessResponse();
-    //             }
-    //         }, function errorCallback(err) {
-    //             console.log(err);
-    //             AngularService.ErrorResponse(err);
-    //         });
-    //     }
-    // };
-
-    // $scope.rejectBuyer = function(UserId) {
-    //     var c = confirm("Are you sure you want to reject this request?");
-    //       if(c) {
-    //         AngularService.startLoadingPage();
-    //         $http.post(
-    //             adminUrl+'crud_user/rejectBuyer',
-    //             {'UserId': UserId}
-    //         ).then(function successCallback(resp) {
-    //             console.log(resp);
-    //             AngularService.stopLoadingPage();
-    //             if (resp.data['StatusResponse'] == 0) {
-    //                 AngularService.ErrorResponse(resp.data['Message']);
-    //             }
-    //             else if (resp.data['StatusResponse'] == 1) {
-    //                 AngularService.SuccessResponse();
-    //             }
-    //         }, function errorCallback(err) {
-    //             console.log(err);
-    //             AngularService.ErrorResponse(err);
-    //         });
-    //     }
-    // };
-
-    // $scope.submitDoc = function(doc) {
-    //     var c = confirm("Are you sure you want to submit this document?");
-    //       if(c) {
-    //         AngularService.startLoadingPage();
-    //         $http.post(
-    //             adminUrl+'crud_user/submitDokumen',
-    //             doc
-    //         ).then(function successCallback(resp) {
-    //             console.log(resp);
-    //             AngularService.stopLoadingPage();
-    //             if (resp.data['StatusResponse'] == 0) {
-    //                 AngularService.ErrorResponse(resp.data['Message']);
-    //             }
-    //             else if (resp.data['StatusResponse'] == 1) {
-    //                 AngularService.SuccessResponse();
-    //             }
-    //         }, function errorCallback(err) {
-    //             console.log(err);
-    //             AngularService.ErrorResponse(err);
-    //         });
-    //     }
-    // };
-
-
-  }); // --- end angular controller --- //
+}); // --- end angular controller --- //
 </script>
 
 </body>

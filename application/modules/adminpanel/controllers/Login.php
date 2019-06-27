@@ -14,13 +14,14 @@ class Login extends CI_Controller
         if ($this->ion_auth->is_admin())
             redirect(base_url('adminpanel/dashboard'));
 
-        $data['MasterGeneral']         = $this->m_get->getRowDynamic([
+        $data['MasterGeneral'] = $this->m_get->getRowDynamic([
             'select'    => 'favicon, logo',
             'from'      => 'v2_master_landingpage',
             'where'     => [
                 'id' => 1
             ]
         ]);
+
         $this->load->view('adminpanel/template/login', $data);
     }
 
