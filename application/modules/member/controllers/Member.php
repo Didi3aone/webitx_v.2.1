@@ -1558,7 +1558,7 @@ class Member extends MX_Controller
 
                 $this->db->trans_begin();
                 
-                if( $data['id_seller'] == "" ) {
+                // if( $data['id_seller'] == "" ) {
 
                     //get existing doc
                     $get_doc_pdf = $this->Global_model->set_model('users_document_det','ud','doc_id')->mode(array(
@@ -1628,7 +1628,7 @@ class Member extends MX_Controller
                         $message['redirect_to']     = '';
                     }
                 }
-            }
+            // }
         }
         
         $this->output->set_content_type('application/json');
