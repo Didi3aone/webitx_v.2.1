@@ -1,5 +1,6 @@
 <?php
 
+// use namespace 
 use Dompdf\Dompdf;
 /**
  * @package Member
@@ -99,7 +100,7 @@ class Member extends MX_Controller
     {
         // redirect them to the login page if not logged in or is login as admin
         if ( !$this->ion_auth->logged_in() || $this->ion_auth->user()->row()->type < 5 )
-            redirect(base_url('login'), 'refresh');
+            redirect(base_url(), 'refresh');
 
         //get id user login
         $user_id = $this->ion_auth->user()->row()->id;

@@ -181,7 +181,6 @@ class Users extends CI_Controller
             }
 
             $doc = $this->db->query("select * from users_document_det where user_id='".$value->id."' and request_type = '".$reqType."'")->result();
-            // echo json_encode($doc);die();
             if($doc){
                 foreach($doc as $k => $v){
                     $sign = $this->db->query('select * from users_privyid_doc where user_id = "'.$value->id.'" and doc_id = "'.$v->doc_id.'"')->row();
@@ -191,7 +190,6 @@ class Users extends CI_Controller
                         'Name'      => $v->doc_name,
                         'Url'       => base_url().'assets/generate_pdf/'.$v->doc_name,
                         'SignUrl'   => $sign ? ($sign->doc_url ? $sign->doc_url : 'empty') : 'empty',
-                        // 'Type'      => $v->type,
                         'Status'    => $v->status,
                         'PrivyId'   => $User['PrivyId']
                         // 'Owner'     => [
@@ -216,6 +214,7 @@ class Users extends CI_Controller
                     // }
                 }
             }
+
             $data['List'][] = $User;
             $this->privyUserStatus($User['UserId'], $User['ReqType'], $User['Status']);
             // echo json_encode($value);
